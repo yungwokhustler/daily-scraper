@@ -7,18 +7,18 @@ import pandas as pd
 from dotenv import load_dotenv
 
 from src.classification import LLMClassifier
-from src.config.database import insert_log_runs_batch, get_all_sources
+from src.config.database import SupabaseDB
 from src.scraper.telegram_scrap import TelegramScraper
 from src.logger import get_logger
 from src.notification import send_dataframe_to_telegram, send_notify_telegram, send_error_to_telegram
 from src.utils import scrape_all_sources
-from src.config.database import test_connection
 
 load_dotenv()
 logger = get_logger("Main")
 
 
 async def main():
+
     session_name = os.getenv("TELEGRAM_SESSION_NAME", "telegram_session")
     session_file = f"{session_name}.session"
     if not os.path.exists(session_file):
@@ -26,12 +26,17 @@ async def main():
         logger.error(error_msg)
         await send_error_to_telegram(error_msg)
         raise RuntimeError(error_msg)
-    await test_connection()
+
+    # Database Init
+    db = SupabaseDB()
+    await db.initialize()
+
+    # Telegram Init
     tg_scraper = TelegramScraper()
     client = await tg_scraper.login()
 
     try:
-        dt = await get_all_sources()
+        dt = await db.get_all_sources()
 
         dt = pd.DataFrame(data=dt)
 
@@ -57,7 +62,7 @@ async def main():
                                                           max_concurrent=10)
         # Classification
         classification_class = LLMClassifier()
-        df = await classification_class.classify(df=df_combined, batch_size=12, max_concurrent=5)
+        df = await classification_class.classify(df=df_combined, batch_size=10, max_concurrent=5)
 
         df_merged = pd.merge(df_combined, df, on=["id", "platform"], how="left")
 
@@ -85,18 +90,18 @@ async def main():
         # Log Summery
         total_pulled = sum(log["pulled"] for log in run_stats)
         total_kept = sum(log["kept"] for log in run_stats)
-        logger.info(f"📊 TOTAL → Pulled: {total_pulled} | Kept: {total_kept}")
-        await send_notify_telegram(f"📊 TOTAL → Pulled: {total_pulled} | Kept: {total_kept}")
-        # await send_dataframe_to_telegram(df_combined, today)
+        logger.info(f"📊 [TOTAL]  Pulled: {total_pulled} | Kept: {total_kept}")
+        await send_notify_telegram(f"📊 [TOTAL] Pulled: {total_pulled} | Kept: {total_kept}")
         await send_dataframe_to_telegram(df_merged, today)
 
         # Save to database
         if run_stats:
-            await insert_log_runs_batch(run_stats)
+            await db.insert_log_runs_batch(run_stats)
         else:
             logger.warning("⚠️ No scraping stats collected.")
 
     finally:
+        await db.close()
         await tg_scraper.close()
 
 

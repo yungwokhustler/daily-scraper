@@ -6,7 +6,7 @@ from openai import AsyncOpenAI
 from dotenv import load_dotenv
 
 from src.logger import get_logger
-from src.notification import send_error_to_telegram
+from src.notification import send_error_to_telegram, send_notify_telegram
 
 load_dotenv()
 

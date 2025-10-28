@@ -2,7 +2,7 @@ name: Daily Web3 Message Scraper & Classifier
 
 on:
   schedule:
-    - cron: '0 5 * * *'  #  '0 1 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
@@ -58,4 +58,4 @@ jobs:
         with:
           name: daily-output-${{ github.run_id }}
           path: out/
-          retention-days: 7
+          retention-days: 90

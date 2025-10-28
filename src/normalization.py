@@ -1,4 +1,14 @@
+import re
+
 from cleantext import clean
+
+_LOW_VALUE_PHRASES = {
+    "selamat pagi", "selamat siang", "selamat sore", "selamat malam",
+    "gm", "gn", "gmn", "hai", "halo", "hello", "hi", "ok", "oke", "yes", "no",
+    "good morning", "good night", "good evening", "pagi", "siang", "sore", "malam",
+    "hehe", "haha", "wkwk", "hmm", "hm", "ya", "iya", "enggak", "nggak",
+    "mantap", "sip"
+}
 
 
 def filter_text(text: str) -> str:
@@ -17,7 +27,28 @@ def filter_text(text: str) -> str:
         no_digits=False,
         no_currency_symbols=False,
         no_punct=False,
-        lang="en"
+        lang="en",
     )
 
     return cleaned_content
+
+def is_low_value_message(text: str) -> bool:
+    if not text or not text.strip():
+        return True
+
+    cleaned = re.sub(r"[^\w\s]", "", text.strip().lower())
+    words = cleaned.split()
+    if not words:
+        return True
+
+    full_phrase = " ".join(words)
+
+    if len(words) == 1 and words[0] in _LOW_VALUE_PHRASES:
+        return True
+
+    if 2 <= len(words) <= 3 and full_phrase in _LOW_VALUE_PHRASES:
+        return True
+
+    return False
+
+    return False

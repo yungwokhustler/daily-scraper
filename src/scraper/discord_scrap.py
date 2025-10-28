@@ -8,7 +8,7 @@ from dotenv import load_dotenv
 from src.logger import get_logger
 from src.types import ScrapeStats
 from src.notification import send_error_to_telegram
-from src.normalization import filter_text
+from src.normalization import filter_text, is_low_value_message
 
 load_dotenv()
 
@@ -120,6 +120,9 @@ class DiscordScraper:
 
         for msg in all_messages:
             raw_content = msg.get("content", "") or ""
+
+            if is_low_value_message(raw_content):
+                continue
 
             text_clean = filter_text(raw_content)
 

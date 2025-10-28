@@ -65,8 +65,6 @@ async def scrape_all_sources(
 
                 all_stats.append(stats)
 
-                await send_notify_telegram(
-                    f"📊 [Discord: {channel_id}\n] Pulled: Pulled: {stats['pulled']} | Kept: {stats['kept']}")
                 if not df_discord.empty:
                     all_dfs.append(df_discord)
             except Exception as e:
@@ -90,8 +88,6 @@ async def scrape_all_sources(
 
                 all_stats.append(stats)
 
-                await send_notify_telegram(
-                    f"📊 [Telegram: {group_id}\n] Pulled: Pulled: {stats['pulled']} | Kept: {stats['kept']}")
                 if not df_telegram.empty:
                     all_dfs.append(df_telegram)
             except Exception as e:
@@ -113,8 +109,6 @@ async def scrape_all_sources(
 
                 title_elfa = get_endpoint_name(endpoint_url)
 
-                await send_notify_telegram(
-                    f"📊 [Elfa: {title_elfa}\n] Pulled: Pulled: {stats['pulled']} | Kept: {stats['kept']}")
                 if not df_elfa.empty:
                     all_dfs.append(df_elfa)
             except Exception as e:

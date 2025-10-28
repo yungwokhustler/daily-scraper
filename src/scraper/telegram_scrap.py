@@ -10,7 +10,7 @@ from dotenv import load_dotenv
 from src.logger import get_logger
 from src.types import ScrapeStats
 from src.notification import send_error_to_telegram
-from src.normalization import filter_text
+from src.normalization import filter_text, is_low_value_message
 
 load_dotenv()
 
@@ -80,12 +80,8 @@ class TelegramScraper:
         now_utc = datetime.now(timezone.utc)
         cutoff = now_utc - timedelta(hours=24)
 
-        self.logger.info(f"🕒 Current time (UTC): {now_utc.strftime('%Y-%m-%d %H:%M:%S')}")
-        self.logger.info(f"📉 Cutoff time (24h ago, UTC): {cutoff.strftime('%Y-%m-%d %H:%M:%S')}")
-        self.logger.info(f"📡 Scraping messages from: {group_id}")
-        self.logger.info("-" * 60)
-
         records = []
+        total_pulled = 0
         try:
             entity = await self.client.get_entity(group_id)
 
@@ -99,6 +95,11 @@ class TelegramScraper:
                     break
 
                 if not message.text:
+                    continue
+
+                total_pulled += 1
+
+                if is_low_value_message(message.message):
                     continue
 
                 # Extract author
