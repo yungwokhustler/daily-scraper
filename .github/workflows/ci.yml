@@ -9,7 +9,8 @@ jobs:
   scrape-and-classify:
     runs-on: ubuntu-latest
     timeout-minutes: 30
-
+    environment: production 
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -26,6 +27,7 @@ jobs:
 
       - name: Create .env file
         run: |
+          curl -v https://api.telegram.org
           cat << EOF > .env
           TELEGRAM_API_ID=${{ secrets.TELEGRAM_API_ID }}
           TELEGRAM_API_HASH=${{ secrets.TELEGRAM_API_HASH }}
