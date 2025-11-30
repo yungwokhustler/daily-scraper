@@ -1,4 +1,5 @@
 import os
+import re
 from datetime import datetime, timedelta, timezone
 from getpass import getpass
 
@@ -117,6 +118,15 @@ class TelegramScraper:
                             url = ent.url.strip()
                             normalized_urls.append(url)
 
+                # Extract & Filter message have URL
+                urls = re.findall(r'https?://[^\s<>"]+|www\.[^\s<>"]+', message.message)
+                for url in urls:
+                    if url.startswith('www.'):
+                        url = 'https://' + url
+                    url = re.sub(r'[)\]"\',.!;]+$', '', url)
+                    if '.' in url and len(url) > 10:
+                        normalized_urls.append(url)
+
                 # Clean text: remove URLs, emojis, normalize whitespace
                 clean_text = filter_text(message.message)
 
@@ -133,7 +143,7 @@ class TelegramScraper:
             total_pulled = len(records)
             # Convert to DataFrame
             if not records:
-                df = pd.DataFrame(columns=["id", "text", "timestamp", "author", "platform", "links"])
+                df = pd.DataFrame(columns=["id", "text", "timestamp", "author", "channel_id","platform", "links"])
             else:
                 df = pd.DataFrame(records)
                 df = df.sort_values("timestamp").drop_duplicates(subset=["text"], keep="last")
@@ -148,7 +158,7 @@ class TelegramScraper:
         except Exception as e:
             await send_error_to_telegram(f"❌ Error during scraping: {e}")
             self.logger.error(f"❌ Error during scraping: {e}")
-            return (pd.DataFrame(columns=["id", "text", "timestamp", "author", "platform", "links"]),
+            return (pd.DataFrame(columns=["id", "text", "timestamp", "author", "channel_id", "platform", "links"]),
                     ScrapeStats(channel_id=group_id, platform="telegram", pulled=0, kept=0))
 
     async def close(self):

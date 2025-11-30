@@ -91,7 +91,7 @@ EXAMPLE JSON OUTPUT:
                         {"role": "system", "content": self.system_prompt},
                         {"role": "user", "content": user_prompt}
                     ],
-                    timeout=30
+                    timeout=60
                 )
 
                 content = response.choices[0].message.content.strip()

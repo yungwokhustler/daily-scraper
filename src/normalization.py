@@ -20,13 +20,14 @@ def filter_text(text: str) -> str:
         no_line_breaks=True,
         normalize_whitespace=True,
         no_emoji=True,
-        no_urls=False,
+        no_urls=True,
         no_emails=False,
         no_phone_numbers=False,
         no_numbers=False,
         no_digits=False,
         no_currency_symbols=False,
         no_punct=False,
+        replace_with_url="",
         lang="en",
     )
 
@@ -48,7 +49,5 @@ def is_low_value_message(text: str) -> bool:
 
     if 2 <= len(words) <= 3 and full_phrase in _LOW_VALUE_PHRASES:
         return True
-
-    return False
 
     return False
