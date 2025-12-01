@@ -147,7 +147,7 @@ async def scrape_all_sources(
     else:
         await send_error_to_telegram("⚠️ No messages collected from any source.")
         logger.warning("⚠️ No messages collected from any source.")
-        return pd.DataFrame(columns=["id", "text", "timestamp", "author", "source", "links"]), all_stats
+        return pd.DataFrame(columns=["id", "text", "timestamp", "author", "channel_id", "links"]), all_stats
 
 
 def is_valid_endpoint_path(path_and_query: str) -> str:
