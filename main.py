@@ -62,7 +62,7 @@ async def main():
         )
         today = datetime.now().strftime("%Y-%m-%d")
         os.makedirs("out", exist_ok=True)
-        output_path = f"out/{today}.json"
+        output_path = f"out/{today}-crypto_tg_news.json"
 
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(json_output)

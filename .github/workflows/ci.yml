@@ -2,7 +2,7 @@ name: Daily Web3 Message Scraper & Classifier
 
 on:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '30 0 * * *'  # Target 0800 WIB — scheduled 30min early to compensate for GH Actions cron delay
   workflow_dispatch:
 
 jobs:
