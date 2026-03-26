@@ -35,6 +35,7 @@ class LLMClassifier:
         # ]
         # {', '.join(self.allowed_tags)}
 
+        self.client = AsyncOpenAI(api_key=self.api_key, base_url=self.base_url)
         self.system_prompt = self.build_system_prompt()
 
     def build_system_prompt(self) -> str:
@@ -81,11 +82,10 @@ EXAMPLE JSON OUTPUT:
     async def _classify_batch(self, batch: list[dict]) -> list[dict]:
         """Classify a single batch of messages using DeepSeek API."""
         user_prompt = json.dumps(batch, ensure_ascii=False)
-        client = AsyncOpenAI(api_key=self.api_key, base_url=self.base_url)
 
         for attempt in range(3):
             try:
-                response = await client.chat.completions.create(
+                response = await self.client.chat.completions.create(
                     model=self.model,
                     messages=[
                         {"role": "system", "content": self.system_prompt},
@@ -99,16 +99,17 @@ EXAMPLE JSON OUTPUT:
                 if isinstance(result, list) and len(result) == len(batch):
                     return result
             except Exception as e:
-                print(f"⚠️ Retry {attempt + 1}/3: {e}")
+                self.logger.warning(f"⚠️ Retry {attempt + 1}/3: {e}")
                 await asyncio.sleep(2 ** attempt)
-                # Fallback
-            return [{
-                "id": item["id"],
-                "platform": item["platform"],
-                "keep": "false",
-                "score": "0.0",
-                "tags": []
-            } for item in batch]
+
+        # Fallback after all retries exhausted
+        return [{
+            "id": item["id"],
+            "platform": item["platform"],
+            "keep": "false",
+            "score": "0.0",
+            "tags": []
+        } for item in batch]
 
     async def classify(self, df: pd.DataFrame, batch_size: int = 250, max_concurrent: int = 3) -> pd.DataFrame:
         """

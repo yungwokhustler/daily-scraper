@@ -51,20 +51,6 @@ class SupabaseDB:
                 self._pool = None
 
 
-    async def get_all_sources(self) -> List[Dict[str, Any]]:
-        """Fetch all records from the 'sources' table."""
-        if self._pool is None:
-            raise RuntimeError("Database pool not initialized. Call .initialize() first.")
-
-        try:
-            async with self._pool.acquire() as conn:
-                rows = await conn.fetch("SELECT id, channel_id, platform, channel_name FROM sources")
-                return [dict(row) for row in rows]
-        except Exception as e:
-            logger.error(f"❌ Failed to fetch sources: {e}")
-            await send_error_to_telegram(f"❌ DB: Failed to fetch sources: {e}")
-            raise
-
     async def insert_log_runs_batch(self, logs: List[ScrapeStats]) -> None:
         """Insert multiple log entries into 'logs_runs' table."""
         if not logs:

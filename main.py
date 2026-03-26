@@ -8,9 +8,10 @@ from dotenv import load_dotenv
 
 from src.classification import LLMClassifier
 from src.config.database import SupabaseDB
+from src.config.sources import get_all_sources
 from src.scraper.telegram_scrap import TelegramScraper
 from src.logger import get_logger
-from src.notification import send_dataframe_to_telegram, send_notify_telegram, send_error_to_telegram
+from src.notification import send_dataframe_to_telegram, send_notify_telegram, send_error_to_telegram, close_notification_session
 from src.utils import scrape_all_sources
 
 load_dotenv()
@@ -27,33 +28,18 @@ async def main():
         await send_error_to_telegram(error_msg)
         raise RuntimeError(error_msg)
 
-    # Database Init
-    db = SupabaseDB()
-    await db.initialize()
+    # Load sources from CSV (no DB needed)
+    sources = get_all_sources()
+    list_channel_id_elfa = [s["channel_id"] for s in sources if s["platform"] == "elfa"]
+    list_channel_id_discord = [s["channel_id"] for s in sources if s["platform"] == "discord"]
+    list_channel_id_telegram = [s["channel_id"] for s in sources if s["platform"] == "telegram"]
 
     # Telegram Init
     tg_scraper = TelegramScraper()
     client = await tg_scraper.login()
 
+    db = None
     try:
-        dt = await db.get_all_sources()
-
-        dt = pd.DataFrame(data=dt)
-
-        # elfa
-        list_channel_id_elfa: list[str] = (dt.query("platform == 'elfa'")
-                                           ["channel_id"].
-                                           astype(str).tolist())
-
-        # Discord
-        list_channel_id_discord: list[str] = (dt.query("platform == 'discord'")
-                                              ["channel_id"].
-                                              astype(str).tolist())
-
-        # telegram
-        list_channel_id_telegram: list[str] = (dt.query("platform == 'telegram'")
-                                               ["channel_id"].
-                                               astype(str).tolist())
 
         df_combined, run_stats = await scrape_all_sources(telethon_client=client,
                                                           telegram_groups=list_channel_id_telegram,
@@ -88,15 +74,18 @@ async def main():
         await send_notify_telegram(f"📊 [TOTAL] Pulled: {total_pulled} | Kept: {total_kept}")
         await send_dataframe_to_telegram(df_merged, today)
 
-        # Save to database
+        # Save to database (lazy init — only connect when we need to log)
         if run_stats:
+            db = SupabaseDB()
+            await db.initialize()
             await db.insert_log_runs_batch(run_stats)
+            await db.close()
         else:
             logger.warning("⚠️ No scraping stats collected.")
 
     finally:
-        await db.close()
         await tg_scraper.close()
+        await close_notification_session()
 
 
 if __name__ == "__main__":

@@ -14,6 +14,23 @@ logger = get_logger(__name__)
 BOT_TOKEN = os.getenv("NOTIF_BOT_TOKEN")
 CHAT_ID = os.getenv("NOTIF_CHAT_ID")
 
+# Shared session — lazily created, reused across all notification calls
+_session: aiohttp.ClientSession | None = None
+
+
+async def _get_session() -> aiohttp.ClientSession:
+    global _session
+    if _session is None or _session.closed:
+        _session = aiohttp.ClientSession()
+    return _session
+
+
+async def close_notification_session() -> None:
+    global _session
+    if _session and not _session.closed:
+        await _session.close()
+        _session = None
+
 
 async def send_dataframe_to_telegram(df: pd.DataFrame, name_data: str = "data") -> bool:
     """
@@ -35,27 +52,24 @@ async def send_dataframe_to_telegram(df: pd.DataFrame, name_data: str = "data") 
         data = df.to_dict(orient="records")
         json_bytes = json.dumps(data, indent=4, ensure_ascii=False, default=str).encode("utf-8")
 
-        # Prepare API URL
         url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendDocument"
-
-        # Send document via aiohttp
-        async with aiohttp.ClientSession() as session:
-            form = aiohttp.FormData()
-            form.add_field("chat_id", CHAT_ID)
-            form.add_field(
-                "document",
-                json_bytes,
-                filename=f"{name_data}.json",
-                content_type="application/json"
-            )
-            async with session.post(url, data=form) as response:
-                if response.status == 200:
-                    logger.info("✅ JSON file successfully sent to Telegram.")
-                    return True
-                else:
-                    error_text = await response.text()
-                    logger.error(f"❌ Failed to send file. Telegram API response: {error_text}")
-                    return False
+        session = await _get_session()
+        form = aiohttp.FormData()
+        form.add_field("chat_id", CHAT_ID)
+        form.add_field(
+            "document",
+            json_bytes,
+            filename=f"{name_data}.json",
+            content_type="application/json"
+        )
+        async with session.post(url, data=form) as response:
+            if response.status == 200:
+                logger.info("✅ JSON file successfully sent to Telegram.")
+                return True
+            else:
+                error_text = await response.text()
+                logger.error(f"❌ Failed to send file. Telegram API response: {error_text}")
+                return False
 
     except Exception as e:
         logger.error(f"❌ Exception while sending file DataFrame to Telegram: {e}")
@@ -84,15 +98,15 @@ async def send_error_to_telegram(error_message: str) -> bool:
     }
 
     try:
-        async with aiohttp.ClientSession() as session:
-            async with session.post(url, json=payload) as response:
-                if response.status == 200:
-                    logger.info("✅ Error notification sent to Telegram.")
-                    return True
-                else:
-                    error_text = await response.text()
-                    logger.error(f"❌ Failed to send error message. Telegram API response: {error_text}")
-                    return False
+        session = await _get_session()
+        async with session.post(url, json=payload) as response:
+            if response.status == 200:
+                logger.info("✅ Error notification sent to Telegram.")
+                return True
+            else:
+                error_text = await response.text()
+                logger.error(f"❌ Failed to send error message. Telegram API response: {error_text}")
+                return False
 
     except Exception as e:
         logger.error(f"❌ Exception while sending error to Telegram: {e}")
@@ -101,10 +115,10 @@ async def send_error_to_telegram(error_message: str) -> bool:
 
 async def send_notify_telegram(message: str) -> bool:
     """
-    Send an error notification to a Telegram chat using a bot.
+    Send a notification to a Telegram chat using a bot.
 
     Args:
-        message (str): The error message to send.
+        message (str): The message to send.
 
     Returns:
         bool: True if successful, False otherwise.
@@ -121,15 +135,15 @@ async def send_notify_telegram(message: str) -> bool:
     }
 
     try:
-        async with aiohttp.ClientSession() as session:
-            async with session.post(url, json=payload) as response:
-                if response.status == 200:
-                    logger.info("✅ Message notification sent to Telegram.")
-                    return True
-                else:
-                    error_text = await response.text()
-                    logger.error(f"❌ Failed to send error message. Telegram API response: {error_text}")
-                    return False
+        session = await _get_session()
+        async with session.post(url, json=payload) as response:
+            if response.status == 200:
+                logger.info("✅ Message notification sent to Telegram.")
+                return True
+            else:
+                error_text = await response.text()
+                logger.error(f"❌ Failed to send error message. Telegram API response: {error_text}")
+                return False
 
     except Exception as e:
         logger.error(f"❌ Exception while sending error to Telegram: {e}")
