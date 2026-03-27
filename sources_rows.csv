@@ -1,6 +1,5 @@
 id,channel_id,platform,channel_name
 1,/event-summary?keywords=Hyperliquid%2CHYPE%2CHyperEVM%2CHIP-3%2CHyperliquidX%2Chouse%20of%20all%20finance&timeWindow=24h&searchType=or,elfa,Hyperliquid
-3,/trending-narratives?timeFrame=day&maxNarratives=20&maxTweetsPerNarrative=20,elfa,trending-narratives
 20,c4dotgg,telegram,@C4dotgg
 21,chungdailynote,telegram,@chungdailynote
 22,TreeNewsFeed,telegram,@TreeNewsFeed
@@ -19,7 +18,6 @@ id,channel_id,platform,channel_name
 35,chaincatalystlaunchy,telegram,@chaincatalystlaunchy
 36,HypurrLiquidCalls,telegram,@HypurrLiquidCalls
 37,leftcurvemaxing,telegram,@leftcurvemaxing
-39,bestyieldsai,telegram,@bestyieldsai
 40,y22_trades,telegram,@y22_trades
 41,smolinsanity,telegram,@smolinsanity
 42,MaestroMonologues,telegram,@MaestroMonologues

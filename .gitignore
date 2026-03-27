@@ -45,8 +45,7 @@ Thumbs.db
 #*.session
 #*.session-journal
 
-# Output data (opsional — jika tidak ingin commit hasil harian)
-out/
+# Output data
 results/
 data/
 
