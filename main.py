@@ -7,7 +7,6 @@ import pandas as pd
 from dotenv import load_dotenv
 
 from src.classification import LLMClassifier
-from src.config.database import SupabaseDB
 from src.config.sources import get_all_sources
 from src.scraper.telegram_scrap import TelegramScraper
 from src.logger import get_logger
@@ -38,7 +37,6 @@ async def main():
     tg_scraper = TelegramScraper()
     client = await tg_scraper.login()
 
-    db = None
     try:
 
         df_combined, run_stats = await scrape_all_sources(telethon_client=client,
@@ -74,14 +72,6 @@ async def main():
         await send_notify_telegram(f"📊 [TOTAL] Pulled: {total_pulled} | Kept: {total_kept}")
         await send_dataframe_to_telegram(df_merged, today)
 
-        # Save to database (lazy init — only connect when we need to log)
-        if run_stats:
-            db = SupabaseDB()
-            await db.initialize()
-            await db.insert_log_runs_batch(run_stats)
-            await db.close()
-        else:
-            logger.warning("⚠️ No scraping stats collected.")
 
     finally:
         await tg_scraper.close()
