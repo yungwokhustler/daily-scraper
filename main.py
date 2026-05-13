@@ -10,7 +10,7 @@ from src.classification import LLMClassifier
 from src.config.sources import get_all_sources
 from src.scraper.telegram_scrap import TelegramScraper
 from src.logger import get_logger
-from src.notification import send_dataframe_to_telegram, send_notify_telegram, send_error_to_telegram, close_notification_session
+from src.notification import send_error_to_telegram, close_notification_session
 from src.utils import scrape_all_sources
 
 load_dotenv()
@@ -29,7 +29,6 @@ async def main():
 
     # Load sources from CSV (no DB needed)
     sources = get_all_sources()
-    list_channel_id_elfa = [s["channel_id"] for s in sources if s["platform"] == "elfa"]
     list_channel_id_discord = [s["channel_id"] for s in sources if s["platform"] == "discord"]
     list_channel_id_telegram = [s["channel_id"] for s in sources if s["platform"] == "telegram"]
 
@@ -41,7 +40,6 @@ async def main():
 
         df_combined, run_stats = await scrape_all_sources(telethon_client=client,
                                                           telegram_groups=list_channel_id_telegram,
-                                                          elfa_endpoints=list_channel_id_elfa,
                                                           discord_channels=list_channel_id_discord,
                                                           max_concurrent=10)
         # Classification
@@ -69,9 +67,6 @@ async def main():
         total_pulled = sum(log["pulled"] for log in run_stats)
         total_kept = sum(log["kept"] for log in run_stats)
         logger.info(f"📊 [TOTAL]  Pulled: {total_pulled} | Kept: {total_kept}")
-        await send_notify_telegram(f"📊 [TOTAL] Pulled: {total_pulled} | Kept: {total_kept}")
-        await send_dataframe_to_telegram(df_merged, today)
-
 
     finally:
         await tg_scraper.close()
