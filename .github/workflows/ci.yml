@@ -2,7 +2,7 @@ name: Daily Web3 Message Scraper & Classifier
 
 on:
   schedule:
-    - cron: '30 0 * * *'  # Target 0800 WIB — scheduled 30min early to compensate for GH Actions cron delay
+    - cron: '5 0 * * *'  # 00:05 UTC. Target push <0820 WIB before the 0840 local sync; GH Actions adds ~50-70min delay
   workflow_dispatch:
 
 permissions:
