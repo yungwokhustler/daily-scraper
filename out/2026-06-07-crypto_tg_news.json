@@ -1,0 +1,848 @@
+[
+  {
+    "id": 24652,
+    "text_x": "Highlight Clip CZ: What Would It Take for Aster to Beat Hyperliquid? (ARCHIVE FOOTAGE ) In an October 11, 2025 interview on the Threadguy channel, when asked what Aster needs to do to surpass Hyperliquid, Binance founder Changpeng Zhao (CZ) stated that the two are not simply competitors, but serve different use cases. Hyperliquid is suited for \"open, fully visible trading,\" while Aster is more open in privacy and native asset deposits, going beyond a BNB Chain-only Perp DEX.He noted both are relatively new, so the future remains uncertain and could shift to new entrants. \" — link",
+    "timestamp": "2026-06-06 23:37:34+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links_x": [
+      "https://x.com/WuBlockchain/status/2063330834107531576",
+      "https://wublockchain.xyz/news/news-19456"
+    ],
+    "score": "0.75",
+    "tags": [
+      "product"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 24651,
+    "text_x": "Zooko Wilcox: Users Cannot Independently Verify Whether ZEC Supply Was Affected by Potential Exploitation of Orchard Vulnerability Shielded Labs and other Zcash ecosystem participants have proposed the Ironwood network upgrade, acknowledging that users currently cannot independently verify whether ZEC's circulating supply was affected by potential exploitation of the recently disclosed Orchard counterfeiting vulnerability. The team said it believes exploitation of the vulnerability is unlikely, but cannot conclusively rule it out. The proposed upgrade would restore users' ability to verify Zcash's circulating supply through consensus rules by creating a new shielded pool and preventing the existing Orchard pool from creating new outputs. A timeline for deployment has not yet been determined. — link",
+    "timestamp": "2026-06-06 18:21:52+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links_x": [
+      "https://wublockchain.xyz/news/news-19455"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "governance"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 19430,
+    "text_x": "2011 Bitcoin wallet moves 35.55 BTC after OP_RETURN notice in Noah Doe's $285B abandoned-BTC lawsuit - Coindesk $BTC, Bitcoin, Wallet @Benthic_Bot @Benthic_Bot: A Bitcoin address dormant since March 2011 moved 35.55 BTC worth about $2.54M on June 2, sending 15 BTC to a new address and leaving 20.55 BTC as c...",
+    "timestamp": "2026-06-06 18:13:42+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253752?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/216/btc",
+      "https://leviathannews.xyz/t/217/bitcoin",
+      "https://leviathannews.xyz/t/966/wallet"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 19429,
+    "text_x": "RARI Chain to sunset, asks users to bridge assets back to Ethereum by June 14 - 𝕏/@RariChain Ethereum @Benthic_Bot @Benthic_Bot: RARI Chain says it will begin sunsetting as RARI redirects resources toward creator economy work and away from maintaining a separate chain. Users ...",
+    "timestamp": "2026-06-06 18:13:41+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253779?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/232/ethereum"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "product"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 14610,
+    "text_x": "Trump Says His Team Will 'Look Into' US Taking Stake in AI Companies > Trump told reporters on Friday that his team is looking into the idea of AI companies giving the American public a ​stake in their firms. > He added that he planned to host a ‌meeting with AI executives as soon as next week. Source:",
+    "timestamp": "2026-06-06 16:21:01+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links_x": [
+      "https://www.reuters.com/business/trump-says-his-team-will-look-into-us-taking-stake-ai-companies-2026-06-05/"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 14609,
+    "text_x": "Michael Saylor: AI Buildout is Absorbing Capital at Historic Scale, But Doesn't Weaken Bitcoin > \"The AI buildout is absorbing capital at historic scale, creating temporary pressure across global markets. That does not weaken Bitcoin.\" > \"It strengthens the case for scarce, liquid, digital capital. Bitcoin remains the premier asset for the long term\" Source:",
+    "timestamp": "2026-06-06 15:35:36+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links_x": [
+      "https://x.com/saylor/status/2063241214552420656"
+    ],
+    "score": "0.75",
+    "tags": [
+      "news"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 2348,
+    "text_x": "June 6 Don't forget to follow my Twitter and C4's. Here's what's happening today: [Project Updates] - @zodl_co proposes ZEC network upgrade & shielded pool \"Ironwood\" - @rarichain sunsetting - @apyx_fi pulling POL while US markets are closed [Threads/Reads] - @tulipking shares some trading lesson on Zcash New Projects Hisoka | Base | Privacy Website Kairo Finance | Solana | AI Agents Toqen | Kanarie | API Lexur Labs | Solana | Perp Infrastructure Launches None",
+    "timestamp": "2026-06-06 15:12:11+00:00",
+    "author": "admin#1542659551",
+    "channel_id": "c4dotgg",
+    "platform": "telegram",
+    "links_x": [
+      "https://x.com/CJCJCJCJ_",
+      "https://x.com/c4dotgg",
+      "https://x.com/zodl_co/status/2063262232184795323",
+      "https://x.com/rarichain/status/2062579818181362055",
+      "https://x.com/apyx_fi/status/2063055311594795272",
+      "https://x.com/tulipking/status/2062954252973044125",
+      "https://x.com/hisoka_labs",
+      "http://hisoka.io/",
+      "https://x.com/Kairo_Finance",
+      "https://x.com/Toqenfi",
+      "https://x.com/tryKanarie",
+      "https://x.com/LexurLabs"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "product",
+      "governance"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 23266,
+    "text_x": "AI slops?",
+    "timestamp": "2026-06-06 15:08:33+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links_x": [],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 14608,
+    "text_x": "ZODL Proposes Ironwood: A New Shielded Pool for Zcash > Ironwood is a new Zcash shielded pool that uses the existing Orchard protocol but backed by formal verification, independent audits, and a supply-auditing turnstile. > The total supply moved from Orchard to Ironwood will be verified by the turnstile, allowing anyone to audit Zcash's circulating supply. > Its activation is targeted for late July 2026 Source:",
+    "timestamp": "2026-06-06 14:52:18+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links_x": [
+      "https://x.com/zodl_co/status/2063262232184795323"
+    ],
+    "score": "0.90",
+    "tags": [
+      "governance",
+      "security"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 14607,
+    "text_x": "June 5th Rollup Research & Ideation • Michael Saylor: The Four Ideologies of Bitcoin • Tulip King on Zcash Trade: Lessons on Managing Conviction and Risk • Mert: All Software Handling Funds is Prone to AI Finding Vulnerabilities News & Markets • Arthur Hayes Dumps Entire $WLD Position • US National Security Agency Using Anthropic's Mythos for Cyber Attacks: FT • MicroStrategy's MSTR Unrealized Loss Rises to a Record -$12.7 Billion",
+    "timestamp": "2026-06-06 14:51:54+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links_x": [
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/14599",
+      "https://t.me/shoalresearch/14603",
+      "https://t.me/shoalresearch/14599",
+      "https://t.me/shoalresearch/14602",
+      "https://t.me/shoalresearch/14550",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/14605",
+      "https://t.me/shoalresearch/14598",
+      "https://t.me/shoalresearch/14600"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "education",
+      "security"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 24650,
+    "text_x": "ZachXBT Questions Arthur Hayes of Touting Tokens Before Selling Following a post by Arthur Hayes stating that he had sold his WLD holdings and exited the position, on-chain investigator ZachXBT publicly questioned how much exit liquidity Hayes had generated from his followers over the past few days, adding that his trades in NEAR, HYPE, and ZEC followed a similar pattern. In response, Hayes said he had simply made the right decision based on his trading objectives. ZachXBT then criticized the apparent inconsistency, arguing that Hayes had repeatedly expressed bullish views on WLD before quickly liquidating his position, making his actions difficult to reconcile. — link",
+    "timestamp": "2026-06-06 14:36:45+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links_x": [
+      "https://wublockchain.xyz/news/news-19454"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 23265,
+    "text_x": "ZODL proposes Ironwood as a new shielded pool for Zcash This builds on the Orchard protocol with formal verification, extra audits, and a turnstile mechanism to verify migrated supply and enable public auditing of total circulating ZEC The upgrade follows discovery and remediation of a counterfeiting vulnerability in the Orchard pool; it may also yield evidence of exploitation as funds migrate, while recommending wallet support for the new pool",
+    "timestamp": "2026-06-06 14:25:06+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links_x": [
+      "https://x.com/zodl_co/status/2063262232184795323?s=46&t=2q9OLMlaobNlHLewOXT4u",
+      "https://x.com/zooko/status/2063262293442678830?s=46&t=2q9OLMlaobNlHLewOXT4uA"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 23264,
+    "text_x": "It takes over two weeks for full biological restoration International travel carries a significant biological price and recommends limiting it to one trip per quarter as a reasonable balance",
+    "timestamp": "2026-06-06 14:25:06+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links_x": [
+      "https://x.com/bryan_johnson/status/2062989818867650942?s=46&t=2q9OLMlaobNlHLewOXT4uA"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 23263,
+    "text_x": "",
+    "timestamp": "2026-06-06 14:25:06+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links_x": [
+      "https://www.wsj.com/finance/polymarket-bet-disputes-fb1b8c6a"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 24649,
+    "text_x": "HTX Suspends WLFI and USD1 Trading, Converting All User USD1 to USDT After Freeze HTX representatives stated that the team behind WLFI, the Trump family-backed crypto project, recently froze HTX-related on-chain addresses citing U.K. sanctions screening, without sufficient prior communication or providing a clear legal basis. As a result, certain WLFI tokens lawfully held by HTX users became restricted from circulation. HTX announced emergency protective measures, formally suspending WLFI-related trading services as well as USD1 deposit and withdrawal services. The platform also forcibly converted all USD1 holdings into USDT and credited the converted funds to users' accounts. HTX emphasized that the affected addresses belong to platform users rather than sanctioned entities or the exchange itself, and called on the WLFI team to immediately unfreeze the addresses. — link",
+    "timestamp": "2026-06-06 13:42:00+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links_x": [
+      "https://wublockchain.xyz/news/news-19453"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 19428,
+    "text_x": "Tether fills Twenty One audit committee seat after buying SoftBank's stake in 43,500 BTC treasury firm - tether.io $BTC, Tether, Audit @Benthic_Bot @Benthic_Bot: Tether International, controlling shareholder of Twenty One Capital, designated an additional independent director to refill an audit committee sea...",
+    "timestamp": "2026-06-06 13:02:52+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253731?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/216/btc",
+      "https://leviathannews.xyz/t/454/tether",
+      "https://leviathannews.xyz/t/612/audit"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 24648,
+    "text_x": "Researcher Who Found Zcash Bug with Opus 4.8 Adds Monero to His Audit Queue Security engineer Taylor Hornby, who recently used Anthropic's Claude Opus 4.8 AI model to uncover a critical vulnerability in Zcash, stated that he intends to add Monero (XMR) and other privacy-focused cryptocurrencies to his upcoming audit queue. On May 29, Hornby, commissioned by the non-profit developer Shielded Labs, discovered a severe soundness flaw hidden in Zcash's Orchard privacy pool since May 2022. — link",
+    "timestamp": "2026-06-06 12:00:02+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links_x": [
+      "https://wublockchain.xyz/news/news-19452"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 5267,
+    "text_x": "INTEL: Rosneft CEO Igor Sechin says US energy companies are the main beneficiaries of the Strait of Hormuz closure. Adds that Washington is trying to reshape global energy markets to suit US interests: REUTERS $CL Twitter",
+    "timestamp": "2026-06-06 10:11:20+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links_x": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 19427,
+    "text_x": "Bankless Ryan Sean Adams rejects the \"Ethereum not ETH\" narrative, arguing a trillion-dollar ETH is essential to Ethereum's success as a censorship-resistant financial system and global store of value - 𝕏/@RyanSAdams $ETH, Ethereum, Store of value @Danicjade @Benthic_Bot: $157B of stables and roughly $36B of DeFi TVL still sit on Ethereum L1, but EIP-4844 made fee burn a weaker ETH bull case by design. The trillion-d...",
+    "timestamp": "2026-06-06 10:01:34+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253684?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/227/eth",
+      "https://leviathannews.xyz/t/232/ethereum",
+      "https://leviathannews.xyz/t/1542/store-of-value"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 19426,
+    "text_x": "Aave publishes a deep dive into Aave Glass, its Apple-inspired design language now deployed across web and mobile to unify interfaces and improve protocol usability - 𝕏/@aave Aave, Apple, Mobile @Danicjade @Benthic_Bot: $22.4B supplied and $9.6B borrowed turns Aave's UI into risk infrastructure, not cosmetics. A cross-browser `feDisplacementMap`/WebGL component sys...",
+    "timestamp": "2026-06-06 10:01:33+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253685?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/269/aave",
+      "https://leviathannews.xyz/t/1438/apple",
+      "https://leviathannews.xyz/t/2965/mobile"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 19425,
+    "text_x": "Crypto sell-off data suggests traders rotated capital within digital assets rather than exiting to cash, challenging claims that SpaceX IPO demand is draining Bitcoin liquidity - Coindesk Bitcoin, IPO, Sell-Off @Danicjade @Benthic_Bot: DeFiLlama still shows about $315B in USD stables outstanding, with Ethereum and Tron alone holding roughly $247B, so the important check is where t...",
+    "timestamp": "2026-06-06 09:42:05+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253676?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/217/bitcoin",
+      "https://leviathannews.xyz/t/581/ipo",
+      "https://leviathannews.xyz/t/659/sell-off"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 19424,
+    "text_x": "The researcher who used Anthropic's Opus AI to uncover Zcash's critical counterfeiting flaw is now turning his attention to Monero, raising fresh questions about privacy coin security - Coindesk AI, Monero, Anthropic @Danicjade @Benthic_Bot: Monero is a different target: default-private RingCT with 16-member rings today, FCMP++ still in stressnet, and no Orchard-style opt-in pool to tur...",
+    "timestamp": "2026-06-06 09:41:51+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253679?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/553/ai",
+      "https://leviathannews.xyz/t/929/monero",
+      "https://leviathannews.xyz/t/1404/anthropic"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "news"
+    ],
+    "source": NaN,
+    "text_y": "The researcher who used Anthropic's Opus AI to uncover Zcash's critical counterfeiting flaw is now turning his attention to Monero, raising fresh questions about privacy coin security - Coindesk AI, Monero, Anthropic @Danicjade @Benthic_Bot: Monero is a different target: default-private RingCT with 16-member rings today, FCMP++ still in stressnet, and no Orchard-style opt-in pool to tur...",
+    "links_y": [
+      "https://leviathannews.xyz/redirect/253679?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/553/ai",
+      "https://leviathannews.xyz/t/929/monero",
+      "https://leviathannews.xyz/t/1404/anthropic"
+    ]
+  },
+  {
+    "id": 19423,
+    "text_x": "Ethereum bulls seize on Zcash's Orchard exploit scare, arguing ETH's growing privacy stack and institutional adoption make it the dominant home for censorship-resistant finance - 𝕏/@degenrsc $ETH, Exploit, Ethereum @Danicjade @Benthic_Bot: Orchard was live from May 2022 until the June 1 emergency fix, and Shielded Labs says past counterfeit ZEC can't be cryptographically ruled out fro...",
+    "timestamp": "2026-06-06 09:39:21+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253669?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/227/eth",
+      "https://leviathannews.xyz/t/880/exploit",
+      "https://leviathannews.xyz/t/232/ethereum"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "security"
+    ],
+    "source": NaN,
+    "text_y": "Ethereum bulls seize on Zcash's Orchard exploit scare, arguing ETH's growing privacy stack and institutional adoption make it the dominant home for censorship-resistant finance - 𝕏/@degenrsc $ETH, Exploit, Ethereum @Danicjade @Benthic_Bot: Orchard was live from May 2022 until the June 1 emergency fix, and Shielded Labs says past counterfeit ZEC can't be cryptographically ruled out fro...",
+    "links_y": [
+      "https://leviathannews.xyz/redirect/253669?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/227/eth",
+      "https://leviathannews.xyz/t/880/exploit",
+      "https://leviathannews.xyz/t/232/ethereum"
+    ]
+  },
+  {
+    "id": 19422,
+    "text_x": "Solana draft SIMD-0553 targets 7,500-9,000 SOL/day burn with resource-based transaction fee - Github $SOL, Solana, Burn @Benthic_Bot @Benthic_Bot: SIMD-0553 would split Solana's current 5,000-lamport per-signature fee into a 2,500-lamport inclusion fee paid to leaders and a new requested_cost_...",
+    "timestamp": "2026-06-06 09:38:42+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253594?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/656/sol",
+      "https://leviathannews.xyz/t/338/solana",
+      "https://leviathannews.xyz/t/780/burn"
+    ],
+    "score": "0.95",
+    "tags": [
+      "governance",
+      "product"
+    ],
+    "source": NaN,
+    "text_y": "Solana draft SIMD-0553 targets 7,500-9,000 SOL/day burn with resource-based transaction fee - Github $SOL, Solana, Burn @Benthic_Bot @Benthic_Bot: SIMD-0553 would split Solana's current 5,000-lamport per-signature fee into a 2,500-lamport inclusion fee paid to leaders and a new requested_cost_...",
+    "links_y": [
+      "https://leviathannews.xyz/redirect/253594?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/656/sol",
+      "https://leviathannews.xyz/t/338/solana",
+      "https://leviathannews.xyz/t/780/burn"
+    ]
+  },
+  {
+    "id": 19421,
+    "text_x": "Reflect unveils a permissionless framework for yield-bearing stablecoins on Solana, replacing custodial allocators with transparent onchain risk models and automated capital deployment - 𝕏/@BlockworksAdv Solana, Stablecoins, Yield-Bearing @Danicjade @Benthic_Bot: $14.85B of stablecoins already sits on Solana, and USDC+ routing collateral through Drift/Kamino/Jupiter-style borrow demand turns that float into ...",
+    "timestamp": "2026-06-06 09:29:20+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253668?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/338/solana",
+      "https://leviathannews.xyz/t/399/stablecoins",
+      "https://leviathannews.xyz/t/648/yield-bearing"
+    ],
+    "score": "0.88",
+    "tags": [
+      "product",
+      "education"
+    ],
+    "source": NaN,
+    "text_y": "Reflect unveils a permissionless framework for yield-bearing stablecoins on Solana, replacing custodial allocators with transparent onchain risk models and automated capital deployment - 𝕏/@BlockworksAdv Solana, Stablecoins, Yield-Bearing @Danicjade @Benthic_Bot: $14.85B of stablecoins already sits on Solana, and USDC+ routing collateral through Drift/Kamino/Jupiter-style borrow demand turns that float into ...",
+    "links_y": [
+      "https://leviathannews.xyz/redirect/253668?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/338/solana",
+      "https://leviathannews.xyz/t/399/stablecoins",
+      "https://leviathannews.xyz/t/648/yield-bearing"
+    ]
+  },
+  {
+    "id": 19420,
+    "text_x": "Cross River commits up to $250M to buy Figure crypto-backed loan assets in forward-flow deal - Crossriver Crypto, Cross River @Benthic_Bot @Benthic_Bot: Promoting from Tsunami auto-feed. Duplicate URL warning is expected — the original was auto-posted but not yet approved for the main feed.",
+    "timestamp": "2026-06-06 09:22:23+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253614?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/948/crypto",
+      "https://leviathannews.xyz/t/2962/cross-river"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news",
+      "product"
+    ],
+    "source": NaN,
+    "text_y": "Cross River commits up to $250M to buy Figure crypto-backed loan assets in forward-flow deal - Crossriver Crypto, Cross River @Benthic_Bot @Benthic_Bot: Promoting from Tsunami auto-feed. Duplicate URL warning is expected — the original was auto-posted but not yet approved for the main feed.",
+    "links_y": [
+      "https://leviathannews.xyz/redirect/253614?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/948/crypto",
+      "https://leviathannews.xyz/t/2962/cross-river"
+    ]
+  },
+  {
+    "id": 19419,
+    "text_x": "Hayes dumps Maelstrom's WLD stake as Worldcoin drops 10% and SpaceX pre-listing quote slides 50% - Coindesk $WLD, Worldcoin, SpaceX @Benthic_Bot @Benthic_Bot: Arthur Hayes said Maelstrom sold its entire WLD position less than a day after saying it would keep holding, and Worldcoin fell about 10% in 24 hou...",
+    "timestamp": "2026-06-06 09:12:22+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253662?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/996/wld",
+      "https://leviathannews.xyz/t/1093/worldcoin",
+      "https://leviathannews.xyz/t/1426/spacex"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ],
+    "source": NaN,
+    "text_y": "Hayes dumps Maelstrom's WLD stake as Worldcoin drops 10% and SpaceX pre-listing quote slides 50% - Coindesk $WLD, Worldcoin, SpaceX @Benthic_Bot @Benthic_Bot: Arthur Hayes said Maelstrom sold its entire WLD position less than a day after saying it would keep holding, and Worldcoin fell about 10% in 24 hou...",
+    "links_y": [
+      "https://leviathannews.xyz/redirect/253662?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/996/wld",
+      "https://leviathannews.xyz/t/1093/worldcoin",
+      "https://leviathannews.xyz/t/1426/spacex"
+    ]
+  },
+  {
+    "id": 5869,
+    "text_x": "Check out the quote tweets",
+    "timestamp": "2026-06-06 08:37:50+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links_x": [
+      "https://x.com/i/status/2061794787825479818"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 19418,
+    "text_x": "Zest brings ZEST to Ethereum and Base via Chainlink CCIP as weekly upgrades top $1.1B - 𝕏/@ZestProtocol Ethereum, Chainlink, CCIP @Benthic_Bot @Benthic_Bot: Promoting from Tsunami auto-feed. Duplicate URL warning is expected — the original was auto-posted but not yet approved for the main feed.",
+    "timestamp": "2026-06-06 08:24:43+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links_x": [
+      "https://leviathannews.xyz/redirect/253652?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/232/ethereum",
+      "https://leviathannews.xyz/t/305/chainlink",
+      "https://leviathannews.xyz/t/1784/ccip"
+    ],
+    "score": "0.85",
+    "tags": [
+      "product",
+      "news"
+    ],
+    "source": NaN,
+    "text_y": "Zest brings ZEST to Ethereum and Base via Chainlink CCIP as weekly upgrades top $1.1B - 𝕏/@ZestProtocol Ethereum, Chainlink, CCIP @Benthic_Bot @Benthic_Bot: Promoting from Tsunami auto-feed. Duplicate URL warning is expected — the original was auto-posted but not yet approved for the main feed.",
+    "links_y": [
+      "https://leviathannews.xyz/redirect/253652?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/232/ethereum",
+      "https://leviathannews.xyz/t/305/chainlink",
+      "https://leviathannews.xyz/t/1784/ccip"
+    ]
+  },
+  {
+    "id": 14606,
+    "text_x": "Mert Says the Zcash Situation Was a Known Trade-off Amplified by a Wrong Narrative and a Perfect Storm of Timing > \"Known ZK trade-off, not an exploit. Not vibe-coded with AI. World-class auditor explicitly tasked to find bugs found one. Bitcoin and Monero have similar issues.\" > \"Network upgrade locked Binance deposits during the biggest market selloff since April 2025. Zcash couldn't dump with the market. Unlocked into it as the only coin still up.\" Source:",
+    "timestamp": "2026-06-06 07:34:19+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links_x": [
+      "https://x.com/therollupco/status/2062997999832473938"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "education"
+    ],
+    "source": NaN,
+    "text_y": "Mert Says the Zcash Situation Was a Known Trade-off Amplified by a Wrong Narrative and a Perfect Storm of Timing > \"Known ZK trade-off, not an exploit. Not vibe-coded with AI. World-class auditor explicitly tasked to find bugs found one. Bitcoin and Monero have similar issues.\" > \"Network upgrade locked Binance deposits during the biggest market selloff since April 2025. Zcash couldn't dump with the market. Unlocked into it as the only coin still up.\" Source:",
+    "links_y": [
+      "https://x.com/therollupco/status/2062997999832473938"
+    ]
+  },
+  {
+    "id": 23261,
+    "text_x": "World Models: Dreams turned into reality",
+    "timestamp": "2026-06-06 07:27:51+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links_x": [
+      "https://bitkraft.vc/insights/article-world-models-dreams-turned-into-reality"
+    ],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 23262,
+    "text_x": "Seeing celebrities and trading cards once again being tokenised as useless tokens lmao We really don't learn, do we? Please don't torch your money on these scams",
+    "timestamp": "2026-06-06 07:27:51+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links_x": [],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 24647,
+    "text_x": "According to SoSoValue data, on June 5 (ET), U.S. spot Bitcoin ETFs recorded a total net outflow of $326 million, while U.S. spot Ethereum ETFs saw a net outflow of $5.97 million. — link",
+    "timestamp": "2026-06-06 07:20:05+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links_x": [
+      "https://wublockchain.xyz/news/news-19451"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 5868,
+    "text_x": "For the class of 2025. Welcome to Arthur Hayes",
+    "timestamp": "2026-06-06 07:00:01+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links_x": [],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 14605,
+    "text_x": "Arthur Hayes Dumps Entire $WLD Position, Says the Chart is Going in the Wrong Direction. > Yesterday, after dumping ZEC, he said \"we still hold WLD, excited for Lord Elon to pump our bags..that outperformance is WLD, never bet against Elon\" Source:",
+    "timestamp": "2026-06-06 06:49:06+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links_x": [
+      "https://x.com/CryptoHayes/status/2063065162559660308"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 24646,
+    "text_x": "Haseeb Qureshi: Dragonfly Still Holds ZEC, and I'm Personally Invested in ZODL Amid Zcash Bug Concerns Dragonfly partner Haseeb Qureshi said the recently patched Zcash bug would mainly have affected shielded ZEC holders, not transparent ZEC holders, if it had been exploited before the fix. He said nearly all ZEC market liquidity is in transparent ZEC, making newly minted counterfeit shielded ZEC difficult to sell on exchanges. Qureshi added that the Zcash team plans to introduce a new turnstile and fresh shielded pool to confirm the old pool was not inflated, and noted that the shielded pool's share of supply fell only from 31% to 30% over the past 48 hours, suggesting no mass exit. He also disclosed that Dragonfly continues to hold ZEC, while he is personally an investor in ZODL. — link",
+    "timestamp": "2026-06-06 06:02:42+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links_x": [
+      "https://wublockchain.xyz/news/news-19450"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "security"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 24645,
+    "text_x": "Russian Central Bank: Non-Qualified Investors May Be Limited to Trading BTC, ETH and USDT Russian Central Bank First Deputy Governor Vladimir Chistyukhin said the central bank plans to limit crypto assets available to non-professional and non-qualified investors to BTC, ETH and USDT, with no plans to expand the list for now. He said cryptocurrencies are high-risk and highly volatile instruments, while USDT wallets also carry the risk of being frozen by the issuer. Russia also plans to set an annual limit of about $4,100 for ordinary investors buying crypto assets through a single broker or exchange provider. — link",
+    "timestamp": "2026-06-06 04:57:36+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links_x": [
+      "https://wublockchain.xyz/news/news-19449"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 760,
+    "text_x": "Pain maxxing period What a time to be alive",
+    "timestamp": "2026-06-06 04:14:28+00:00",
+    "author": "admin#2309364802",
+    "channel_id": "hyperfomosignal",
+    "platform": "telegram",
+    "links_x": [],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 2555,
+    "text_x": "haven't logged last couple of trades. was in a bad headspace and didn't post anything. gonna do that tmrw and post an overview on where i stand in the challenge. i took quite a beating, thats for sure. many respectable people have advised me to stop doing what i am doing and sunset the public trading once and for all. people whose opinions i highly respect, but i will not listen. i will continue on my path, whatever outcome it may bring. i am gonna keep moving forward. the island is not conquered yet. my stuff is not working currently, that i can admit. but i shall not rest until it works, willing to sacrifice everything in my power. \"𝐫𝐞𝐜𝐨𝐠𝐧𝐢𝐬𝐢𝐧𝐠 𝐝𝐞𝐟𝐞𝐚𝐭 𝐚𝐬 𝐚 𝐦𝐨𝐦𝐞𝐧𝐭𝐚𝐫𝐲 𝐜𝐡𝐞𝐜𝐤, 𝐛𝐮𝐭 𝐧𝐞𝐯𝐞𝐫 𝐚𝐜𝐜𝐞𝐩𝐭𝐢𝐧𝐠 𝐢𝐭 𝐚𝐬 𝐟𝐢𝐧𝐚𝐥.\" - Hernan Cortez, 1526",
+    "timestamp": "2026-06-06 03:54:57+00:00",
+    "author": "admin#2325165654",
+    "channel_id": "y22_trades",
+    "platform": "telegram",
+    "links_x": [],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 24644,
+    "text_x": "Cardano Founder: Cardano May See More DeFi Shutdowns in 2026 Cardano founder Charles Hoskinson said that more DeFi applications on Cardano may shut down in the second half of 2026, following TapTools' decision to wind down operations. Hoskinson said Cardano's challenges stem from commercialization, ecosystem funding and governance issues, adding that he does not control the treasury, governance keys or protocol parameters and cannot unilaterally force changes. He also floated an \"extreme option\": launching a new Cardano through proof of burn if the existing ecosystem cannot change, in order to reset tokenomics and institutional funding mechanisms. — link",
+    "timestamp": "2026-06-06 03:52:02+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links_x": [
+      "https://wublockchain.xyz/news/news-19448"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "product"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 759,
+    "text_x": "My top crypto card was EtherFi. I also use Hyperbeat sometimes, but I think rn the perks on Plasma One are even better Just remember to cash out the cashback rewards from XPL to USDT if you want to lock in the value :d",
+    "timestamp": "2026-06-06 03:03:00+00:00",
+    "author": "admin#2309364802",
+    "channel_id": "hyperfomosignal",
+    "platform": "telegram",
+    "links_x": [],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 2553,
+    "text_x": "got stopped on WLD. set SL at BE for BTC",
+    "timestamp": "2026-06-06 03:00:41+00:00",
+    "author": "admin#2325165654",
+    "channel_id": "y22_trades",
+    "platform": "telegram",
+    "links_x": [],
+    "score": NaN,
+    "tags": NaN,
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 757,
+    "text_x": "Plasma One - Private Beta + Early Access Perks: > Earn more • 3% cashback on every purchase (up to $250) • Invite friends -> earn 1% • 4x cashback limit, up to $1,000/month (For Platium) • Boosted yield on your Earn deposits • 10% back on every Uber ride (up to $100/mo) > Travel • Lounge access + fast-track at 100+ airports • Global eSIM 3GB in 100+ countries, zero roaming > Subscriptions included • Claude Pro, Telegram Premium & Proton Unlimited free • TradingView Plus + Awaken, 25% off > The card • 19g limited-edition full metal • Priority line to real human support Limited invite code. FCFS: JEFFHL",
+    "timestamp": "2026-06-06 02:49:32+00:00",
+    "author": "admin#2309364802",
+    "channel_id": "hyperfomosignal",
+    "platform": "telegram",
+    "links_x": [
+      "https://apps.apple.com/app/plasma-one-stablecoin-card/id6759033493"
+    ],
+    "score": "0.90",
+    "tags": [
+      "product"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  },
+  {
+    "id": 24643,
+    "text_x": "Alex Thorn: CLARITY Act's 2026 Passage Odds Fall to 60% as Senate Calendar Tightens Galaxy Research head Alex Thorn said he has lowered his estimated odds of the U.S. CLARITY Act passing in 2026 from 75% to 60%, citing a tighter Senate calendar. Thorn said the schedule remains one of the biggest hurdles for the crypto market structure bill, with next week likely dominated by FISA-related issues after a failed reauthorization vote. He also noted limited progress on unresolved issues such as lawmaker ethics rules and illicit finance provisions. — link",
+    "timestamp": "2026-06-06 02:46:37+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links_x": [
+      "https://wublockchain.xyz/news/news-19447"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news"
+    ],
+    "source": NaN,
+    "text_y": NaN,
+    "links_y": NaN
+  }
+]
