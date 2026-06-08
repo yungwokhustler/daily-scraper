@@ -1,0 +1,726 @@
+[
+  {
+    "id": 8564,
+    "text": "WEEKLY BRIEF May 31–Jun 7, 2026 Headlines • Anthropic Mythos release odds for end of June at 28% • Binance to add U.S. stocks and launch tokenized shares • Pavel Durov announces rebranding of TON to GRAM • Anthropic files confidential IPO; NSA reported to be using Mythos for hacking • SpaceX plans $75B raise at $1.75T valuation for its IPO • Grayscale Hyperliquid Staking ETF (HYPG) goes live on NASDAQ • JPMorgan and Citi plan new tokenized deposit system • Bitcoin Perpetuals now live on Kalshi • Vanguard S&P 500 ETF ($VOO) surpasses $1T in AUM • U.S. CPI at 2.7% and Core CPI at 3.3% YoY, matching estimates Weekly ETF Flows • BTC: -$1,396.3M net outflows • ETH: -$168.4M net outflows • SOL: -$6.3M net outflows • HYP: +$16.6M net inflows Exchange Listings • Bithumb: $HNT (spot), $SLX (spot) • Upbit: $SLX (spot KRW), $BABY (spot KRW) • Binance: $ELSA (futures), $SLX (futures), $ANTHROPIC (futures), $ZEST (futures), $BTW (futures) • Bybit: $SLX (futures), $ZEST (futures), $BTW (futures) • Hyperliquid: IBM (HIP-3), DELL (HIP-3), AVGO (HIP-3), NOW (HIP-3) • Robinhood: $BIO (spot), $AXS (spot), $BAT (spot), $FLR (spot), $STRK (spot) Regulatory • HTX-linked wallets restricted on Hyperliquid following UK sanctions • Bitmine files for preferred stock offering with 9.5% yield • Zcash to audit Orchard pool supply following recent patch Market Flows • Mt Gox moves 10,423 BTC ($739M) • Total 24H liquidations hit $1.26B with 262k traders liquidated • Fluid Merkle rewards exploit sees 125K FLUID and 51.9K GHO drained • Gnosis Pay hacked; team confirms user losses will be covered • MicroStrategy sells 32 BTC; stock falls 10% following the filing • Coinbase invests in Ethena to create finance and savings products • True North launches AI-powered terminal on Hyperliquid • Radiant Capital announces plans to sunset operations • Bybit and KrakenFX partner to launch SpaceX IPO subscriptions",
+    "timestamp": "2026-06-08 00:00:44+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/iansintel/8513",
+      "https://t.me/iansintel/8521",
+      "https://t.me/iansintel/8525",
+      "https://t.me/iansintel/8560",
+      "https://t.me/iansintel/8539",
+      "https://t.me/iansintel/8542",
+      "https://t.me/iansintel/8555",
+      "https://t.me/iansintel/8544",
+      "https://t.me/iansintel/8545",
+      "https://t.me/iansintel/3988",
+      "https://t.me/iansintel/8546",
+      "https://t.me/iansintel/8547",
+      "https://t.me/iansintel/8562",
+      "https://t.me/iansintel/8532",
+      "https://t.me/iansintel/8561",
+      "https://t.me/iansintel/8514",
+      "https://t.me/iansintel/8526",
+      "https://t.me/iansintel/8535",
+      "https://t.me/iansintel/8538",
+      "https://t.me/iansintel/8541",
+      "https://t.me/iansintel/8528",
+      "https://t.me/iansintel/8563"
+    ],
+    "score": "0.98",
+    "tags": [
+      "news",
+      "product",
+      "security",
+      "scam"
+    ]
+  },
+  {
+    "id": 5870,
+    "text": "Hynix down 9% premarket. How leveraged do you think Korean retail is",
+    "timestamp": "2026-06-07 23:38:21+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5280,
+    "text": "INTEL: TRUMP SAYS HE CALL THE SHOTS, NETANYAHU DOESN'T Twitter",
+    "timestamp": "2026-06-07 22:55:03+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x/status/2063756375738507279"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5279,
+    "text": "INTEL: TRUMP HAS TOLD NETANYAHU NOT TO RESPOND TO IRAN'S BALLISTIC MISSILE ATTACK ON ISRAEL TONIGHT Twitter",
+    "timestamp": "2026-06-07 20:08:15+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5278,
+    "text": "INTEL: TRUMP SAYS 'WOULD SAY DEAL WILL BE SIGNED ON MONDAY, TUESDAY OR WEDNESDAY AND NOW THIS TAKES PLACE' Twitter",
+    "timestamp": "2026-06-07 19:54:59+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 14614,
+    "text": "Ansem: Crypto is Just Going Through a Maturation Phase, Not Dying > He explained current issues with sentiment around crypto are due to the largest coins not doing well, BTC suffering from Saylor-driven ponzification and quantum concerns, ETH outcompeted and losing revenue to rollups, not a sign the industry is dying. > Stablecoins, perps, & tokenization as themes will continue to proliferate throughout the global economy, and there will be many successful crypto startups that do well, > He argues that improved regulation, AI agent adoption of stablecoin rails, and open-source AI enabling smaller teams to build more, will bring about more crypto experimentation. Source:",
+    "timestamp": "2026-06-07 19:53:55+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/blknoiz06/status/2063691602166427964"
+    ],
+    "score": "0.95",
+    "tags": [
+      "education",
+      "product"
+    ]
+  },
+  {
+    "id": 19441,
+    "text": "Bitcoin's rally is a trapdoor into a deeper Stage 5 bear market, with a likely final bottom in the 40k–48k zone and possible sharp swings before capitulation. - 𝕏/@DrProfitCrypto Bitcoin, Markets, Bear Market @PeterMM @Benthic_Bot: CryptoQuant's -501k BTC demand contraction reads closer to May 2022 than a routine dip, and the 13-session ETF bleed of roughly $4.4B removes the p...",
+    "timestamp": "2026-06-07 19:31:13+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/253968?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/217/bitcoin",
+      "https://leviathannews.xyz/t/794/markets",
+      "https://leviathannews.xyz/t/2430/bear-market"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "education"
+    ]
+  },
+  {
+    "id": 1233,
+    "text": "2026/6/7 Today's Newsletter News • U.S. unemployment remains at 4.3% • JPMorgan, Citi, and major U.S. banks launch tokenized deposits to compete with crypto • Saylor hints at another Strategy Bitcoin buy • Researcher finds Zcash bug enabling unlimited token minting Good Reads • @saylor - The Four Ideologies of Bitcoin • @credistick - Survival of the Fittest New Protocols • @naturalpay • @anondotinc Crypto Fundraising • @MobiusExchange (DeFi) - $TBD Strategic led by @yzilabs • @K25dotai (Prediction Markets) - 4m Strategic Airdrops - Videos & Podcasts • @1000xPod - Is Robotics The Next Megabubble? • @Bankless - Is Saylor About to Break Bitcoin? — Crypto, TCG & AI insights → chungdailynote.com",
+    "timestamp": "2026-06-07 18:41:31+00:00",
+    "author": "admin#1648837346",
+    "channel_id": "chungdailynote",
+    "platform": "telegram",
+    "links": [
+      "https://open.substack.com/pub/chungdailynote/p/chung-daily-note-202667?r=2dzpjp&utm_campaign=post&utm_medium=web",
+      "https://x.com/unusual_whales/status/2063320265853919481",
+      "https://x.com/cryptodotnews/status/2062890431885815931",
+      "https://x.com/BitcoinMagazine/status/2063602633198227569",
+      "https://x.com/WatcherGuru/status/2062803645272379651",
+      "https://x.com/saylor/status/2062853047991103638",
+      "https://x.com/credistick/status/2063641631983591471",
+      "https://x.com/naturalpay/status/2062301339758256436",
+      "https://x.com/anondotinc/status/2062627299757871355",
+      "https://x.com/MobiusExchange/status/2062566118456439156",
+      "https://x.com/AndyC0125/status/2062558020517958115",
+      "https://www.youtube.com/watch?v=Zk10elQiazg",
+      "https://www.youtube.com/watch?v=kjfISLCsaYU"
+    ],
+    "score": "0.98",
+    "tags": [
+      "news",
+      "education",
+      "product",
+      "security"
+    ]
+  },
+  {
+    "id": 19440,
+    "text": "OpenAI is reportedly overhauling ChatGPT into a \"superapp\" with coding tools and AI agents as it prepares for a potential IPO. - Reuters AI, IPO, ChatGPT @PeterMM @Benthic_Bot: $100 Pro tiers and token-metered Codex credits already made the shape obvious: ChatGPT is getting priced like compute, not SaaS. If the app becomes...",
+    "timestamp": "2026-06-07 18:22:42+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/253958?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/553/ai",
+      "https://leviathannews.xyz/t/581/ipo",
+      "https://leviathannews.xyz/t/667/chatgpt"
+    ],
+    "score": "0.85",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 19439,
+    "text": "ZachXBT says law enforcement seized $18.9M from actors tied to Genesis creditor theft - 𝕏/@zachxbt ZachXBT, Genesis, Seizure @Benthic_Bot @Benthic_Bot: ZachXBT pushed back on claims that several detained Dubai-based \"crypto entrepreneurs\" were just tech operators, saying they were threat actors tie...",
+    "timestamp": "2026-06-07 18:21:33+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/253926?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/544/zachxbt",
+      "https://leviathannews.xyz/t/1174/genesis",
+      "https://leviathannews.xyz/t/1608/seizure"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 19438,
+    "text": "Kraken lists SpaceX pre-IPO perp with 5x leverage and smoothed synthetic pricing - blog.kraken IPO, Kraken, SpaceX @Benthic_Bot @Benthic_Bot: Kraken listed PF_SPCXXUSD, a cash-settled SpaceX pre-IPO perpetual for eligible users to trade long or short SPCX with up to 5x leverage, flex marg...",
+    "timestamp": "2026-06-07 16:53:37+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/253924?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/581/ipo",
+      "https://leviathannews.xyz/t/782/kraken",
+      "https://leviathannews.xyz/t/1426/spacex"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 23274,
+    "text": "Microstrategy bought?",
+    "timestamp": "2026-06-07 14:51:26+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/phongle/status/2063617109817495698?s=20"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 23273,
+    "text": "Survival of the Fittest",
+    "timestamp": "2026-06-07 14:51:26+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://blog.joinodin.com/p/survival-of-the-fittest"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5277,
+    "text": "INTEL: Iranian lawmaker Rezaei says Tehran will deliver a \"painful\" response to Israel's strike on Beirut Twitter",
+    "timestamp": "2026-06-07 14:46:00+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5276,
+    "text": "INTEL: TRUMP SAYS HE WILL PUT AN END ONCE AND FOR ALL TO THE IRANIAN THREAT, EITHER THROUGH NEGOTIATION OR I WILL DESTROY THEM COMPLETELY, AND THAT WILL BE EXTREMELY EASY Twitter",
+    "timestamp": "2026-06-07 14:40:44+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 19437,
+    "text": "Zcash developers propose Ironwood, a network upgrade designed to restore trustless verification of ZEC supply after the Orchard vulnerability exposed risks around undetectable counterfeiting - 𝕏/@zooko vulnerability, ZEC, Zcash @Danicjade @Benthic_Bot: Block 3,363,426 was the emergency line: Orchard actions were rejected on June 2, NU6.2 re-enabled the corrected circuit on June 3, and Ironwood wou...",
+    "timestamp": "2026-06-07 13:59:35+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/253886?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/1951/vulnerability",
+      "https://leviathannews.xyz/t/2247/zec",
+      "https://leviathannews.xyz/t/2248/zcash"
+    ],
+    "score": "0.95",
+    "tags": [
+      "governance",
+      "security"
+    ]
+  },
+  {
+    "id": 14613,
+    "text": "Bybit Launches IPO Express for Early Access to Global IPOs, with SpaceX as Its First Listing in Partnership with xStocks and Kraken Source:",
+    "timestamp": "2026-06-07 13:46:18+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://www.bybit.com/en/trade/spot/ipo",
+      "https://x.com/benbybit/status/2063533592404455459"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 14612,
+    "text": "Saylor: A Good Time to Add More Dots Source:",
+    "timestamp": "2026-06-07 13:45:50+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/saylor/status/2063602383863660976"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 14611,
+    "text": "June 6th Rollup Research & Ideation • Saylor: AI Buildout is Absorbing Capital at Historic Scale, But Doesn't Weaken Bitcoin News & Markets • Trump Says His Team Will 'Look Into' US Taking Stake in AI Companies Project Updates • ZODL Proposes Ironwood: A New Shielded Pool for Zcash",
+    "timestamp": "2026-06-07 13:45:23+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/14609",
+      "https://t.me/shoalresearch/14550",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/14610",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/14608"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "product",
+      "governance"
+    ]
+  },
+  {
+    "id": 5275,
+    "text": "INTEL: US weighing redirecting frozen Iranian assets to compensate Gulf allies for war damage Twitter",
+    "timestamp": "2026-06-07 13:35:05+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5274,
+    "text": "INTEL: TRUMP SAYS HE WOULD NOT UNFREEZE IRANIAN ASSETS OR LIFT ANY SANCTIONS UPFRONT AS A PART OF ANY DEAL Twitter",
+    "timestamp": "2026-06-07 13:29:49+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24659,
+    "text": "Asia's weekly TOP10 crypto news: Japan Eyes Yen Stablecoins & Crypto ETFs, Korea Forms KRW Stablecoin Alliance, Coinbase Launches INR Deposits in India, Hong Kong Plans Legislationto Regulate Crypto Trading & Custody, US Sanctions Iran's Top crypto exchange Nobitex. For the complete article and weekly curated reports, subscribe to our Substack: — link",
+    "timestamp": "2026-06-07 13:28:20+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19463"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 19436,
+    "text": "Researcher argues crypto is entering its final \"disbelief event,\" with persistent skepticism masking accelerating institutional adoption, regulatory clarity, and mainstream financial integration - 𝕏/@strato_money Crypto, Institutional Adoption, Adoption @Danicjade @Benthic_Bot: $317B in stablecoin supply, Visa's $7B annualized stablecoin settlement run-rate, and DTCC lining up DTC-custodied tokenized securities with 50+ fi...",
+    "timestamp": "2026-06-07 13:15:03+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/253885?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/948/crypto",
+      "https://leviathannews.xyz/t/2282/institutional-adoption",
+      "https://leviathannews.xyz/t/2801/adoption"
+    ],
+    "score": "0.90",
+    "tags": [
+      "education",
+      "news"
+    ]
+  },
+  {
+    "id": 5273,
+    "text": "INTEL: TRUMP SAYS THERE'S NO REASON TO RAISE INTEREST RATES Twitter",
+    "timestamp": "2026-06-07 13:13:34+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 19435,
+    "text": "ZachXBT flags JuCoin withdrawals and JuChain-issued USDT and USDC in self-reported $511M reserves - wublockchain.xyz $USDC, $USDT, ZachXBT @Benthic_Bot @Benthic_Bot: ZachXBT says multiple JuCoin users reported withdrawal issues over the past week while Ju attributes delays to upgrades and restructuring. The shar...",
+    "timestamp": "2026-06-07 13:04:12+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/253859?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/218/usdc",
+      "https://leviathannews.xyz/t/223/usdt",
+      "https://leviathannews.xyz/t/544/zachxbt"
+    ],
+    "score": "0.95",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 19434,
+    "text": "Ondo launches tokenized equity perps with 20x leverage for traders abroad on June 9 - 𝕏/@OndoPerps Ondo Finance, Launch, Equity @Benthic_Bot @Benthic_Bot: Ondo Perps says it will go live on June 9, 2026, moving the perp wrapper from crypto pairs into tokenized equities. The product is aimed at non-US ...",
+    "timestamp": "2026-06-07 13:04:11+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/253872?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/704/ondo-finance",
+      "https://leviathannews.xyz/t/1948/launch",
+      "https://leviathannews.xyz/t/2980/equity"
+    ],
+    "score": "0.95",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 19433,
+    "text": "Consensys founder Joe Lubin dismisses concerns over Ethereum Foundation staff cuts and departures, arguing the organization should remain focused on stewarding Ethereum's core technology and values - Coindesk Ethereum, Consensys, Lubin @Danicjade @Benthic_Bot: Agentic commerce on public rails means automated wallets producing MEV-rich, privacy-sensitive order flow, plus a lot more account-abstraction dema...",
+    "timestamp": "2026-06-07 13:04:10+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/253881?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/232/ethereum",
+      "https://leviathannews.xyz/t/1046/consensys",
+      "https://leviathannews.xyz/t/1716/lubin"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "governance"
+    ]
+  },
+  {
+    "id": 5272,
+    "text": "INTEL: Michael Saylor hinting at buying more Bitcoin $BTC Twitter",
+    "timestamp": "2026-06-07 12:47:28+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": "0.75",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24658,
+    "text": "PiggyBank Unwinds LAB Hedge, Reports Up to 15% NAV Drawdown PiggyBank said it closed a LAB hedge after extreme volatility and negative funding rates made the position unsustainable. The protocol expects drawdowns of about 15% for its USDC vault, 12% for SPYx, and 9% for JitoSOL, while excluding its locked LAB holdings from NAV until August unlocks. ZachXBT criticized the strategy as exposing user funds to a highly speculative asset. — link",
+    "timestamp": "2026-06-07 12:42:58+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19462"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 24657,
+    "text": "PlanB: ETH/BTC Has Returned to 2016 Levels After a Decade Bitcoin analyst PlanB noted that ETH is currently trading around 0.026 BTC, roughly the same level as in March 2016, implying Ethereum has underperformed Bitcoin over the past decade. He also argued that ETH failed to deliver a major ETH/BTC bull-market rally during the 2023–2024 cycle, like it did in 2017 and 2021. — link",
+    "timestamp": "2026-06-07 12:42:38+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19461"
+    ],
+    "score": "0.80",
+    "tags": [
+      "education",
+      "news"
+    ]
+  },
+  {
+    "id": 5270,
+    "text": "INTEL: Kraken and MoneyGram launch Bitcoin-to-cash withdrawals across 100+ countries and 500,000 locations $BTC Twitter",
+    "timestamp": "2026-06-07 12:34:19+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x/status/2063600331024425232"
+    ],
+    "score": "0.92",
+    "tags": [
+      "product"
+    ]
+  },
+  {
+    "id": 24656,
+    "text": "Bybit Launches IPO Express, Opens Tokenized SpaceX IPO Subscription via xStocks Bybit has launched IPO Express, an on-chain equity offering product, and introduced a tokenized SpaceX IPO subscription in partnership with xStocks. Spot trading expected to begin on June 12. Bybit said the tokenized SpaceX shares are fully backed by xStocks issuers and maintain a 1:1 linkage to underlying equity exposure. — link",
+    "timestamp": "2026-06-07 11:30:01+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19460"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 5269,
+    "text": "INTEL: NVIDIA CEO JENSEN HUANG SAYS THE MEMORY SHORTAGE TO CONTINUE FOR SEVERAL YEARS Twitter",
+    "timestamp": "2026-06-07 11:04:06+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24655,
+    "text": "ZachXBT Flags JuCoin Over Withdrawal Issues and Reserve Concerns ZachXBT said multiple users have reported withdrawal issues on JuCoin over the past week. He also questioned the exchange's reported $511 million reserves, alleging most consist of USDC and USDT issued on its own JuChain without clear backing. ZachXBT further noted JuDAO suffered a $20 million incident in 2025 and a $225,000 exploit in April 2026, while JuCoin attributed the delays to platform upgrades and restructuring. — link",
+    "timestamp": "2026-06-07 11:02:05+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19459"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 5268,
+    "text": "INTEL: Pentagon reportedly raised its counterintelligence threat level for Israel to \"critical,\" its highest, over concerns about aggressive Israeli spying on top US officials, per NBC. Twitter",
+    "timestamp": "2026-06-07 10:49:48+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 19432,
+    "text": "Bybit opens SpaceX IPO Express subscriptions in USDC for VIP and Pro users before June 12 spot trading - announcements.bybit $USDC, IPO, Bybit @Benthic_Bot @Benthic_Bot: Bybit is making SpaceX the first offering on IPO Express, letting eligible VIP and Pro users subscribe with USDC from Jun 7 08:00 UTC to Jun 11 08:...",
+    "timestamp": "2026-06-07 09:19:40+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/253846?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/218/usdc",
+      "https://leviathannews.xyz/t/581/ipo",
+      "https://leviathannews.xyz/t/838/bybit"
+    ],
+    "score": "0.93",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 19431,
+    "text": "Aptos stacks Vertalo, tZERO, Archax, and Bitnomial into regulated RWA infrastructure - 𝕏/@Aptos Real World Assets, Aptos, Infrastructure @Benthic_Bot @Benthic_Bot: Promoting from Tsunami auto-feed. Duplicate URL warning is expected — the original was auto-posted but not yet approved for the main feed.",
+    "timestamp": "2026-06-07 08:41:01+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/253834?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/486/real-world-assets",
+      "https://leviathannews.xyz/t/828/aptos",
+      "https://leviathannews.xyz/t/2816/infrastructure"
+    ],
+    "score": "0.90",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 8563,
+    "text": "BYBIT PARTNERS WITH XSTOCKS, KRAKENFX TO LAUNCH IPO EXPRESS; SPACEX IPO SUBSCRIPTIONS NOW LIVE SOURCE",
+    "timestamp": "2026-06-07 08:27:17+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/benbybit/status/2063533592404455459?s=20"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 23272,
+    "text": "The American Rebellion Against AI Is Gaining Steam Booed commencement speakers, blocked data centers, plummeting poll numbers: Fast-growing industry has a faster-growing crisis",
+    "timestamp": "2026-06-07 07:18:26+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.wsj.com/tech/ai/the-american-rebellion-against-ai-is-gaining-steam-94b72529?mod=e2tw"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 23271,
+    "text": "The Token Bill Cometh Due: My Official AI Prediction The AI bubble will burst due to unsustainable token economics: AI labs have been buying market share by subsidizing token costs with investor cash, resulting in low corporate ROI As subsidies end and customers face the true cost of compute, inflated revenue numbers will collapse, causing massive valuation markdowns for frontier labs and a severe CapEx correction for hardware suppliers LLMs are plateauing and becoming basic commodities, especially with cheap, open-weight models rapidly closing the performance gap. Realizing that AGI is not arriving on this timeline, labs like OpenAI and Anthropic will transition into enterprise software companies, competing directly with established giants like Salesforce for corporate workflow contracts",
+    "timestamp": "2026-06-07 07:15:24+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://open.substack.com/pub/benjaminhorne/p/the-token-bill-cometh-my-official?"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 23267,
+    "text": "",
+    "timestamp": "2026-06-07 07:15:24+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://tachyon.z.cash/blog/auditing-orchard-supply/"
+    ],
+    "score": "0.85",
+    "tags": [
+      "security"
+    ]
+  },
+  {
+    "id": 23270,
+    "text": "How LLMs Actually Work An LLM is basically a machine that reads text and guesses the next word, over and over, really fast • Models can't read letters so it chops texts into chunks (\"tokenization\") -> each chunk gets a number • Each number gets looked up in a giant table that turns it into a long list of numbers (a \"vector\") • Words with similar meanings end up with similar vectors. \"King\" sits near \"queen,\" \"Paris\" near \"France\" • Tracking word order. A vector for \"dog\" is the same whether it's the first or fifth word, which is a problem since order changes meaning. So the model adds position information • Letting words talk to each other (\"attention\"). Each word looks at the other words and decides which ones matter to it. In \"The cat that I saw yesterday was sleeping,\" when the model hits \"was,\" attention figures out that \"cat\" is the thing doing the sleeping, not \"yesterday.\" It does this by scoring how well words match and focusing on the strong matches • The model then runs attention dozens of times in parallel - one \"head\" might track grammar, another tracks which pronoun refers to which name, etc. A big model has thousands of these • After words share info, each word gets processed individually. This is where most of the model's stored \"knowledge\" actually lives - the fact that Paris is France's capital is baked into these layers • Producing the next word. At the end, the model turns its final numbers into a score for every possible next word, converts those into probabilities, and picks one. A \"temperature\" setting controls how predictable vs. creative the pick is. Then it adds that word to the text and runs the whole loop again. A paragraph is just this loop running word by word What makes models different is mostly (1) what text they were trained on, (2) size/configuration choices, and (3) the fine-tuning done afterward to make them follow instructions and behave TLDR: an LLM converts text to numbers, lets those numbers repeatedly compare and update each other through stacked layers, and uses the result to guess the next word - and \"intelligence\" is what emerges from doing that at massive scale",
+    "timestamp": "2026-06-07 07:15:24+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.0xkato.xyz/how-llms-actually-work/"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24654,
+    "text": "Centralized Crypto Exchange Spot Volume Fell to $679B in April, the Lowest Since October 2023 CryptoSlate, citing a CryptoQuant report, said centralized crypto exchange spot trading volume fell to $679 billion in April, the lowest level since October 2023. The figure was down 46% year-on-year and 67% from its October 2025 peak, while perpetual futures volume also declined 53% from its peak. As retail trading activity weakens, exchanges including Binance and Gate are expanding into TradFi-style perpetual products tied to gold, silver, oil, stocks and indices. The report said monthly TradFi perpetual volume on crypto exchanges reached about $450 billion in March 2026, with gold and silver contracts accounting for more than 90% of peak-month volume. — link",
+    "timestamp": "2026-06-07 03:46:20+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19458"
+    ],
+    "score": "0.72",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24653,
+    "text": "Glassnode Co-Founder: Bitcoin's Higher-Probability Bottom Zone Lies Between $46K and $54K Glassnode co-founder Rafael said Bitcoin has entered a historical cycle valuation zone typically associated with market bottoms. Based on on-chain valuation models, the higher-probability bottom range lies between $46,000 and $54,000, spanning the CVDD and Realized Price levels. In an extreme capitulation scenario, a deeper support zone could sit between $35,000 and $40,000. Rafael noted that Bitcoin drawdowns have become progressively shallower across market cycles, reducing the likelihood of a deeper decline. On the upside, the first key recovery zone sits between $75,000 and $79,000. He stressed that this is not a prediction, as Bitcoin bottoms cannot be identified with certainty in advance. — link",
+    "timestamp": "2026-06-07 02:33:01+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19457"
+    ],
+    "score": "0.78",
+    "tags": [
+      "news",
+      "education"
+    ]
+  }
+]
