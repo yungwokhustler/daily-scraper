@@ -1,0 +1,564 @@
+[
+  {
+    "id": 24733,
+    "text": "Highlight Clip Strategy CEO: We Sold 32 BTC to Inoculate the Market and Test Our Selling Process Strategy CEO Phong Le said in a June 11 interview with CNBC that the company sold 32 BTC mainly to inoculate the market and test its internal selling process. The tax losses generated from the sale can also be used to offset related taxes. Phong Le emphasized that the sale was not meant to pay dividends, as Strategy can still use other financing channels for that purpose. But if selling Bitcoin is beneficial to common shareholders, the company may choose to do so. — link",
+    "timestamp": "2026-06-14 00:34:34+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/WuBlockchain/status/2065860250612408764",
+      "https://wublockchain.xyz/news/news-19538"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 19627,
+    "text": "SPHINCS- verifies post-quantum Ethereum signatures at 127K gas without precompile or hard fork - ethresear.ch Ethereum, fork, quantum @Benthic_Bot @Benthic_Bot: SPHINCS- is an EVM-optimized hash-based signature family that can verify post-quantum signatures in Solidity today, with the main C13 variant at 12...",
+    "timestamp": "2026-06-13 21:53:37+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/256711?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/232/ethereum",
+      "https://leviathannews.xyz/t/1852/fork",
+      "https://leviathannews.xyz/t/1984/quantum"
+    ],
+    "score": "0.90",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": 14707,
+    "text": "Telegram Launches Rich Message Formatting > Telegram now allows chatbots to send rich-formatted messages with tables, nested lists, inline media, formulas, headers, and more. Source:",
+    "timestamp": "2026-06-13 21:30:11+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://core.telegram.org/bots/api#rich-message-formatting-options"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 11171,
+    "text": "",
+    "timestamp": "2026-06-13 19:31:05+00:00",
+    "author": "admin#1811377118",
+    "channel_id": "cookiesreads",
+    "platform": "telegram",
+    "links": [
+      "https://davefriedman.substack.com/p/perps-dont-work-for-compute-derivatives"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 19626,
+    "text": "Decibel opens 24/7 fully onchain markets on Aptos after Aptos Labs incubation - 𝕏/@AptosLabs Markets, Aptos, Onchain @Benthic_Bot @Benthic_Bot: Promoting from Tsunami auto-feed. Duplicate URL warning is expected — the original was auto-posted but not yet approved for the main feed.",
+    "timestamp": "2026-06-13 19:21:28+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/256709?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/794/markets",
+      "https://leviathannews.xyz/t/828/aptos",
+      "https://leviathannews.xyz/t/967/onchain"
+    ],
+    "score": "0.85",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 19625,
+    "text": "dYdX mobile adds MoonPay fiat deposits via card payments, Apple Pay, and Google Pay - 𝕏/@dYdX MoonPay, dYdX, Payments @Benthic_Bot @Benthic_Bot: Promoting from Tsunami auto-feed. Duplicate URL warning is expected — the original was auto-posted but not yet approved for the main feed.",
+    "timestamp": "2026-06-13 19:11:28+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/256707?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/345/moonpay",
+      "https://leviathannews.xyz/t/476/dydx",
+      "https://leviathannews.xyz/t/893/payments"
+    ],
+    "score": "0.85",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 19624,
+    "text": "Bitcoin difficulty heads for 9.55% drop as hashrate slides after BTC falls to $60K - Theenergymag $BTC, Bitcoin @Benthic_Bot @Benthic_Bot: Bitcoin's next difficulty adjustment is tracking a 9.55% drop, the second-largest decline this year, after seven-day hashrate fell from roughly 1 Z...",
+    "timestamp": "2026-06-13 19:01:27+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/256685?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/216/btc",
+      "https://leviathannews.xyz/t/217/bitcoin"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 14706,
+    "text": "Anthropic Refused White House Request to Patch Fable Jailbreak Before Export Control Was Issued > A credible trusted partner found a real jailbreak in Fable 5's guardrails, the White House asked Anthropic to fix it or pull the model, Anthropic refused and downplayed the severity, so the administration reluctantly issued the export control. > \"The Admin's hope now is that Anthropic remediates the safety issue, the export control is lifted, and Fable goes back into general release. The Admin wants all of this to happen as soon as possible.\" Source:",
+    "timestamp": "2026-06-13 18:15:29+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/DavidSacks/status/2065853007619588171"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 23396,
+    "text": "To All the Folks Who Are About to Be Rich Money buys relief and comfort but not joy or lasting day-to-day happiness Money changes your life but you control how much it changes your identity and connections with others. Decide if you're still playing the game of more Best use: create shared memories with others through dinners, trips, and community",
+    "timestamp": "2026-06-13 17:56:38+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/joulee/status/2065462395234091353?s=20"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 23395,
+    "text": "Ethereum can prepare accounts for the post-quantum era without requiring a hard fork SPHINCS introduces a family of post-quantum signature variants optimized for the EVM by swapping standard hash functions with native KECCAK256 and using a smaller signature budget This approach allows for practical, on-chain post-quantum verification costs without requiring any protocol changes or hard fork precompiles",
+    "timestamp": "2026-06-13 17:56:38+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://ethresear.ch/t/sphincs-minus-efficient-stateless-post-quantum-signature-verification-on-the-evm/25165"
+    ],
+    "score": "0.85",
+    "tags": [
+      "education",
+      "security"
+    ]
+  },
+  {
+    "id": 23398,
+    "text": "Anthropic refused to fix a confirmed jailbreak exposing advanced cyber capabilities or pull the model The US administration asked Anthropic to fix the jailbreak or remove the model from deployment; Anthropic refused and downplayed the issue despite its public emphasis on AI safety and prior calls for regulation of such capabilities",
+    "timestamp": "2026-06-13 17:56:38+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/DavidSacks/status/2065853007619588171"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 23397,
+    "text": "The race to own AI",
+    "timestamp": "2026-06-13 17:56:38+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://a16zcrypto.substack.com/p/the-race-to-own-ai"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 8627,
+    "text": "DAVID SACKS SAYS ANTHROPIC'S EXPORT CONTROL WAS DUE TO COMPANY NOT WANTING TO FIX JAILBREAK SOURCE",
+    "timestamp": "2026-06-13 17:54:21+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/AGGRNEWSWIRE/679"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 679,
+    "text": "DAVID SACKS SAYS ANTHROPIC'S EXPORT CONTROL WAS DUE TO COMPANY NOT WANTING TO FIX JAILBREAK ADMIN HOPES THEY REMEDIATE SAFETY ISSUE TO LIFT EXPORT CONTROL: X Link",
+    "timestamp": "2026-06-13 17:54:19+00:00",
+    "author": "admin#2241189018",
+    "channel_id": "AGGRNEWSWIRE",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/AggrNews/status/2065855294639354226"
+    ],
+    "score": "0.70",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 24732,
+    "text": "Ethereum Researcher Says Post-Quantum Account Protection Can Be Implemented Today for $0.07 Ethereum Foundation privacy project Kohaku lead Nico said Ethereum can begin preparing accounts for the post-quantum era today without requiring a hard fork. According to Nico, the proposed account-level solution costs approximately $0.07 per account to deploy. The design has completed an initial review with Fable, with additional audits planned. — link",
+    "timestamp": "2026-06-13 16:36:07+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19537"
+    ],
+    "score": "0.92",
+    "tags": [
+      "education",
+      "security"
+    ]
+  },
+  {
+    "id": 14705,
+    "text": "OpenTensor on Fable 5 and Mythos 5 Shutdown > \"Access to intelligence should not depend on a handful of companies or governments.\" > \"This is why open, decentralized, permissionless AI matters.\" Source:",
+    "timestamp": "2026-06-13 15:44:59+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/opentensor/status/2065794557032165849"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24731,
+    "text": "Bitcoin Mining Difficulty Drops 9.55%, Second-Largest Decline This Year According to TheEnergyMag, Bitcoin mining difficulty is expected to fall by approximately 9.55% in about eight hours, marking the second-largest decline this year, following a sharp drop in network hashrate caused by early June price weakness. The adjustment is expected to increase BTC output per active hashrate by over 9%. It may also push mining hashprice back above $30 per PH/s. Beyond the shutdown of older mining rigs due to profitability pressure, another key driver of the hashrate decline is the reallocation of power capacity toward high-performance computing (HPC) and AI data centers. According to Galaxy Research, Bitcoin completed its 11th-largest downward difficulty adjustment at block 953,568, with difficulty falling 10.09% from 138.96T to 124.93T. Galaxy said Bitcoin's roughly 15% price decline in June squeezed miner margins, pushing some hashrate offline and extending the epoch to 15.6 days versus the 14-day target. — link",
+    "timestamp": "2026-06-13 15:40:32+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19536"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 14704,
+    "text": "TAO Surged 22.8%, Partly Driven by Growing Demand for Decentralized AI Alternatives Following the Suspension of Claude's Fable 5. Source:",
+    "timestamp": "2026-06-13 15:32:31+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/coingecko/status/2065773452313743576"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 14703,
+    "text": "June 12th Rollup Research & Ideation • Castle Labs | propAMMs: Better than CEX? • Artemis: Why Robinhood is Positioned to Be the Winner of Retail Finance News & Markets • Circle Sends Record $4.4B USDC to Coinbase Hyperliquid Deployer Project Updates • Blockworks Acquires Messari for ~$10M • SpaceX $SPCX is Now Trading on Nasdaq • Coinbase Launches 24/7 Gold and Silver Futures Trading in the US • Securitize Expands its Tokenized AAA CLO Fund (STAC) to Solana Artificial Intelligence • Anthropic Suspends Fable 5 and Mythos 5 After US Government Export Control Directive",
+    "timestamp": "2026-06-13 15:32:07+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/14688",
+      "https://t.me/shoalresearch/14684",
+      "https://t.me/shoalresearch/14670",
+      "https://t.me/shoalresearch/14699",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/14695",
+      "https://t.me/shoalresearch/14696",
+      "https://t.me/shoalresearch/14702",
+      "https://t.me/shoalresearch/14690",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/14700"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24730,
+    "text": "Weekly Project Updates: Arbitrum Nova Enters Maintenance, Botanix to Wind Down Bitcoin Layer 2 Network, Aave Updates Risk Framework, Pudgy Party to Cease Operations, etc. For the complete article and weekly curated reports, subscribe to our Substack: — link",
+    "timestamp": "2026-06-13 13:28:13+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19535"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 470,
+    "text": "Thoughts on SPCX It's consensus that Elon is the grand master of manifesting \"impossible\" narratives into existence. Betting against him has ruined countless careers for fundamental traders. In all instances with having a deep crypto and memetic background, we all know how the overhyped KOL CEO protocol ends when they eventually run out of time and shill power. Except Elon's one in a billion and previous frameworks don't really apply to him, yet. Each miracle company he scales adds more confidence to his own abilities, therefore taking bigger risks. Since it's difficult to apply fundamentals to such a speculative company, despite having some \"qualifiable\" physics backing his pitch, X, xAI and Starlink on the balance sheet, the best edge I can generate for this trade is understanding his psyche and how he's positioned the asset to benefit from attention, based on float and NASDAQ dynamics. As Ansem said, crypto traders have been training our whole careers for these type of attention trades. While SPCX is 4% float with intergalactic space travel as the narrative, the structure of the asset holders, unlocks and NASDAQ dynamics feel slightly different: - 4.2% float - only 20% to retail -> this means 0.8% possible sell pressure (rest to long-only) - >50% won't sell given flipping policy / natural hodler -> 0.4% possible sell pressure Index funds are expected to buy 20bn / 1% -> 1% >> 0.4% -> 99.6% control while a DAT is coming in 2 weeks. Regarding lock up schedule, there's a 30% performance hurdle (must close $175+ for 5 consecutive days for 10% to unlock), as well as August earnings date, which will unlock 20%. Additional 7% tranches unlock at 70, 90, 105, 120, and 135 days post IPO. The greenshoe (over-allotment option allowing underwriters led by Morgan Stanley) can sell up to ~15% more shares in the first 30 days. This trade is more so invalidated by time, not price if you're trading it leading into the DAT purchases. Due to the 10% unlock if price stays over $175 for 5 consecutive days, this will act as a major roof in the short term as traders won't be willing to speculate on price staying above that level as it affects float so much. Nasdaq changed rules (effective May 1, 2026) for fast track Nasdaq 100 inclusion after just 15 trading days for large new listings (no 10% float minimum, with float multiplier). For a June 12 IPO, this lands around early July (~2–3 weeks). Russell indices also have fast entry. S&P 500 is slower (no fast track). Index funds tend to be permanent holders, meaning shares effectively disappear from circulation once purchased. With 4–5% float and potentially <1% truly liquid float, even a relatively small amount of forced buying can outstrip available supply. Nasdaq 100 will equal roughly 15-25 billion of buying. Russell will equal roughly 2-8 billion. Current tradable float is 80-100B, if we're taking the 99.6% supply control number then 0.4% equals around 8 billion. With the DATs buying being so forecasted it's difficult to see price remaining above 175 as 10% of additional shares will come onto the market. In saying that this entire launch has been designed to capture as much upside as possible, you'd think Elon must have something else up his sleeve, although that's never a strong variable to put weight on for a trade. That's how I currently see this trade. There is decent amount of asymmetry granted how little information has been provided regarding the roadmap of SpaceX and its encompassing companies. In terms of volatility I don't see it being too significant until we get closer to those DAT purchases, if price remains above 175 and/or the greenshoe being activated. Unless Elon pulls a rabbit out of the hat, which I think if anyones going to he's the person that will, there's quite an overcast of short and mid term future unlocks that deters momentum traders from buying.",
+    "timestamp": "2026-06-13 12:25:47+00:00",
+    "author": "admin#2348415136",
+    "channel_id": "TrissysEdge",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.88",
+    "tags": [
+      "product",
+      "education"
+    ]
+  },
+  {
+    "id": 24729,
+    "text": "According to Jupiter data, multiple SpaceX stock tokens issued by different providers are now available for trading on the Solana network. The SPCX token issued by Backpack recorded a 24-hour trading volume of $37.5 million, making it the most actively traded stock token on Solana. xStocks' SPCXx recorded a trading volume of $6.65 million over the same period, while Pre-Stocks' SPACEX saw $2.78 million in volume. — link",
+    "timestamp": "2026-06-13 11:59:26+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19534"
+    ],
+    "score": "0.95",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 14702,
+    "text": "Coinbase Launches 24/7 Gold and Silver Futures Trading in the US Source:",
+    "timestamp": "2026-06-13 10:06:16+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/brian_armstrong/status/2065677838347370796"
+    ],
+    "score": "0.92",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 14701,
+    "text": "SPCX Records Over $37M Onchain Volume on Solana in First 12 Hours Source:",
+    "timestamp": "2026-06-13 09:48:50+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/sunrisedefi/status/2065647530072056004"
+    ],
+    "score": "0.90",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 19623,
+    "text": "New research proposes a falsification test for tokens, claiming assets, blockspace, performance bonds, and capital allocators are crypto's only valid categories - 𝕏/@Aryonchain Crypto, Research, Bond @Danicjade @Benthic_Bot: Bittensor's flow-based emissions already use net TAO flow and an ~86.8-day EMA, so they dampen obvious liquidity games but still don't measure cust...",
+    "timestamp": "2026-06-13 07:53:29+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/256587?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/948/crypto",
+      "https://leviathannews.xyz/t/1110/research",
+      "https://leviathannews.xyz/t/1183/bond"
+    ],
+    "score": "0.85",
+    "tags": [
+      "education",
+      "product"
+    ]
+  },
+  {
+    "id": 19622,
+    "text": "SeerDEX launches multi-stage $SEERX token presale for Solana prediction market rival to Polymarket - decrypt.co Solana, Polymarket, Markets @JLJohn @Benthic_Bot: $61B of Polymarket-v1 nominal volume came from UX, curation, and makers willing to warehouse ugly event risk; the token was the missing trade, not ...",
+    "timestamp": "2026-06-13 07:43:28+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/256558?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/338/solana",
+      "https://leviathannews.xyz/t/506/polymarket",
+      "https://leviathannews.xyz/t/794/markets"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 19621,
+    "text": "SpaceX IPO rush exposes a hard truth: tokenizing a stock and actually owning one are two very different things - Coindesk IPO, SpaceX @Danicjade @Benthic_Bot: $1B+ of SPCXx demand hit the one bottleneck no smart contract can route around: actual primary-market allocation. xStocks can move a tokenized trac...",
+    "timestamp": "2026-06-13 07:33:27+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/256582?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/581/ipo",
+      "https://leviathannews.xyz/t/1426/spacex"
+    ],
+    "score": "0.93",
+    "tags": [
+      "product",
+      "education"
+    ]
+  },
+  {
+    "id": 19620,
+    "text": "CFTC opens door for more crypto derivatives, raising concerns over market risk and oversight - cftc.gov CFTC, Markets, Crypto @JLJohn @Benthic_Bot: The June 30 sunset matters: this is a two-week no-action bridge for DCMs to remove expiries from existing crypto perp-style futures, not a permanen...",
+    "timestamp": "2026-06-13 07:23:26+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/256569?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/584/cftc",
+      "https://leviathannews.xyz/t/794/markets",
+      "https://leviathannews.xyz/t/948/crypto"
+    ],
+    "score": "0.94",
+    "tags": [
+      "news",
+      "governance",
+      "product"
+    ]
+  },
+  {
+    "id": 14700,
+    "text": "Anthropic Suspends Fable 5 and Mythos 5 After US Government Export Control Directive > The US government, citing national security authorities, has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national over alleged jailbreak risks, forcing Anthropic to disable both models for all customers to ensure compliance, while all other models remain unaffected.. Source:",
+    "timestamp": "2026-06-13 06:47:45+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://www.anthropic.com/news/fable-mythos-access"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 24728,
+    "text": "According to SoSoValue data, spot Bitcoin ETFs recorded total net inflows of $85.85 million on June 12 Eastern Time, with none of the 12 funds seeing net outflows. Spot Ethereum ETFs saw total net outflows of $4.95 million, marking the fourth consecutive day of outflows. — link",
+    "timestamp": "2026-06-13 05:57:10+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19533"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 19619,
+    "text": "Crypto's future belongs to enforceable claims on real assets as private company ownership, tokenized securities, and stablecoins eclipse speculative tokens by 2029 - 𝕏/@MiyaHedge Stablecoins, Crypto @Danicjade @Benthic_Bot: $30.87B of distributed RWA value against $298.5B of stablecoins on RWA.xyz is the spread that matters: cash tokens already found PMF, securities ar...",
+    "timestamp": "2026-06-13 04:59:54+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/256446?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/t/399/stablecoins",
+      "https://leviathannews.xyz/t/948/crypto"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 8626,
+    "text": "ETF Flows: 12 Jun 2026 Bitcoin ETFs: $85.9M net inflows Ethereum ETFs: -$4.9M net outflows Solana ETFs: $0.0M net outflows Hyperliquid ETFs: $0.0M net outflows",
+    "timestamp": "2026-06-13 03:48:59+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 23394,
+    "text": "Anthropic suspends usage of Mythos for all non US nationals",
+    "timestamp": "2026-06-13 03:21:56+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.anthropic.com/news/fable-mythos-access"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24727,
+    "text": "Standard Chartered's Kendrick: Crypto Winter Is Over; $100K BTC and $4K ETH Year-End Targets Remain Standard Chartered analyst Geoffrey Kendrick maintained his year-end targets of $100,000 for Bitcoin and $4,000 for Ethereum, saying Bitcoin's drop to around $59,000 likely marked the cycle bottom and the end of the current \"crypto winter.\" Kendrick cited heavy spot Bitcoin ETF redemptions, liquidity pressure tied to the SpaceX IPO, and easing macro stress as key factors behind the recent selloff. He expects renewed buying and ETF inflows to help confirm the bottom, and said Ethereum may outperform Bitcoin in the near term. — link",
+    "timestamp": "2026-06-13 03:21:05+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19532"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 20082,
+    "text": "Metaplanet buys Siiibo to develop Bitcoin-linked financial products in Japan — link | AI comment",
+    "timestamp": "2026-06-13 01:47:55+00:00",
+    "author": "admin#1358788312",
+    "channel_id": "unfolded",
+    "platform": "telegram",
+    "links": [
+      "https://www.techinasia.com/news/metaplanet-buys-siiibo-japan-bitcoin-finance-push",
+      "https://t.me/unfolded_bot?start=LTEwMDEzNTg3ODgzMTJfMjAwODI"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product"
+    ]
+  }
+]
