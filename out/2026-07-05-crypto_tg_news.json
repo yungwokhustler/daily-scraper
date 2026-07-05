@@ -1,0 +1,821 @@
+[
+  {
+    "id": 25007,
+    "text": "Vitalik Outlines Ethereum's \"Lean Ethereum\" Roadmap, Targeting Native STARKs and Quantum Resistance Ethereum co-founder Vitalik Buterin has outlined the long-term roadmap for Ethereum's third major evolution, dubbed \"Lean Ethereum,\" with upgrades expected to roll out over the next three to four years. Key initiatives include making recursive STARKs a native verification component, replacing remaining quantum-vulnerable cryptography with post-quantum alternatives, introducing a new \"scalable state\" type capable of reaching 100 TB by 2030 to reduce transaction costs for certain tokens by more than 10x, and exploring RISC-V or leanISA virtual machines to enable programmable privacy. Vitalik also said the upcoming Glasterdam upgrade is expected to significantly increase Ethereum's gas limit. — link",
+    "timestamp": "2026-07-05 00:18:00+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19812"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "governance",
+      "product"
+    ]
+  },
+  {
+    "id": 11325,
+    "text": "",
+    "timestamp": "2026-07-04 22:45:20+00:00",
+    "author": "admin#1811377118",
+    "channel_id": "cookiesreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/completeskeptic/status/2073442518117884197"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15036,
+    "text": "Career Advice in the Age of AI > Focus on resources that are truly limited > Learn to find problems in addition to solving them > Work on the most ambitious form of a problem > Learning to execute well in the last mile > Increase both xG and efficiency i.e increase quality opportunities and execution. > You can break into research now: curiosity and experimentation beat credentials. Source:",
+    "timestamp": "2026-07-04 21:10:20+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/philhchen/status/2072793818945167475"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15035,
+    "text": "EtherFi Proposed a Dedicated Aave V4 Instance on OP Mainnet to Power EtherFi Cash > Aave V4 will replace the existing tech to brings more flexibility and scale for borrowing and lending directly for EtherFi users > The proposal includes up to $175M in launch assets, GHO integration, and a 20% revenue share to the Aave DAO. Source:",
+    "timestamp": "2026-07-04 20:38:38+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/MikeSilagadze/status/2073037156931494095"
+    ],
+    "score": "0.90",
+    "tags": [
+      "governance",
+      "product"
+    ]
+  },
+  {
+    "id": 20369,
+    "text": "EtherFi proposes Aave V4 hub on OP Mainnet for EtherFi Cash with up to $175M in assets and 20% DAO revenue share - governance.aave 𝕏 · LinkedIn · Discord · Leviathan · Source Ether.Fi · $OP · DAO @Benthic_Bot",
+    "timestamp": "2026-07-04 20:29:19+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268865?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/i/web/status/2073504435112759631",
+      "https://www.linkedin.com/feed/update/urn:li:share:7479273496414531584",
+      "https://leviathannews.xyz/redirect/268865?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268865?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268865?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/ether-dotfi",
+      "https://leviathan.news/atlas/op",
+      "https://leviathan.news/atlas/dao"
+    ],
+    "score": "0.92",
+    "tags": [
+      "governance",
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 1214,
+    "text": "I wonder if someone made a bunch of money buying GOLD on the cheap from this guy",
+    "timestamp": "2026-07-04 18:53:26+00:00",
+    "author": "admin#2386871401",
+    "channel_id": "whoiskevinradar",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 1213,
+    "text": "JUST IN : $GOLD crashed by almost $100 within 1 minute on Hyperliquid. @News_Crypto",
+    "timestamp": "2026-07-04 18:47:04+00:00",
+    "author": "admin#2386871401",
+    "channel_id": "whoiskevinradar",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15034,
+    "text": "Haseeb On Tokens vs Equity, Venice, and VVV > \"A lot of people's discomfort with VVV is that they think every token should be a governance token or should basically be equity. If you think this, then you basically object to actual capital innovation in tokens\" > \"Venice is not a DAO, its not a decentralised product… Its a fast growing AI startup that is using tokens as part of its capital stack\" Source:",
+    "timestamp": "2026-07-04 17:40:23+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/hosseeb/status/2073447818564641211"
+    ],
+    "score": "0.85",
+    "tags": [
+      "education",
+      "product"
+    ]
+  },
+  {
+    "id": 5517,
+    "text": "INTEL: TRUMP SAYS \"WE'RE GETTING ALONG GREAT. NETANYAHU KNOWS WHO THE BOSS IS\" | PER AXIOS Twitter",
+    "timestamp": "2026-07-04 17:16:16+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 20368,
+    "text": "Ondo-backed op-ed warns against turning tokenized securities into private walled gardens, calling for investor protections alongside open competition - 𝕏/@OndoFinance 𝕏 · Discord · Leviathan · Source Ondo Finance @Danicjade",
+    "timestamp": "2026-07-04 17:10:59+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268808?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/i/web/status/2073467247893643760",
+      "https://leviathannews.xyz/redirect/268808?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268808?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268808?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/ondo-finance"
+    ],
+    "score": "0.82",
+    "tags": [
+      "news",
+      "product",
+      "security"
+    ]
+  },
+  {
+    "id": 20367,
+    "text": "Varick argues private equity firms are undervaluing AI by focusing on cost cuts, while overlooking its potential to boost exit multiples and shorten holding periods - 𝕏/@varickagents 𝕏 · Discord · Leviathan · Source Private Equity @Danicjade",
+    "timestamp": "2026-07-04 17:00:57+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268805?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/i/web/status/2073452018086064333",
+      "https://leviathannews.xyz/redirect/268805?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268805?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268805?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/2142/private-equity"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15033,
+    "text": "The Most Profitable Skill of the 21st Century (Not AI) > Dan Koe argues understanding human nature, how people think, feel, and make decisions is the most valuable meta-skill in the 21st century, as it enables effective persuasion, marketing, and value creation regardless of technological change. Source:",
+    "timestamp": "2026-07-04 16:59:47+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/thedankoe/status/2073418764058825045"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15032,
+    "text": "Private Equity Underestimates AI > Private equity firms are underestimating AI by focusing only on cost savings, when AI can also increase exit multiples and shorten holding periods through workflow standardization & scalable operating models. > Instead of deploying bespoke AI solutions across each portfolio company, PE firms should standardize shared processes and reuse AI transformation patterns, enabling faster value creation, higher enterprise value, and stronger investment returns. Source:",
+    "timestamp": "2026-07-04 16:59:37+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/varickagents/status/2073149705060860025"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 20366,
+    "text": "Analysis of 514,915 crypto card wallets suggests float—not cashback—is the industry's biggest moat, with user balances revealing where trust truly resides - 𝕏/@strato_money LinkedIn · Discord · Leviathan · Source Crypto Payment Card · wallets @Danicjade",
+    "timestamp": "2026-07-04 16:31:34+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268802?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7479214563263959041",
+      "https://leviathannews.xyz/redirect/268802?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268802?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268802?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/crypto-payment-card",
+      "https://leviathan.news/atlas/wallets"
+    ],
+    "score": "0.90",
+    "tags": [
+      "product"
+    ]
+  },
+  {
+    "id": 20365,
+    "text": "Aave teases upcoming consumer app launch, aiming to bring DeFi savings and yield products to mainstream users through a simplified experience - 𝕏/@aave 𝕏 · LinkedIn · Discord · Leviathan · Source $GHO · $AAVE · Aave @Danicjade",
+    "timestamp": "2026-07-04 16:21:31+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268803?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/i/web/status/2073442088872468644",
+      "https://www.linkedin.com/feed/update/urn:li:share:7479261375643439104",
+      "https://leviathannews.xyz/redirect/268803?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268803?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268803?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/gho",
+      "https://leviathan.news/atlas/aave-token",
+      "https://leviathan.news/atlas/aave"
+    ],
+    "score": "0.90",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 20364,
+    "text": "Researcher argues human nature, not AI, coding or marketing, is the ultimate 21st-century skill, claiming persuasion and psychology underpin every opportunity - 𝕏/@thedankoe Discord · Leviathan · Source Marketing @Danicjade",
+    "timestamp": "2026-07-04 16:18:00+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268799?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/268799?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268799?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268799?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/marketing"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 20363,
+    "text": "Aave V4 surpasses $250M in deposits, marking a major liquidity milestone as the protocol gears up for its next phase of DeFi lending expansion - 𝕏/@aave 𝕏 · LinkedIn · Discord · Leviathan · Source $GHO · Milestone · Expansion @Danicjade",
+    "timestamp": "2026-07-04 16:16:45+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268801?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/i/web/status/2073440900332605468",
+      "https://www.linkedin.com/feed/update/urn:li:share:7479237777662820352",
+      "https://leviathannews.xyz/redirect/268801?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268801?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268801?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/gho",
+      "https://leviathan.news/atlas/milestone",
+      "https://leviathan.news/atlas/expansion"
+    ],
+    "score": "0.92",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 20362,
+    "text": "ESMA says prediction market event contracts likely fall under EU retail ban on binary options - esma.europa.eu Discord · Leviathan · Source Retail · EU @Benthic_Bot @Benthic_Bot: ESMA's July 3 stat...",
+    "timestamp": "2026-07-04 16:07:54+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268544?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/268544?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268544?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268544?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/retail",
+      "https://leviathan.news/atlas/eu"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 25006,
+    "text": "Bitcoin Miner IREN Grants Co-CEOs $700M in RSUs, Equal to About 5% of Outstanding Shares Nasdaq-listed Bitcoin miner IREN has approved grants of 9,099,328 restricted stock units (RSUs) each to co-CEOs William Roberts and Daniel Roberts, totaling 18,198,656 RSUs worth approximately $700 million at the time of the announcement, or about 5% of the company's outstanding shares. The awards are subject to a six-year vesting and holding structure, and both executives will not receive additional equity grants before FY2031. IREN reported $184.7 million in revenue and a net loss of $155.4 million for the quarter ended Dec. 31, 2025. — link",
+    "timestamp": "2026-07-04 14:35:30+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19811"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 15031,
+    "text": "Revolut to Delist USDT in August, Citing Regulatory and Risk Concerns > Revolut will delist USDT beginning in July and fully remove support by Aug. 31, 2026, citing regulatory and risk concerns, with remaining balances automatically converted to users' base currency. > The move follows broader industry efforts to comply with the EU's MiCA framework, though Revolut has not confirmed whether the delisting applies globally or only in certain jurisdictions. Source:",
+    "timestamp": "2026-07-04 13:56:11+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://cointelegraph.com/news/revolut-usdt-delisting-regulatory-risk-concerns"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 15030,
+    "text": "July 3rd Rollup Research & Ideation • michaellwy: How will AI Labs Eventually Make Money • Galaxy Brains: The State of Bitcoin W/ Alex Thorn • Andy Kowinski: Concentration of Power in AI is a Risk, Not a Solution • Semianalysis: Meta Compute: Everyone Wants To Be A Neocloud • Yann LeCun Warns the Concentration of Power is by far the Biggest Danger of AI. News & Markets • Korean Firms Say They Were Listed as OUSD Alliance Members Without Formal Consultation Project Updates • Kamino: HYPE Market is Now Live on Kamino • Aave V3 Surpasses $75M in Deposits on Monad Within 24 Hours Artificial Intelligence • Microsoft Introduces Frontier Company",
+    "timestamp": "2026-07-04 13:55:27+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15029",
+      "https://t.me/shoalresearch/15024",
+      "https://t.me/shoalresearch/15027",
+      "https://t.me/shoalresearch/15021",
+      "https://t.me/shoalresearch/15028",
+      "https://t.me/shoalresearch/15021",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15025",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15019",
+      "https://t.me/shoalresearch/15023",
+      "https://t.me/shoalresearch/14980",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15026"
+    ],
+    "score": "0.75",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 20361,
+    "text": "Revolut tells some users it will block USDT buys July 6 and auto-convert balances after Aug. 31 - CoinTelegraph Discord · Leviathan · Source Revolut · $USDT @Benthic_Bot",
+    "timestamp": "2026-07-04 13:34:41+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268739?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/268739?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268739?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268739?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/revolut",
+      "https://leviathan.news/atlas/usdt"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 20360,
+    "text": "Nearly 1M $TRUMP buyers lose $3.8B while sophisticated traders come out ahead - NY Times Discord · Leviathan · Source @Benthic_Bot @Benthic_Bot: NYT says a crypto analytics firm found nearly 1 million Trump memecoin buyers lost a combined $3.8 billion, with retail taking the hit while sophis...",
+    "timestamp": "2026-07-04 13:24:51+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268697?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/268697?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268697?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268697?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 20359,
+    "text": "Corezcat and GameStopfun rug pulls drain $93K through external balanceOf logic - 𝕏/@HashDit Discord · Leviathan · Source Rug @Benthic_Bot @Benthic_Bot: HashDit says Corezcat and GameStopfun drained about $93K after both token contracts overrode ERC-20 balanceO...",
+    "timestamp": "2026-07-04 13:24:41+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268693?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/268693?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268693?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268693?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/rug"
+    ],
+    "score": "0.95",
+    "tags": [
+      "scam",
+      "security"
+    ]
+  },
+  {
+    "id": 20358,
+    "text": "UK FCA crypto regime preserves global liquidity, but 85% failed AML applications warn of rough rollout - Coindesk 𝕏 · Discord · Leviathan · Source FCA · AML · UK @Benthic_Bot",
+    "timestamp": "2026-07-04 13:14:44+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268741?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/i/web/status/2073395082850394338",
+      "https://leviathannews.xyz/redirect/268741?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268741?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268741?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/2851/fca",
+      "https://leviathannews.xyz/t/2695/aml",
+      "https://leviathan.news/atlas/uk"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 20357,
+    "text": "Onchain options renaissance signals major growth as volatility drives new trading opportunities - 𝕏/@castle_labs 𝕏 · Discord · Leviathan · Source Onchain @JLJohn via 𝕏",
+    "timestamp": "2026-07-04 13:14:07+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268728?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/i/web/status/2073394929951285579",
+      "https://leviathannews.xyz/redirect/268728?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268728?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268728?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/onchain",
+      "https://x.com/JohnJL18/status/2073319155374391437"
+    ],
+    "score": "0.82",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 20356,
+    "text": "Socket's one-click deposit addresses unlock seamless cross-platform fund transfers with zero fees - 𝕏/@SOCKETProtocol 𝕏 · Discord · Leviathan · Source Fees @JLJohn via 𝕏",
+    "timestamp": "2026-07-04 13:11:42+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268668?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/i/web/status/2073394278206758953",
+      "https://leviathannews.xyz/redirect/268668?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268668?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268668?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/fees",
+      "https://x.com/leviathan_news"
+    ],
+    "score": "0.82",
+    "tags": [
+      "product"
+    ]
+  },
+  {
+    "id": 20355,
+    "text": "Maple Finance joins Global Dollar Network, launches syrupUSDG for USDG yield opportunities - 𝕏/@global_dollar Discord · Leviathan · Source @JLJohn via 𝕏 @Benthic_Bot: syrupUSDG pushes the stablecoin fight past exchange listings into embedded credit: Paxos...",
+    "timestamp": "2026-07-04 13:08:18+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268687?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/268687?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268687?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268687?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/JohnJL18/status/2073324789113200914"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 23825,
+    "text": "NEARLY 1 MILLION RETAIL INVESTORS LOSE $3.81 BILLION ON TRUMP MEMECOIN: NEW YORK TIMES SOURCE",
+    "timestamp": "2026-07-04 13:02:05+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.nytimes.com/2026/07/04/us/politics/nearly-a-million-investors-lost-a-total-of-3-8-billion-on-trump-crypto-coin.html"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 25005,
+    "text": "NYT: Nearly 1 Million Retail Investors Lose $3.81 Billion on TRUMP Memecoin According to a Nansen report cited by The New York Times, nearly 988,905 investors who purchased the TRUMP memecoin had lost money as of the end of June 2026, with cumulative losses totaling $3.81 billion, representing roughly two out of every three buyers. The coin is currently trading at $1.76, down 97% from its peak of $75.35. Meanwhile, Donald Trump's annual financial disclosure for 2025 revealed a $636 million payout from his crypto bets, and a total profit of $799 million from his crypto startup, World Liberty Financial. The report notes that while a small number of sophisticated early traders captured approximately $4 billion in profits, the broad retail majority absorbed the losses. — link",
+    "timestamp": "2026-07-04 12:53:38+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19810"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 23824,
+    "text": "REVOLUT WILL DELIST USDT NEXT MONTH, ALLOWING BUYS UNTIL JULY 6 AND WITHDRAWALS UNTIL THE DEADLINE SOURCE",
+    "timestamp": "2026-07-04 12:51:52+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/wublockchain/status/2073254009025290561?s=12&t=2q9OLMlaobNlHLewOXT4uA"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 23823,
+    "text": "Grass: The AI Data Business Hiding Inside a Token Grass - AI data infrastructure business operating a residential proxy network of over 8.5m opt-in users that enables AI labs to access web content blocked to standard scrapers Revenue has grown rapidly from near zero in Q1 2025 to a projected $12.8m in Q4, supported by owned data centers, GPU processing pipelines, and a shift to recurring subscription crawls rather than one-off dataset sales",
+    "timestamp": "2026-07-04 12:51:52+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/yanliberman/status/2073009827580629239?s=12&t=2q9OLMlaobNlHLewOXT4uA"
+    ],
+    "score": "0.90",
+    "tags": [
+      "product"
+    ]
+  },
+  {
+    "id": 23822,
+    "text": "Surge in crypto TCG gacha sites for Pokémon Averaged realisable edge per provider, with an overall market average of -9.3%",
+    "timestamp": "2026-07-04 12:51:52+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/0xjezza/status/2073363105694806422?s=46&t=2q9OLMlaobNlHLewOXT4uA"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 25004,
+    "text": "Bloomberg: German Savings Banks and Cooperative Banks to Bring Crypto Trading to Millions of Retail Customers Bloomberg reports that Germany's crypto market could see significant growth in the coming months as regional savings banks (Sparkassen) and cooperative banks (Volksbanken) begin rolling out native cryptocurrency trading services to retail customers. The move will allow millions of Germans to buy and sell crypto directly through their existing banking apps, eliminating the need for third-party exchanges and further lowering the barrier to crypto adoption. — link",
+    "timestamp": "2026-07-04 10:34:35+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19809"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 15029,
+    "text": "How will AI Labs Eventually Make Money > The labs that survive won't be the ones that make the API profitable. > They'll be the ones that identify their property above the station and build toward it now. > The API is the rail. It will never be profitable enough. > The money is in what appreciates around it. Source:",
+    "timestamp": "2026-07-04 10:33:20+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://michaellwy.substack.com/p/a-subway-company-solved-ais-business"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 11322,
+    "text": "Alex Karp on Enterprise AI — CNBC Interview Filtered some substantive points worth chewing on: 1. The token pricing tell If a model truly generates $1B in value, why charge per token instead of taking equity? Per-token pricing signals the vendor doesn't believe in the value they claim. 2. Margin concentrates in application layer and compute (per Palantir's own financials) The model layer runs thin to negative. Profit and free cash flow sit in the application layer and compute. Weak frontier lab financials come partly from the gap between token spend and actual value delivered. 3. Four questions every enterprise should ask Who owns the data? Where is it cached? Are prompts secure? Is your IP being transferred to the vendor? Giving a model vendor your data means they can learn your business and replicate it. 4. Value = model + application layer + compute A model alone is inert in enterprise settings. Value comes from the layer that keeps data untouched and prevents IP leakage while making the model usable. 5. Weight ownership is the real battleground An open model brought to frontier level, with weights the customer controls, beats a closed frontier model controlled by a third party. Owning the means of production beats renting capability. Takeaway: the debate is shifting from \"which model is smartest\" to \"who controls the stack, the data, and the value it generates.\" Model capability is commoditizing. Control and application layers are where defensibility accrues.",
+    "timestamp": "2026-07-04 10:14:13+00:00",
+    "author": "admin#1811377118",
+    "channel_id": "cookiesreads",
+    "platform": "telegram",
+    "links": [
+      "https://youtu.be/0A3sGymV6kY?si=pWW7NZHmB0gR9bkp"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 20354,
+    "text": "ASIC secures A$20.5M ASX penalty over misleading blockchain CHESS replacement update - asic.gov.au 𝕏 · LinkedIn · Discord · Leviathan · Source ASIC · update @Benthic_Bot",
+    "timestamp": "2026-07-04 09:30:22+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/268578?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/i/web/status/2073355256071876684",
+      "https://www.linkedin.com/feed/update/urn:li:share:7479105083947778050",
+      "https://leviathannews.xyz/redirect/268578?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/268578?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/268578?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/2904/asic",
+      "https://leviathan.news/atlas/update"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 5516,
+    "text": "INTEL: AI data centers may use far more water than reported, as Microsoft, Google and Amazon largely exclude power-related water use from disclosures | per WSJ Twitter",
+    "timestamp": "2026-07-04 08:07:45+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 23821,
+    "text": "Solana szn Useful Dune dashboards by Adam_Tehc 1. Pumpfun eco: 2. Memecoin wars: 3. Trading bots on Solana: 4. Solana trenches: 5. Solana stablecoins: 6. Axiom stats: 7. Fomo app stats:",
+    "timestamp": "2026-07-04 05:52:04+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://dune.com/adam_tehc/pumpfun",
+      "https://dune.com/adam_tehc/memecoin-wars",
+      "https://dune.com/adam_tehc/trading-bots-on-solana",
+      "https://dune.com/adam_tehc/the-solana-trenches",
+      "https://dune.com/adam_tehc/stablecoins-on-solana",
+      "https://dune.com/adam_tehc/axiom",
+      "https://dune.com/adam_tehc/fomo"
+    ],
+    "score": "0.85",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": 23819,
+    "text": "DRAM prices are now expected to rise 32% QoQ in Q3 and 18% QoQ in Q4.",
+    "timestamp": "2026-07-04 05:50:41+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/jukan05/status/2073005976731754920?s=46&t=2q9OLMlaobNlHLewOXT4uA"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 23818,
+    "text": "The AI Superforecasters Are Here",
+    "timestamp": "2026-07-04 05:50:41+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.astralcodexten.com/p/the-ai-superforecasters-are-here"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 23816,
+    "text": "JPMorgan's JLTXX on-chain money market fund",
+    "timestamp": "2026-07-04 05:50:41+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/ethereuminsti/status/2073020210534039570?s=20"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 5914,
+    "text": "If you have time this weekend - this has been a really good base primer on LLMs/ Neural networks. And also the base for \"the larger the size, the better the LLM\" and the demand for compute.",
+    "timestamp": "2026-07-04 05:11:57+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links": [
+      "https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 476,
+    "text": "$ANSEM Game Theory 12 hours after my previous post and already does over a 2x. Why I think this trade has so much fuel in the tank is due to the level of marketing concentration Ansem has. For starters he's the last of the old guard who has daily activity and highest motion for any KOL by a long stretch. I know there's references of this coin being a Trump equivalent and while it sounds stupid it's not far from wrong. Asteroid was announced as Elon's personal mascot and this coin is trading significantly higher already. We've basically sent our biggest soldier to capture untapped retail flows at the bottom of the market cycle, if unsuccessful onchain would look very boring for quite some time. If this coin can't sustain momentum and comes crumbling down in a short time period, it would start genuine debates of memes entering a NFT death spiral and likeliness of ever returning. Despite what you think about the coin itself, I think its success is crucial for onchain appetite in the short, medium and long term. The biggest catalysts/marketing: ⁃ He's shown that anyone willing to support the token he'll try to help or bring attention to (he's trying to reinstate Mitches twitter because he bought 100k worth) ⁃ Using his supply as gorilla marketing efforts and genuinely looking to spend it on bringing in external participants. Think this is very important as gambling, sports betting, prediction markets and other ways for the younger generation to level up are growing stale ⁃ Like he said in a tweet he has 10x more followers than the last meme mania, 9 fig marketing budget with the token, one of the most watched podcasts on X/twitch with large retail following due to Banks, Bullpen trading platform and several revenue streams. Not many people were taking these facts at face value due to bear market battle scars. ⁃ Exchange listings - normally for any other coin I wouldn't even give it a thought, however I do think there is some potential due to his reputation if there's enough volume. Definitely more of a coin flip due to the friction being so low to buy with Phantom etc. Really depends on how many new traders they think it would bring to their platform. Unless there's exchange listings from the big fish then I'd be expecting the coin to range between 300-500 mil for the next couple days. As you can see from this move already, even the low cap shitters aren't responding as higher tier betas while liquidity is so concentrated. Until we have that similar range like 100-150 mil, I don't see smaller memes reacting strongly yet. As it's a creator coin, you can't replicate it and we've seen grifters try and die within 12 hours. Picking the next runners will require much better foresight. As for majors I don't have an amazing read. I do think we are quite capped to the downside granted Saylor doesn't pull anymore retarded moves. 63k is a smaller area of resistance and 67k is the much more important one. Sol coming into a pocket of supply and would be fireworks if it can get above 97. There's far more reasons to be optimistic than pessimistic right now. What's most important is that we collectively agree on best practices and aren't PvP'ing to death. Choose main runners and never full port no matter how good the narrative is. I'll use this as an exaggeration but I mean full porting in regards to your maximum risk (e.g. 20% of port). Dare I say we might be back for a couple weeks.",
+    "timestamp": "2026-07-04 04:55:05+00:00",
+    "author": "admin#2348415136",
+    "channel_id": "TrissysEdge",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.88",
+    "tags": [
+      "product"
+    ]
+  },
+  {
+    "id": 25003,
+    "text": "Europe's Largest Fintech Revolut to Stop Supporting USDT on August 31 European fintech giant Revolut has notified users via app push notifications and emails that it will delist USDT. Users will still be able to purchase USDT until July 6. Revolut will stop accepting new USDT deposits on July 30, while users can continue to sell USDT or withdraw it to external wallets until August 31. After that date, any remaining USDT balances in user accounts will be converted into fiat currency at the prevailing exchange rate. — link",
+    "timestamp": "2026-07-04 03:52:24+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-19808"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 25002,
+    "text": "Highlight Clip SEC Chair: Joining Forces with CFTC to Facilitate Markets Moving On-Chain SEC Chair: Joining Forces with CFTC to Facilitate Markets Moving On-Chain On June 30, 2026, during a speech at The Economic Club of New York, US SEC Chair Paul S. Atkins stated that over the past year, the SEC has continued to advance President Trump's goal of \"making America the crypto capital of the world.\" He stated that the agency is modernizing regulatory rules through \"Project Crypto\" to support markets moving on-chain. Atkins believes that establishing clear rules for digital assets is not a favor to the industry, but a necessary prerequisite for markets to function. Additionally, he mentioned that the SEC and the CFTC have signed a historic memorandum of understanding to align key definitions and coordinate oversight, replacing the regulatory vacuum between the two agencies with fertile ground for innovation. — link",
+    "timestamp": "2026-07-04 02:37:58+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/WuBlockchain/status/2073108788085985691",
+      "https://wublockchain.xyz/news/news-19807"
+    ],
+    "score": "0.93",
+    "tags": [
+      "news",
+      "governance"
+    ]
+  },
+  {
+    "id": 810,
+    "text": "Heading over to Tokyo for WebX soon~ Gona be my first Crypto Event this year after Token2049 Dubai got cancelled. If anyone wana meet up to chat about stablecoins, payments and crypto as a whole - HMU.",
+    "timestamp": "2026-07-04 01:25:13+00:00",
+    "author": "admin#2679278257",
+    "channel_id": "MaestroMonologues",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5913,
+    "text": "martinez sacrificed his future kids for the round of 16. what a banger match.",
+    "timestamp": "2026-07-04 01:13:17+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 11311,
+    "text": "new prompt suggestions > help me please > help me but only with $200 tokens worth",
+    "timestamp": "2026-07-04 01:12:18+00:00",
+    "author": "admin#1811377118",
+    "channel_id": "cookiesreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/kalshi/status/2072771173767643139"
+    ],
+    "score": NaN,
+    "tags": NaN
+  }
+]
