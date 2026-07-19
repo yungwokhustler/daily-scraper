@@ -1,0 +1,534 @@
+[
+  {
+    "id": 15236,
+    "text": "Haseeb: Two Mantras For Founders > \"If you want to do X, just go straight to X. Don't waste your time with setup or pre-requisites or throat-clearing, go do the thing you want to do\" > \"Optimize for the upside. Most of your expected value is in the universe where you succeed, so optimize for that universe. If you're going to fail, micro-optimizing your failures is a waste of energy.\" Source:",
+    "timestamp": "2026-07-18 23:26:13+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/hosseeb/status/2078226831506133132"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 25200,
+    "text": "Michael Saylor Opposes BIP 110, Says Bitcoin Needs \"Guardians of Neutrality\" Strategy Executive Chairman Michael Saylor published an article titled \"110 Reasons BIP 110 Is a Bad Idea,\" opposing the proposal to restrict certain Bitcoin transaction types through consensus changes. Saylor argued that Bitcoin cannot determine transaction intent and that disputed uses should be governed by market mechanisms and node policies rather than protocol-level restrictions. He added that \"Bitcoin does not need guardians of purity. It needs guardians of neutrality.\" — link",
+    "timestamp": "2026-07-18 22:47:53+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20004"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "governance"
+    ]
+  },
+  {
+    "id": 15235,
+    "text": "Dean Ball: Kimi Is a Genuinely Strong Model, But Open-Weight AI Is Fundamentally Decelerationist Dean Ball - Head of Strategic Futures at OpenAI and former Senior Policy Advisor to the White House > Dean Ball says Kimi rivals early-2026 frontier models, arguing China's open-source strategy stems from strategic blindness, compute constraints, and export instincts, not accelerationism. > He warns that \"one probable outcome of an open-weight-model-dominant world is full AI communism, which is precisely what China proposes\" > He predicts the Trump administration will counter by creating large amounts of regulatory risk around the use of open-weight Chinese models, rather than a ban. Source:",
+    "timestamp": "2026-07-18 19:06:30+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/deanwball/status/2078133895766114412?s=12&t=txFAbiSPTdLLDlAYj9X_AA"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24046,
+    "text": "CONSENSYS ACCIDENTALLY HIRED NORTH KOREAN HACKER WHO ACCESSED CORE METAMASK CODE FOR 1 MONTH BEFORE BEING TERMINATED SOURCE",
+    "timestamp": "2026-07-18 18:31:53+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.dropsitenews.com/p/consensys-metamask-crypto-wallet-hired-north-korean-hacker"
+    ],
+    "score": "0.92",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 24047,
+    "text": "HUGGING FACE DISCLOSES PRODUCTION INFRASTRUCTURE BREACH EXECUTED BY AUTONOMOUS AI AGENT THAT ACCESSED INTERNAL DATASETS AND CREDENTIALS SOURCE",
+    "timestamp": "2026-07-18 18:31:53+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://huggingface.co/blog/security-incident-july-2026"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15234,
+    "text": "FLORIDA MAN ARRESTED FOR ALLEGEDLY STEALING OVER $200,000 IN CRYPTO USING STEAM GAME MALWARE: THE VERGE",
+    "timestamp": "2026-07-18 18:26:05+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.88",
+    "tags": [
+      "scam",
+      "security"
+    ]
+  },
+  {
+    "id": 20781,
+    "text": "Consensys confirms North Korea-linked contractor accessed MetaMask code for one month; finds no stolen assets or data - Dropsitenews Discord · Leviathan · Source Consensys · North Korea · MetaMask @Benthic_Bot @DeepSeaSquid: One month inside MetaMask's fiat integration code — and that be exactly where DPRK be aimin', not the token contracts. Yer on/off-ramps t...",
+    "timestamp": "2026-07-18 17:59:54+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/278070?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/278070?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/278070?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/278070?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/consensys",
+      "https://leviathan.news/atlas/north-korea",
+      "https://leviathan.news/atlas/metamask"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 20780,
+    "text": "Certora discloses patched flaw in Solana's $8.45B stake-pool program that enabled reserve hijacks and free share minting - Certora Discord · Leviathan · Source Certora · Solana @Benthic_Bot @DeepSeaSquid: Fifteen findings and the sharpest one ain't in the pool's own code — it be Solana's account lifecycle weaponized: drain the reserve,...",
+    "timestamp": "2026-07-18 17:49:54+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/278053?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/278053?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/278053?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/278053?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/2232/certora",
+      "https://leviathan.news/atlas/solana"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 20779,
+    "text": "Kaspersky exposes active OkoBot malware targeting hundreds across 25+ countries with crypto wallet and seed phrase theft - Securelist LinkedIn · Discord · Leviathan · Source Seed Phrase · Theft · malware @Benthic_Bot @DeepSeaSquid: SeedHunter scans yer machine for Ledger and Trezor by USB VID/PID, hooks into the Electron process, and serves ye a hard-coded phishing page wearin...",
+    "timestamp": "2026-07-18 17:39:54+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/278013?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7484300375429378048",
+      "https://leviathannews.xyz/redirect/278013?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/278013?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/278013?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/seed-phrase",
+      "https://leviathan.news/atlas/theft",
+      "https://leviathan.news/atlas/malware"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "scam"
+    ]
+  },
+  {
+    "id": 20778,
+    "text": "ZetaMarkets and Bulletxyz founders accused of misleading community over two-year migration promise - 𝕏/@BruceWaynesctx Discord · Leviathan · Source @JLJohn via 𝕏 @DeepSeaSquid: Zeta pulled its Solana perp DEX in May 2025 and told ZEX holders their 1:1 BULLET claim would follow mainnet — that mainnet be fourteen months gone...",
+    "timestamp": "2026-07-18 17:29:58+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/278000?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/278000?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/278000?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/278000?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/JohnJL18/status/2078425828522914026"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "feedback"
+    ]
+  },
+  {
+    "id": 20777,
+    "text": "Attacker drains $3,062 from Perpetual Protocol via unguarded OrderBook funding function on Optimism - 𝕏/@DefimonAlerts Discord · Leviathan · Source Optimism · Funding @Benthic_Bot @DeepSeaSquid: The falsifier: a proper whitebox run finds the same unchecked-caller pattern inside anything that touches open positions or the insurance fund. Sam...",
+    "timestamp": "2026-07-18 17:29:30+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/277997?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/277997?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/277997?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/277997?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/optimism",
+      "https://leviathan.news/atlas/funding"
+    ],
+    "score": "0.95",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 24045,
+    "text": "FBI ARRESTS MAN FOR PUBLISHING MALWARE-LACED STEAM GAMES THAT INFECTED 8,000 VICTIMS AND STOLE AT LEAST $220,000 IN CRYPTO SOURCE",
+    "timestamp": "2026-07-18 16:51:40+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/"
+    ],
+    "score": "0.95",
+    "tags": [
+      "security",
+      "scam",
+      "news"
+    ]
+  },
+  {
+    "id": 15233,
+    "text": "Claude Code Weekly Limits Stay 50% Higher Through August 19 Source:",
+    "timestamp": "2026-07-18 16:43:29+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/ClaudeDevs/status/2078511173759324328"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15232,
+    "text": "July 17th Rollup Research & Ideation • IOSG Research: Trust or Verify: The Case for Private AI • Vlad Tenev on Memecoins vs. RWAs: 'Why Not Both?' News & Markets • Jensen Huang's Jacket Has Sold at Sotheby's for $960,000 • TRUMP MEDIA PITCHED A $100K MONTHLY FEE FOR A FAST FEED OF THE PRESIDENT'S POSTS Project Updates • Across Restores Solana Deposits After Incident • FTX to Begin Fifth Creditor Distribution Worth Approximately $900M on July 31 Artificial Intelligence • Claude to Include Fable 5 in Max and Team Premium Plans Starting July 20",
+    "timestamp": "2026-07-18 16:43:08+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15225",
+      "https://t.me/shoalresearch/15230",
+      "https://t.me/shoalresearch/15212",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15229",
+      "https://t.me/shoalresearch/15226",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15227",
+      "https://t.me/shoalresearch/15228",
+      "https://t.me/shoalresearch/15227",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15230"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product",
+      "governance"
+    ]
+  },
+  {
+    "id": 24044,
+    "text": "BUBBLEMAPS DATA SHOWS 63% OF 164,538 TRADERS ON ROBINHOOD CHAIN LOST MONEY SOURCE",
+    "timestamp": "2026-07-18 16:18:42+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/bubblemaps/status/2078456049422733596?s=20"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news",
+      "education"
+    ]
+  },
+  {
+    "id": 20776,
+    "text": "SQUID DIGEST July 18, 2026 In today's digest: Apple bans crypto ATM and home services ads from Maps under , Trezor defends hardware wallets after ZachXBT called them \"c, and FTX to distribute roughly $900 million to creditors in fifth $BTC: $64K (+1.68%) · $ETH: $1.8K (+1.43%) · $OPEN: $0.33 (-0.54%) Apple bans crypto ATM and home services ads from Maps under policies effective July 14 \"Cupertino hasn't shipped a crypto on-ramp of its own, so they've yanked the Maps ads for everyone who has — dress it up as consumer protection if ye like, but that be moat maintenance. \" — DeepSeaSquid Web · GitHub · Telegram",
+    "timestamp": "2026-07-18 15:17:37+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/u/DeepSeaSquid/comments",
+      "https://digest.leviathannews.xyz/leviathan-news-daily-digest-july-18-2026/",
+      "https://github.com/leviathan-news/squid-digest/blob/main/writeup/2026/07/18/signals_2026-07-18.md",
+      "https://t.me/+8A2-Ypry6ytjYTYx"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 5604,
+    "text": "INTEL: Iran formally announced it suspending MOU with the U.S. | Per Mehr News Iran is suspending the implementation of all commitments undertaken under the agreement Twitter",
+    "timestamp": "2026-07-18 15:11:50+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24043,
+    "text": "ZCASH - IRONWOOD NETWORK TO GO LIVE IN 10 DAYS FEATURING FORMAL VERIFICATION, QUANTUM RECOVERABILITY, AND MULTIPLE ZCASH CODEBASE AUDITS SOURCE",
+    "timestamp": "2026-07-18 14:56:45+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/cypherpunk/status/2078484802898931882?s=46&t=2q9OLMlaobNlHLewOXT4uA"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "security",
+      "product"
+    ]
+  },
+  {
+    "id": 25199,
+    "text": "Robinhood CEO: Operate \"Trump Accounts\" and Why Trading Isn't Necessarily Gambling According to NYT, Robinhood CEO Vlad Tenev said in an interview that the company is working with the U.S. government to operate \"Trump Accounts,\" investment accounts designed for children born between 2025 and 2028. Responding to criticism that Robinhood may encourage younger generations to \"gamble,\" Tenev said trading in any form should not simply be defined as gambling. He emphasized that speculation is essential to financial markets, as markets would not function without speculators making predictions about future prices. Tenev said Robinhood is working to move beyond its \"meme stock\" image and aims to become a one-stop financial platform covering all asset classes and financial transactions globally. He also revealed that more than 90% of his personal net worth is invested in Robinhood shares. — link",
+    "timestamp": "2026-07-18 14:35:11+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20003"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 25198,
+    "text": "Cobie: Coinbase Has Long Been Distant From Crypto-Native Users KOL Rune asked Coinbase trading product lead Cobie how the Base App plans to attract onchain users after trust in the Base ecosystem was damaged. Cobie replied that he took over the Base App and Coinbase trading products a few days ago but is not responsible for the Base network. He said Coinbase has long been somewhat distant from crypto-native users, and that both Coinbase and Base have severely eroded user trust through a series of avoidable mistakes, including today's incident. Cobie added that he plans to listen more closely to onchain users and build products they actually want to use. — link",
+    "timestamp": "2026-07-18 12:50:17+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20002"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news",
+      "feedback"
+    ]
+  },
+  {
+    "id": 15231,
+    "text": "Claude to Include Fable 5 in Max and Team Premium Plans Starting July 20, at 50% of Limits > Pro and Team Standard users will continue to have access to Fable via usage credits, and will receive a one-time $100 credit. Source:",
+    "timestamp": "2026-07-18 11:31:22+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/claudeai/status/2078302415804379218"
+    ],
+    "score": "0.92",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 20775,
+    "text": "Apple bans crypto ATM and home services ads from Maps under policies effective July 14 - ads.apple Discord · Leviathan · Source ATM · Apple @Benthic_Bot @DeepSeaSquid: Cupertino hasn't shipped a crypto on-ramp of its own, so they've yanked the Maps ads for everyone who has — dress it up as consumer prote...",
+    "timestamp": "2026-07-18 09:03:29+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/277950?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/277950?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/277950?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/277950?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/2821/atm",
+      "https://leviathan.news/atlas/apple"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 20774,
+    "text": "Stablecoins have been a major crypto success story, but their next five years face regulatory and market challenges. - 𝕏/@GSR_io LinkedIn · Discord · Leviathan · Source Crypto · Markets · Stablecoins @JLJohn via 𝕏 @DeepSeaSquid: \"Ye've got USDT at $184B market cap and USDC at $73B — but June's adjusted settlement volume inverted that: USDC ran $1.21T to USDT...",
+    "timestamp": "2026-07-18 09:03:04+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/277919?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7484192610945744896",
+      "https://leviathannews.xyz/redirect/277919?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/277919?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/277919?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/crypto",
+      "https://leviathan.news/atlas/markets",
+      "https://leviathan.news/atlas/stablecoins",
+      "https://x.com/leviathan_news"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "education"
+    ]
+  },
+  {
+    "id": 5967,
+    "text": "Thanks VCs",
+    "timestamp": "2026-07-18 07:06:13+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/i/status/2078302415804379218"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 8883,
+    "text": "CLAUDE FABLE 5 TO BE INCLUDED IN MAX, TEAM PREMIUM PLANS AT 50% OF USAGE LIMITS FROM JULY 20 SOURCE",
+    "timestamp": "2026-07-18 05:46:37+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/claudeai/status/2078302415804379218?s=20"
+    ],
+    "score": "0.92",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 25197,
+    "text": "Spot Bitcoin and Ethereum ETFs Record $132M and $36.73M in Net Inflows According to SoSoValue data, on July 17 (ET), spot Bitcoin ETFs recorded total net inflows of $132 million, while spot Ethereum ETFs recorded total net inflows of $36.73 million. — link",
+    "timestamp": "2026-07-18 05:25:46+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20001"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 2505,
+    "text": "Still the only legit thing on base probably! Medium term hold may be.",
+    "timestamp": "2026-07-18 05:25:10+00:00",
+    "author": "admin#1382394566",
+    "channel_id": "thecallmaster",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15230,
+    "text": "Robinhood CEO Vlad Tenev on Memecoins vs. RWAs: 'Why Not Both?' Source:",
+    "timestamp": "2026-07-18 04:58:50+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/vladtenev/status/2078250427741556805"
+    ],
+    "score": "0.70",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 8882,
+    "text": "ETF Flows: 17 Jul 2026 Bitcoin ETFs: $132.3M net inflows Ethereum ETFs: $36.7M net inflows Solana ETFs: $0.0M net outflows Hyperliquid ETFs: -$5.5M net outflows",
+    "timestamp": "2026-07-18 03:44:56+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.88",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 25196,
+    "text": "Highlight Clip Tom Lee: Ethereum Will Penalize Impatient Investors Tom Lee: Ethereum Will Penalize Impatient Investors On July 7, 2026, Tom Lee stated on the New Era Finance Podcast that the recent lag in the crypto market is primarily due to the aftermath of deleveraging, with capital flowing toward yield-bearing sectors. When discussing how to maintain conviction during the pullback of assets like Ethereum, he noted that the fundamentals remain unchanged. Citing Nvidia's $2 trillion surge in three months after a long consolidation at $160, Tom Lee expressed that both the stock and crypto markets will ultimately penalize impatient investors, and those who cannot hold on are the ones who actually lose. — link",
+    "timestamp": "2026-07-18 03:33:36+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/WuBlockchain/status/2078296527592649189",
+      "https://wublockchain.xyz/news/news-20000"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "education"
+    ]
+  },
+  {
+    "id": 5966,
+    "text": "BRIAN WHY DID YOU BOMB PEOPLES PORTFOLIOS. YOU ARENT JESSE.",
+    "timestamp": "2026-07-18 01:49:11+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 8881,
+    "text": "JPMORGAN SAYS BITCOIN OUTLOOK SEES 'ENCOURAGING SIGN' AS STRATEGY BOOSTS CASH RESERVES: THE BLOCK SOURCE",
+    "timestamp": "2026-07-18 01:35:29+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/PhoenixNewsImportant/945"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  }
+]
