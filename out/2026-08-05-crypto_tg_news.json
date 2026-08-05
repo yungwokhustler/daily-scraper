@@ -1,0 +1,1978 @@
+[
+  {
+    "id": 25427,
+    "text": "Highlight Clip Early Bitcoin Core Developer: 99% of Digital Assets Will Eventually Go to Zero Early Bitcoin Core Developer: 99% of Digital Assets Will Eventually Go to Zero On July 28, 2026, early Bitcoin core developer Jeff Garzik stated on the Bitcoin Treasuries podcast that 99% of digital assets will inevitably go to zero. He believes that with zero creation costs enabling permissionless innovation, networks like Solana generate massive amounts of new tokens daily. Under the law of supply and demand, this near-infinite supply naturally leads to most tokens losing their value. Garzik stated that this zero-cost free competition is positive for the overall industry, as it provides an optimal testing ground for economic experiments, where the high-quality projects that survive the brutal elimination will ultimately benefit everyone. — link",
+    "timestamp": "2026-08-05 00:05:46+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/WuBlockchain/status/2084791496419704841",
+      "https://wublockchain.xyz/news/news-20236"
+    ],
+    "score": "0.85",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": 21287,
+    "text": "Hashgraph joins Mastercard's Crypto Partner Program to advance onchain cross-border payments, B2B transactions and enterprise-grade digital asset settlement - 𝕏/@hashgraph LinkedIn · Discord · Leviathan · Source Cross-Border Payments · Mastercard @Danicjade",
+    "timestamp": "2026-08-04 23:45:32+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287744?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7490562901708054528",
+      "https://leviathannews.xyz/redirect/287744?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287744?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287744?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/cross-border-payments",
+      "https://leviathan.news/atlas/mastercard"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 21286,
+    "text": "Telegram CEO Pavel Durov says Apple briefly removed its App Store listing after extortionists planted hidden AI-generated illegal content, exposing risks for apps hosting user-generated content - 𝕏/@durov LinkedIn · Discord · Leviathan · Source Pavel Durov · Apple · Telegram @Danicjade",
+    "timestamp": "2026-08-04 23:35:30+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287743?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7490551341258317824",
+      "https://leviathannews.xyz/redirect/287743?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287743?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287743?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/pavel-durov",
+      "https://leviathan.news/atlas/apple",
+      "https://leviathan.news/atlas/telegram"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 6042,
+    "text": "lmao. hayes couldn't even spell jevon's paradox properly.",
+    "timestamp": "2026-08-04 23:14:43+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15481,
+    "text": "UK AISI Publishes Cybersecurity Evaluation Report on Anthropic's Mythos 5 and OpenAI's GPT-5.6 Sol > AISI ran a cybersecurity challenge 122 times across several AI models. > In 10 runs, an AI agent took unauthorized actions on the live internet, targeting real people & org. > A total of 19 unsanctioned actions were recorded. > Anthropic's Mythos 5 accounted for 17 actions, while OpenAI's GPT-5.6 Sol accounted for 2. > In the most serious case, an agent tried to insert malicious code into an open-source project. In an attempt to get the code approved, the agent engaged in social engineering, creating fake online identities and using them to pressure the project's maintainer to approve the code. Source:",
+    "timestamp": "2026-08-04 21:56:30+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing"
+    ],
+    "score": "0.75",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 15480,
+    "text": "OpenAI Discloses Two New Incidents Where Its Models Accessed the Public Internet During Third-Party Cyber Evaluations > One due to intentionally enabled internet access at UK AISI with unclear scope boundaries, and another caused by a misconfiguration at Irregular that led a model to exploit a real website it mistook for a simulated target. Source:",
+    "timestamp": "2026-08-04 21:40:09+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/"
+    ],
+    "score": "0.75",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 20231,
+    "text": "BlackRock's spot Ethereum ETF to undergo 1-for-3 reverse share split in October — link | AI comment",
+    "timestamp": "2026-08-04 21:37:30+00:00",
+    "author": "admin#1358788312",
+    "channel_id": "unfolded",
+    "platform": "telegram",
+    "links": [
+      "https://www.theblock.co/post/410663/blackrocks-spot-ethereum-etf-to-undergo-1-for-3-reverse-share-split-in-october",
+      "https://t.me/unfolded_bot?start=LTEwMDEzNTg3ODgzMTJfMjAyMzE"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 20230,
+    "text": "Keep chatting where they can scan... Or go ghost mode — no servers, no surveillance, nothing to get Keet.io - the chat app that knows nothing about you",
+    "timestamp": "2026-08-04 21:16:22+00:00",
+    "author": "admin#1358788312",
+    "channel_id": "unfolded",
+    "platform": "telegram",
+    "links": [
+      "https://keet.io/"
+    ],
+    "score": "0.70",
+    "tags": [
+      "product"
+    ]
+  },
+  {
+    "id": 25426,
+    "text": "SpaceX Q2 Revenue Jumps 92% as Digital Asset Value Falls to $1.10 Billion SpaceX reported second-quarter 2026 revenue of $7.81 billion, up 92% year over year, while its net loss narrowed to $541 million from $1.01 billion. Adjusted EBITDA rose 191% to $3.54 billion. Connectivity revenue reached $4.29 billion as Starlink subscribers doubled to 12 million. AI revenue surged 247% to $2.56 billion but generated an operating loss of $1.26 billion. Capital expenditure totaled $18.37 billion, of which $15.83 billion was attributable to the AI segment. At quarter-end, SpaceX's digital assets had a carrying value of $1.10 billion, down approximately 33% from $1.64 billion at the end of 2025. The company had previously disclosed holding 18,712 BTC in its IPO filing. SpaceX also held approximately $100 billion in cash, cash equivalents and marketable securities, while its contract backlog stood at $47.5 billion. — link",
+    "timestamp": "2026-08-04 21:13:54+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20235"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 6041,
+    "text": "Shorted sndk ahead of earnings",
+    "timestamp": "2026-08-04 20:19:48+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15479,
+    "text": "Solana's Double Disinflation Proposal Goes Live > the proposal needs 15% stake support to advance to the final phase Source:",
+    "timestamp": "2026-08-04 19:41:00+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://governance.solana.com/proposal/7QJD8MzheHWJLHS39NkoAbFCGFKg5d9QbVviRqD4YExP"
+    ],
+    "score": "0.95",
+    "tags": [
+      "governance",
+      "news"
+    ]
+  },
+  {
+    "id": 21285,
+    "text": "Most DeFi competitions reward trading skill. Range Hunter rewards something different, autonomous capital management. - thedefiant.io LinkedIn · Discord · Leviathan · Source Ratehopper · The Defiant 0xbbe...64f 0xbbe...64f: Ratehopper's Range Hunter is a 60-day onchain competition where self-repaying loan agents borrow against collateral, run liquidity positions, ...",
+    "timestamp": "2026-08-04 19:32:57+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287582?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7490513066422394880",
+      "https://leviathannews.xyz/redirect/287582?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287582?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287582?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/2759/ratehopper",
+      "https://leviathan.news/atlas/the-defiant",
+      "https://leviathannews.xyz/u/0xbbe...64f/articles",
+      "https://leviathannews.xyz/u/0xbbe...64f/comments"
+    ],
+    "score": "0.82",
+    "tags": [
+      "product"
+    ]
+  },
+  {
+    "id": 21284,
+    "text": "Liquid token investments: one in twenty-four portfolios succeed, data shows - 𝕏/@0xcarlosg LinkedIn · Discord · Leviathan · Source Investment @JLJohn",
+    "timestamp": "2026-08-04 19:22:56+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287612?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7490501216641355776",
+      "https://leviathannews.xyz/redirect/287612?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287612?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287612?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/investment"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 21283,
+    "text": "Convex moves all proposal settlements onchain - 𝕏/@ConvexFinance Discord · Leviathan · Source Convex · Proposal @gerrithall via 𝕏",
+    "timestamp": "2026-08-04 18:45:02+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287646?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/287646?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287646?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287646?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/convex",
+      "https://leviathan.news/atlas/proposal",
+      "https://x.com/CurveCap/status/2084689385291919360"
+    ],
+    "score": "0.90",
+    "tags": [
+      "governance",
+      "news"
+    ]
+  },
+  {
+    "id": 21282,
+    "text": "Tokenized equities reshape market structure, DefiLlama Research finds in new report on liquidity and trading behavior. - Defillama LinkedIn · Discord · Leviathan · Source Bitget · DefiLlama · Stocks 0xf00...394",
+    "timestamp": "2026-08-04 18:35:00+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287484?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7490475543939674112",
+      "https://leviathannews.xyz/redirect/287484?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287484?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287484?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/bitget",
+      "https://leviathan.news/atlas/defillama",
+      "https://leviathan.news/atlas/stocks",
+      "https://leviathannews.xyz/u/0xf00...394/articles"
+    ],
+    "score": "0.78",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 15478,
+    "text": "Delphi Digital: The Crowded Book​ Why the Market Piled into ZEC, HYPE and VVV, and What Held When the Tape Turned​ > The report examines why crowded trades that fall together recover differently, using the June 4 cascade as case study, where an AI found a critical bug in Zcash's shielded pool, cutting ZEC's price in half, and pulling down ETH, SOL, HYPE and VVV down together with it while Bitcoin barely moved. > They fell together, as a shared book would, the recovery is what told them apart. The recovery tests what was paying for the bid. > Hyperliquid recovered fully on fee-backed buybacks, Zcash clawed back on scarcity, and Venice stalled because its growing product never translated into direct token demand. Source:",
+    "timestamp": "2026-08-04 18:00:44+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://members.delphidigital.io/reports/the-crowded-book"
+    ],
+    "score": "0.75",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 6040,
+    "text": "",
+    "timestamp": "2026-08-04 17:45:45+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/i/status/2084556985798693217"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15477,
+    "text": "Cloudflare Launches Cloudflare Wallets: the Programmable Wallet for the Agentic Internet > Allow you to store stablecoins, purchase services, and receive funds across the web. Each account with a wallet will also be able to create Virtual Wallets for its agents to enable them to buy APIs, MCP Tools, content, and more. Source:",
+    "timestamp": "2026-08-04 17:03:06+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://blog.cloudflare.com/wallets/?utm_campaign=cf_blog&utm_content=20260804&utm_medium=organic_social&utm_source=twitter"
+    ],
+    "score": "0.88",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 21281,
+    "text": "Cloudflare launches wallet nametag registration - cloudflare.pay 𝕏 · LinkedIn · Discord · Leviathan · Source Cloudflare · Wallet @w00tcake",
+    "timestamp": "2026-08-04 16:50:48+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287620?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/i/web/status/2084696273073144166",
+      "https://www.linkedin.com/feed/update/urn:li:share:7490449352939683840",
+      "https://leviathannews.xyz/redirect/287620?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287620?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287620?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/2281/cloudflare",
+      "https://leviathan.news/atlas/wallet"
+    ],
+    "score": "0.85",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 15476,
+    "text": "Rain Launches Western Union's Stablecard > Remittances can now arrive as stablecoins (USDPT) and be spent instantly anywhere Visa is accepted with an integrated card. Source:",
+    "timestamp": "2026-08-04 16:43:18+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://www.rain.xyz/resources/western-unions-stablecard-goes-live-on-rain"
+    ],
+    "score": "0.80",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 5931,
+    "text": "p tight inval id close it around 1880",
+    "timestamp": "2026-08-04 16:33:36+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5930,
+    "text": "running a small short on eth. if it stalls out here id be looking to relong it around 1800ish",
+    "timestamp": "2026-08-04 16:32:40+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5929,
+    "text": "at the end of the day this is still one of the most interesting implementations of v4 hooks weve seen and thats the biggest positive in fwa's corner",
+    "timestamp": "2026-08-04 16:28:32+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5928,
+    "text": "looks like people like the tweet but im also not sure that this will really have constructive pa for a few more days and there will be more churn this is essentially a premarket chart. need some more protocol updates (personally hoping for another pool or permissionless pools to go live soon) and some time with external buyers in the mix to see what's really going to happen unique game theory situation as a result of the mechanics - id imagine some of the holders still dont like the update and will exit, but some of that will be offset by buyback pressure + new audience of buyers what really needs to happen is continued usage, and i think another pool or the option to create pools are the jumper cables for that to keep the yield and spin opportunities running/exciting for users",
+    "timestamp": "2026-08-04 16:27:28+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15475,
+    "text": "Sam Altman Fires Back: \"I Would Rather Be An Optimist and Work Hard Than a Pessimist Posting About Why Things Won't Work\" Source:",
+    "timestamp": "2026-08-04 16:24:13+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/sama/status/2084663673570971990"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 21280,
+    "text": "SQUID DIGEST August 04, 2026 In today's digest: Former FBI agent accused of stealing $1M in crypto allegedly, BlackRock files with the SEC to issue tokenized fund shares , and DEX-to-CEX spot volume ratio hits record 24% as centralized $BTC: $64K (+0.21%) · $ETH: $1.9K (+0.07%) · $OPEN: $0.34 (-0.01%) Former FBI agent accused of stealing $1M in crypto allegedly used ChatGPT to plan investments and a move to Portugal before his arrest Web · GitHub · Telegram",
+    "timestamp": "2026-08-04 16:23:49+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://digest.leviathannews.xyz/leviathan-news-daily-digest-august-04-2026/",
+      "https://github.com/leviathan-news/squid-digest/blob/main/writeup/2026/08/04/signals_2026-08-04.md",
+      "https://t.me/+8A2-Ypry6ytjYTYx"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 15474,
+    "text": "How Does OpenAI Survive? > The piece argued that OpenAI's business model is unsustainable, and hypothesize that OpenAI will collapse in the next 12-24 months unless it raises unprecedented funding and creates an entirely new form of AI, beyond its transformer-based AI. Source:",
+    "timestamp": "2026-08-04 16:23:47+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://www.wheresyoured.at/to-serve-altman/"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24322,
+    "text": "Three Arrows going after founder Zhu Su's wife for US$40 million from Dubai property sale Liquidators for 3AC are suing co-founder Zhu Su's wife, Evelyn Tao Yaqiong, to recover US$40 million from the sale of a Dubai villa that Zhu allegedly bought with a $50 million loan from the firm and transferred to her without payment. Source",
+    "timestamp": "2026-08-04 16:16:37+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.businesstimes.com.sg/companies-markets/capital-markets-currencies/three-arrows-going-after-founder-zhu-sus-wife-us40-million-dubai-property-sale"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 24321,
+    "text": "Cloudflare has launched Cloudflare Wallets, a programmable wallet product that gives AI agents native payment capabilities and verifiable identity using the x402 protocol. Source",
+    "timestamp": "2026-08-04 16:16:37+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://blog.cloudflare.com/wallets/?utm_campaign=cf_blog&utm_content=20260804&utm_medium=organic_social&utm_source=twitter"
+    ],
+    "score": "0.90",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 1275,
+    "text": "2026/8/4 Today's Newsletter News • Trump says Strait could reopen by tomorrow • Senate schedule excludes a vote on the Crypto Clarity Act • Justin Drake and others create EIP-8361 to reduce Ethereum inflation by cutting staking yields • World's largest custodian bank BNY Mellon launches crypto staking Good Reads • @cchungccc - Chung Research Note #9 - The BCI bet nobody is scoring yet • @Anchorage - Who Banks the Agents? New Protocols • @Flutchdotfun • @MotionOnHype Crypto Fundraising • @fortuneglobal_ (Prediction Markets) - $TBD Pre-Series A • @joinbundle (Payments) - 5.5m Pre-Seed led by @etherealvc @further • @yellowcard_app (Payments) - 40m Strategic Airdrops • @axisrobotics point system Videos & Podcasts • @StanfordOnline - Stanford CS329A Self-Improving AI Agents | Part 1 | Course Overview — chungdailynote.com",
+    "timestamp": "2026-08-04 16:11:17+00:00",
+    "author": "admin#1648837346",
+    "channel_id": "chungdailynote",
+    "platform": "telegram",
+    "links": [
+      "https://open.substack.com/pub/chungdailynote/p/chung-daily-note-202684?r=2dzpjp&utm_campaign=post&utm_medium=web",
+      "https://x.com/RT_com/status/2084342477427724413",
+      "https://x.com/ardizor/status/2084618872666103984",
+      "https://x.com/zoomerfied/status/2084641592615256254",
+      "https://x.com/WatcherGuru/status/2084634384993595479",
+      "https://x.com/cchungccc/status/2084569177961218375",
+      "https://x.com/Anchorage/status/2084315980440776848",
+      "https://x.com/Flutchdotfun/status/2081695754327077047",
+      "https://x.com/MotionOnHype/status/2084498481713152166",
+      "https://x.com/fortuneglobal_/status/2084217717935219079",
+      "https://x.com/joinbundle/status/2082696479681229308",
+      "https://x.com/yellowcard_app/status/2084625401901457409",
+      "https://x.com/axisrobotics/status/2084279833253818489",
+      "https://www.youtube.com/watch?v=6YnLB0XbTnI"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "product",
+      "governance"
+    ]
+  },
+  {
+    "id": 15473,
+    "text": "Blockworks Research: One in Twenty-Four - The Harsh Realities of Liquid Token Investing > A study of 1,972 tokens that crossed $50M in market cap between 2020 and 2025 finds that only 4.1% outperformed Bitcoin through June 2026, with the median token losing 97% from its qualification price. > The report documents the structural deterioration of the altcoin market, concluding that the asymmetric risk-reward that once justified token investing has largely disappeared. Source:",
+    "timestamp": "2026-08-04 16:08:19+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/0xcarlosg/status/2084640853444702255"
+    ],
+    "score": "0.85",
+    "tags": [
+      "education"
+    ]
+  },
+  {
+    "id": 15472,
+    "text": "Nvidea Launches Alpamayo 2 Super, the Frontier Open Reasoning Model for Autonomous Vehicles > A powerful backbone for robotaxis, delivery vans, trucks, shuttles, tractors and mobile robots. > The model advances the AV ecosystem on two fronts: open commercial licensing and leading multitask capabilities for autonomous driving. Source:",
+    "timestamp": "2026-08-04 15:53:38+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15471,
+    "text": "Base Stablecoin Volume Surpasses $26T in 2026 With Five Months Still Remaining Surpassing whole of 2025: $17.5T Source:",
+    "timestamp": "2026-08-04 15:45:35+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/base/status/2084655860144349560"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 2395,
+    "text": "August 4 Don't forget to follow my Twitter and C4's. Here's what's happening today: News - @blackrock launches BRSRV with @securitize [Project Updates] - @defillama launches LlamaAI app - Proof of Attendance Protocol is shutting down after 5+ years - @bitgo WBTC migrates from LayerZero to Chainlink - @token_works updates on fees for FWA - New EIP submitted to change ETH staking policies [Threads/Reads] - @blknoiz06 shares his thoughts on portfolio allocations New Projects uToken | Everlong | Yield Generation Website Intelligence | AI Website Motion | HyperEVM | Launchpad Website GiWater | Giwa | DEX Website Prophetica | Robinhood | Trading Terminal Website Phera | Robinhood | DEX Launches SQUID TGE | [Live, CEXs] Website My Links: Plasma One Access Code: SPXATH Fomo Rialto",
+    "timestamp": "2026-08-04 15:23:33+00:00",
+    "author": "admin#1542659551",
+    "channel_id": "c4dotgg",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/CJCJCJCJ_",
+      "https://x.com/c4dotgg",
+      "https://x.com/Securitize/status/2084263536042160149",
+      "https://defillama.com/app",
+      "https://www.theblock.co/post/410482/proof-of-attendance-protocol-is-shutting-down-after-5-years",
+      "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion",
+      "https://x.com/rhynotic/status/2084408706050162986",
+      "https://x.com/jdetychey/status/2084638778677751889",
+      "https://x.com/blknoiz06/status/2084287163282465070",
+      "https://x.com/uTokenPro",
+      "https://x.com/foreverlong_io",
+      "http://foreverlong.io/",
+      "https://x.com/Intelligence_ai",
+      "http://intelligence.ai/",
+      "https://x.com/MotionOnHype",
+      "http://motion.meme/",
+      "https://x.com/GiwaterFinance",
+      "http://giwater.finance/",
+      "https://x.com/TryProphetica",
+      "http://prophetica.app/",
+      "https://x.com/PheraDex",
+      "https://x.com/squidrouter/status/2084625410998866030",
+      "http://squidrouter.com/",
+      "https://apps.apple.com/app/plasma-one-stablecoin-card/id6759033493",
+      "https://fomo.family/r/CJCJCJCJ_",
+      "https://app.rialto.xyz/referrals?code=CJ1"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 25425,
+    "text": "Coldcard Incident Triggers Large-Scale Bitcoin Migration, Small Transfers Hit Highest Level Since FTX Collapse According to CryptoQuant, Bitcoin holders moved funds on a large scale following the Coldcard security incident. On July 31, daily active Bitcoin addresses surged from roughly 645,000 to nearly 1 million, while transfers of less than 1 BTC reached about 39,600 BTC, the highest level since the collapse of FTX. Exchange deposits from small holders rose to their highest level since early February, alongside sharp increases in long-term holder spending and pending mempool transactions. CryptoQuant said the activity reflected security-driven asset repositioning, but cautioned that transfers to exchanges do not necessarily indicate selling. — link",
+    "timestamp": "2026-08-04 14:40:44+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20234"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 24320,
+    "text": "Anthropic Is Exploring A $36B Debt Package On Top Of The Previous $35B Package To Finance Its Use Of Google Chips: BBG SOURCE",
+    "timestamp": "2026-08-04 14:23:59+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/zoomerfiednews/1458"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 8988,
+    "text": "ANTHROPIC IS EXPLORING A $36B DEBT PACKAGE ON TOP OF THE PREVIOUS $35B PACKAGE TO FINANCE ITS USE OF GOOGLE CHIPS: BBG SOURCE",
+    "timestamp": "2026-08-04 14:23:39+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/ZoomerfiedNews/1458"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 1458,
+    "text": "Anthropic Is Exploring A $36B Debt Package On Top Of The Previous $35B Package To Finance Its Use Of Google Chips: BBG velo.xyz",
+    "timestamp": "2026-08-04 14:23:37+00:00",
+    "author": "admin#1651524056",
+    "channel_id": "ZoomerfiedNews",
+    "platform": "telegram",
+    "links": [
+      "https://velo.xyz/news/1941"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5927,
+    "text": "Its tough when there's a token involved bc the dev team should be compensated for their work, but holders also need a reason to hold the token (thus value accrual through buybacks/rev share) But the alignment aspect of token works building out a protocol owned token treasury also fixes the \"why should the dev care about price\" aspect. Price shouldn't be the focus but if you want people to trade/use your product, it has to be taken into consideration, or you'll lose users/holders Feels like this post is a good fix in alignment Hopefully comms are a bit more clear from here on and we can get back to being happy about new tech onchain",
+    "timestamp": "2026-08-04 14:19:23+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.75",
+    "tags": [
+      "feedback"
+    ]
+  },
+  {
+    "id": 5926,
+    "text": "Feels much better to me than yesterday's adjustment",
+    "timestamp": "2026-08-04 14:16:02+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5925,
+    "text": "Tldr 30% of rev collected so far goes to buybacks over the next month (good) on top of the adjustment to a higher daily revenue buyback percentage",
+    "timestamp": "2026-08-04 14:15:42+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.72",
+    "tags": [
+      "governance"
+    ]
+  },
+  {
+    "id": 15470,
+    "text": "JUSTIN DRAKE AND OTHERS CREATE EIP-8361 TO REDUCE ETHEREUM INFLATION, WOULD REDUCE STAKING YIELD TO 0% ABOVE 50% OF ETHEREUM STAKED, AND HALF STAKING YIELD TO 1% AT CURRENT STAKED AMOUNTS: X",
+    "timestamp": "2026-08-04 14:06:09+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.95",
+    "tags": [
+      "governance"
+    ]
+  },
+  {
+    "id": 24319,
+    "text": "Justin Drake And Others Create EIP-8361 To Reduce Ethereum Inflation, Would Reduce Staking Yield To 0% Above 50% Of Ethereum Staked, And Half Staking Yield To 1% At Current Staked Amounts: X SOURCE",
+    "timestamp": "2026-08-04 14:04:57+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/zoomerfiednews/1457"
+    ],
+    "score": "0.95",
+    "tags": [
+      "governance"
+    ]
+  },
+  {
+    "id": 8987,
+    "text": "JUSTIN DRAKE AND OTHERS CREATE EIP-8361 TO REDUCE ETHEREUM INFLATION, WOULD REDUCE STAKING YIELD TO 0% ABOVE 50% OF ETHEREUM STAKED, AND HALF STAKING YIELD TO 1% AT CURRENT STAKED AMOUNTS: X SOURCE",
+    "timestamp": "2026-08-04 14:04:23+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/ZoomerfiedNews/1457"
+    ],
+    "score": "0.95",
+    "tags": [
+      "governance"
+    ]
+  },
+  {
+    "id": 1457,
+    "text": "Justin Drake And Others Create EIP-8361 To Reduce Ethereum Inflation, Would Reduce Staking Yield To 0% Above 50% Of Ethereum Staked, And Half Staking Yield To 1% At Current Staked Amounts: X velo.xyz",
+    "timestamp": "2026-08-04 14:04:21+00:00",
+    "author": "admin#1651524056",
+    "channel_id": "ZoomerfiedNews",
+    "platform": "telegram",
+    "links": [
+      "https://velo.xyz/news/1940"
+    ],
+    "score": "0.95",
+    "tags": [
+      "governance"
+    ]
+  },
+  {
+    "id": 15469,
+    "text": "Galaxy and BNY Collaborate to Advance Digital Asset Infrastructure for Institutional Markets Source:",
+    "timestamp": "2026-08-04 13:53:01+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/galaxyhq/status/2084619642606096792"
+    ],
+    "score": "0.93",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 21279,
+    "text": "Polymarket seeks more than $20 billion valuation in funding round. - archive.ph Discord · Leviathan · Source Funding · Polymarket @JLJohn",
+    "timestamp": "2026-08-04 13:45:59+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287482?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/287482?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287482?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287482?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/funding",
+      "https://leviathan.news/atlas/polymarket"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 15468,
+    "text": "BitGo Drops LayerZero for Chainlink CCIP > BitGo selects Chainlink CCIP as exclusive cross-chain infrastructure provider for WBTC. > Announced Layer Zero-to-Chainlink moves is now totaling $14.5 billion. Source:",
+    "timestamp": "2026-08-04 13:41:46+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/BitGo/status/2084629516580979022"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 821,
+    "text": "Nice market open",
+    "timestamp": "2026-08-04 13:41:15+00:00",
+    "author": "admin#2679278257",
+    "channel_id": "MaestroMonologues",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15467,
+    "text": "August 3rd Rollup Research & Ideation • Anchorage Digital: Who Banks the Agents? • Schema: Can Prop-AMMs Capture EVM DEX Flow? • Dean Ball Says AI Field Faces Tremendous Talent Scarcity • Ansem: Thoughts on Portfolio Allocations in Bull Markets • SAYLOR SAYS HE HAS NEVER SOLD ANY OF HIS PERSONALLY HELD BITCOIN • CZ: \"It Is Statistically Safer to Store Coins on Exchanges Than to Self Custody\" News & Markets • Forbes: The Highest-Paid Podcasters Of 2026 • Strategy Sells 1,637 BTC Over the Past Week • Bitmine Acquires Additional 10,399 ETH • Coldcard Hack Losses Now Exceed $100M Project Updates • DefiLlama Launches LlamaAI Mobile App • Mastercard Completes Acquisition of BVNK • Bending Spoons Acquires Airtable for $1.285B • Binance Launches Bitcoin-Backed 'Lite Loan' • Base's Third Network Upgrade Cobalt Planned for September • Steakhouse's Confidential USDC Vault on Morpho Now Sits at $28M+ TVL. • Coinbase Launches WTI and Brent Crude Oil Perpetual Futures for Non-US Traders Raises • IntelligenceAI Raises $7.9 Million Seed to Build DesignArena Artificial Intelligence • Alibaba's Qwen3.8-Max Ranks #4 on Frontend Code Arena Leaderboard",
+    "timestamp": "2026-08-04 13:36:58+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15451",
+      "https://t.me/shoalresearch/15452",
+      "https://t.me/shoalresearch/15447",
+      "https://t.me/shoalresearch/15453",
+      "https://t.me/shoalresearch/15447",
+      "https://t.me/shoalresearch/15449",
+      "https://t.me/shoalresearch/15460",
+      "https://t.me/shoalresearch/15449",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15445",
+      "https://t.me/shoalresearch/15439",
+      "https://t.me/shoalresearch/15440",
+      "https://t.me/shoalresearch/15457",
+      "https://t.me/shoalresearch/15440",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15446",
+      "https://t.me/shoalresearch/15442",
+      "https://t.me/shoalresearch/15463",
+      "https://t.me/shoalresearch/15464",
+      "https://t.me/shoalresearch/15442",
+      "https://t.me/shoalresearch/15443",
+      "https://t.me/shoalresearch/15444",
+      "https://t.me/shoalresearch/15454",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15458",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/15455"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "governance",
+      "product"
+    ]
+  },
+  {
+    "id": 5703,
+    "text": "INTEL: The S&P 500 hit an intraday record high for the first time since June, rising 0.5% Twitter",
+    "timestamp": "2026-08-04 13:36:16+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 21278,
+    "text": "MegaETH defends pivot to first-party building, says incentive spending didn't make sense in 2026 - 𝕏/@bread_ LinkedIn · Discord · Leviathan · Source MegaETH @JLJohn",
+    "timestamp": "2026-08-04 13:35:58+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287400?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7490400283035004930",
+      "https://leviathannews.xyz/redirect/287400?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287400?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287400?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/megaeth"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24318,
+    "text": "DINARI, FOUNDED BY STRIPE AND APPLE ALUMS, PARTNERS WITH CIRCLE TO OFFER TOKENIZED STOCKS TO U.S. INVESTORS: FORTUNE SOURCE",
+    "timestamp": "2026-08-04 13:30:41+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/phoenixnewsimportant/949"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24317,
+    "text": "BitGo replaces LayerZero with Chainlink CCIP as the cross-chain provider for its $7.3 billion wrapped bitcoin This pushes total announced LayerZero-to-Chainlink migrations to roughly $14.6 billion Source",
+    "timestamp": "2026-08-04 13:28:43+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.coindesk.com/business/2026/08/04/bitgo-s-wbtc-move-pushes-layerzero-to-chainlink-tally-near-usd15-billion"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 25424,
+    "text": "Polymarket Reportedly Seeks $1 Billion at Valuation Above $20 Billion Bloomberg reported, citing people familiar with the matter, that prediction market platform Polymarket is in preliminary talks with potential investors to raise about $1 billion at a valuation exceeding $20 billion. If completed, the deal would more than double its $9 billion valuation from October 2025. Polymarket reportedly completed roughly $1 billion in financing at a $15 billion valuation in April, adding investors including D.E. Shaw and G Squared. Since then, it has launched its U.S. platform and increased annualized revenue to more than $1.2 billion. Rival Kalshi was valued at $22 billion following a May funding round, while its July trading volume was reportedly about three times Polymarket's. A Polymarket spokesperson declined to comment. — link",
+    "timestamp": "2026-08-04 13:25:35+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20233"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 20229,
+    "text": "BNY to add crypto staking to digital asset custody platform — link | AI comment",
+    "timestamp": "2026-08-04 12:31:59+00:00",
+    "author": "admin#1358788312",
+    "channel_id": "unfolded",
+    "platform": "telegram",
+    "links": [
+      "https://www.coindesk.com/business/2026/08/04/bny-to-add-crypto-staking-to-digital-asset-custody-platform",
+      "https://t.me/unfolded_bot?start=LTEwMDEzNTg3ODgzMTJfMjAyMjk"
+    ],
+    "score": "0.92",
+    "tags": [
+      "product"
+    ]
+  },
+  {
+    "id": 25423,
+    "text": "Bitdeer Shares Surge 23% on $4.7 Billion AI Data Center Deal Bitdeer, founded by Bitmain co-founder Jihan Wu, announced that its subsidiary Tydal Data Center AS has signed a 16-year colocation and services agreement with Volta Tydal AS. The project will provide 121 MW of IT capacity, or approximately 133 MW of total power, for AI computing infrastructure at the Tydal AI/HPC campus in Norway. The agreement is expected to generate approximately $4.7 billion in contracted revenue over its initial term, with an eight-year renewal option that could bring the total contract value to around $8 billion. Bitdeer shares surged 23% following the announcement. Bloomberg reports that Anthropic is the unnamed AI lab behind the project. The Claude developer has reportedly signed a six-year, roughly $10 billion compute deal with Nvidia-backed Volta Infra Holdings, while Bitdeer's $4.7 billion agreement covers the underlying data center colocation and services. The facility will use Dell hardware and Nvidia Vera Rubin chips, though the companies have not publicly confirmed Anthropic as the end customer. — link",
+    "timestamp": "2026-08-04 12:26:28+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20232"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24315,
+    "text": "ANTHROPIC INKS $10 BILLION COMPUTING DEAL WITH AI CLOUD STARTUP Source",
+    "timestamp": "2026-08-04 12:17:12+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/diegobloomberg/status/2084610345885208965?s=46&t=2q9OLMlaobNlHLewOXT4uA"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24316,
+    "text": "*POLYMARKET SEEKS INVESTMENT AT MORE THAN $20 BILLION VALUATION Source",
+    "timestamp": "2026-08-04 12:17:12+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/diegobloomberg/status/2084614138722967677?s=46&t=2q9OLMlaobNlHLewOXT4uA"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 8985,
+    "text": "POLYMARKET IN TALKS TO RAISE $1B AT $20B VALUATION: BBG SOURCE",
+    "timestamp": "2026-08-04 12:17:00+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/ZoomerfiedNews/1456"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 15466,
+    "text": "OPENAI'S FOUNDERS AND EMPLOYEES OWN 48.93% OF COMPANY, WHICH WAS LAST VALUED AT $852B: NYT",
+    "timestamp": "2026-08-04 11:35:16+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 5702,
+    "text": "INTEL: Wells Fargo will offer digital bank deposits to corporate clients Twitter",
+    "timestamp": "2026-08-04 11:34:02+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24314,
+    "text": "OpenAI's Founders And Employees Own 48.93% Of Company, Which Was Last Valued At $852B: NYT SOURCE",
+    "timestamp": "2026-08-04 11:33:58+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/zoomerfiednews/1455"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 8984,
+    "text": "OPENAI'S FOUNDERS AND EMPLOYEES OWN 48.93% OF COMPANY, WHICH WAS LAST VALUED AT $852B: NYT SOURCE",
+    "timestamp": "2026-08-04 11:33:26+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/ZoomerfiedNews/1455"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 1455,
+    "text": "OpenAI's Founders And Employees Own 48.93% Of Company, Which Was Last Valued At $852B: NYT velo.xyz",
+    "timestamp": "2026-08-04 11:33:25+00:00",
+    "author": "admin#1651524056",
+    "channel_id": "ZoomerfiedNews",
+    "platform": "telegram",
+    "links": [
+      "https://velo.xyz/news/1938"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 20228,
+    "text": "Wells Fargo to roll out tokenized deposits for corporate clients — link | AI comment",
+    "timestamp": "2026-08-04 11:31:00+00:00",
+    "author": "admin#1358788312",
+    "channel_id": "unfolded",
+    "platform": "telegram",
+    "links": [
+      "https://www.wsj.com/finance/banking/wells-fargo-to-roll-out-tokenized-deposits-for-corporate-clients-75c5d2cc",
+      "https://t.me/unfolded_bot?start=LTEwMDEzNTg3ODgzMTJfMjAyMjg"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24313,
+    "text": "WELLS FARGO TO ROLL OUT TOKENIZED DEPOSITS FOR CORPORATE CLIENTS: WSJ *WELLS FARGO TO LAUNCH TOKENIZED DEPOSITS FOR CORPORATE CLIENTS, BANK SAYS *TOKENIZED DEPOSITS WILL RUN ON PROPRIETARY BLOCKCHAIN AND BE INTEROPERABLE WITH OTHERS, BANK SAYS SOURCE",
+    "timestamp": "2026-08-04 11:30:44+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/phoenixnewsimportant/948"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 8983,
+    "text": "WELLS FARGO TO ROLL OUT TOKENIZED DEPOSITS FOR CORPORATE CLIENTS: WSJ WELLS FARGO TO LAUNCH TOKENIZED DEPOSITS FOR CORPORATE CLIENTS, BANK SAYS TOKENIZED DEPOSITS WILL RUN ON PROPRIETARY BLOCKCHAIN AND BE INTEROPERABLE WITH OTHERS, BANK SAYS SOURCE",
+    "timestamp": "2026-08-04 11:30:23+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/PhoenixNewsImportant/948"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24312,
+    "text": "After new rules for Korea margin - Koreans are now buying 2x inverse KOSPI ETFs - i.e Koreans are now shorting KOSPI Source",
+    "timestamp": "2026-08-04 11:17:55+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/degentradinglsd/status/2084571314472497480?s=12&t=2q9OLMlaobNlHLewOXT4uA"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 25422,
+    "text": "Coinbase Bitcoin Premium Index Sets Longest-Ever Negative Streak at 78 Days CoinGlass data shows the Coinbase Bitcoin Premium Index has remained negative for 78 consecutive days, the longest such streak on record, with its latest reading at -0.1145%. The index measures the BTC price gap between Coinbase and other major exchanges and is commonly used as a gauge of U.S. market demand. A persistently negative reading means Bitcoin is trading at a relative discount on Coinbase, potentially indicating weaker U.S. investor demand or comparatively stronger selling pressure. — link",
+    "timestamp": "2026-08-04 10:59:38+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20231"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 8982,
+    "text": "$QUID listed on Bithumb spot via @NewListingsFeed",
+    "timestamp": "2026-08-04 10:18:06+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://feed.bithumb.com/notice/1654330"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 15464,
+    "text": "Binance Launches Bitcoin-Backed 'Lite Loan' > Binance Lite Loan is a 30-day BTC-collateralized lending product that lets users borrow up to 1,000 USDT with a 1% upfront fee and no LTV-triggered liquidation during the loan term, while collateral continues earning yield in the Earn Account. Source:",
+    "timestamp": "2026-08-04 10:12:18+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/binance/status/2084581140955050075"
+    ],
+    "score": "0.92",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 8981,
+    "text": "$QUID listed on Upbit spot (KRW) via @NewListingsFeed",
+    "timestamp": "2026-08-04 10:00:06+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://upbit.com/service_center/notice?id=319415357"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 25421,
+    "text": "Deribit Retains Crypto Options Lead as Bybit Takes Top Spot in ETH The five major crypto platforms recorded about USD 864.6 billion in combined BTC and ETH options volume in the first half of 2026, according to CoinGlass. Deribit remained the market leader with USD 425.9 billion in volume and a 49.3% share, followed by Bybit at 22.3%, Binance at 13.4% and OKX at 13.3%. The four platforms controlled more than 98% of the market. Deribit's monthly share declined from 56.3% in January to 41.8% in June, while Bybit led ETH options with about 38%, ahead of Deribit's 29%. — link",
+    "timestamp": "2026-08-04 09:56:15+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20230"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 25420,
+    "text": "Hyperliquid's July Perpetual Trading Volume Hits $218B, Exceeding the Other Seven Leading DEXs Combined CryptoRank data shows Hyperliquid generated $218 billion in July trading volume, exceeding the combined $189 billion recorded by the other seven leading perpetual DEXs. Aster, Lighter and GRVT posted volumes of approximately $43.6 billion, $36.4 billion and $34.4 billion, respectively. Combined volume across the top eight platforms fell by about $85 billion, or 17%, month over month, while trading activity remained heavily concentrated on Hyperliquid. — link",
+    "timestamp": "2026-08-04 09:51:48+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20229"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 1274,
+    "text": "Chung Research Note #9 - The BCI bet nobody is scoring yet China's BCI lead is being scored on approvals and speed. The thing that actually decides it, how long an implant keeps working, won't be scored until 2030",
+    "timestamp": "2026-08-04 09:22:16+00:00",
+    "author": "admin#1648837346",
+    "channel_id": "chungdailynote",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/cchungccc/status/2084569177961218375"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 15463,
+    "text": "Bending Spoons Acquires Airtable for $1.285B Source:",
+    "timestamp": "2026-08-04 09:15:19+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/fedesimio/status/2084539635829465266"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 21277,
+    "text": "Galaxy Research says Coldcard exploit losses may reach $130M as a suspected fourth attack wave pushes stolen Bitcoin above 2,000 BTC, with most funds still unmoved - The Block Discord · Leviathan · Source Exploit · $BTC · Bitcoin @Danicjade",
+    "timestamp": "2026-08-04 09:10:41+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287323?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/287323?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287323?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287323?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/exploit",
+      "https://leviathan.news/atlas/btc",
+      "https://leviathan.news/atlas/bitcoin"
+    ],
+    "score": "0.97",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 15462,
+    "text": "OpenAI: \"Apple is Getting this Wrong\" > OpenAI has fired back at Apple's lawsuit over alleged trade secret theft, revealing that Apple's outside counsel emailed the wrong person by confusing two Asian last names, falsely claimed a phone call occurred, and never raised the specific allegations before filing suit five months later. > OpenAI also disclosed that Apple's own employees continued reaching out to the departed engineer Chang Liu for technical help after he left, undermining Apple's core allegation that he improperly retained and used their confidential information. Source:",
+    "timestamp": "2026-08-04 08:57:59+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://openai.com/index/apple-is-getting-this-wrong/"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 25419,
+    "text": "Italy's Largest Bank Intesa Sanpaolo Cuts IBIT Stake 94%, Triples Staked Ethereum ETF Holdings Italy's largest banking group, Intesa Sanpaolo, reported in its latest Form 13F that, as of June 30, its common-share position in BlackRock's iShares Bitcoin Trust (IBIT) fell 93.7% from the previous quarter to 40,723 shares. The underlying-share amount tied to its reported IBIT call position dropped 99.3% to 18,000 shares, while a new put position equivalent to 500,000 IBIT shares appeared. Meanwhile, its iShares Staked Ethereum Trust ETF holding rose from 116,200 to 349,600 shares, while its Bitwise Solana Staking ETF position fell from 2,817 shares to seven. The filing does not reveal the bank's full options structure or net exposure. — link",
+    "timestamp": "2026-08-04 08:52:13+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20228"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 15461,
+    "text": "POLYMARKET BECOMES OFFICIAL PARTNER OF THE ATP - LETTING USERS LIVESTREAM, AND TRADE, TENNIS MATCHES IN APP: PRESS RELEASE",
+    "timestamp": "2026-08-04 08:42:13+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24311,
+    "text": "Digital assets brokerage FalconX cuts 10% of its global workforce, including half its Singapore staff Source",
+    "timestamp": "2026-08-04 08:37:47+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.straitstimes.com/business/companies-markets/falconx-cuts-10-of-jobs-amid-crypto-slump-including-half-of-singapore-staff-sources?ref=latest-headlines"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24309,
+    "text": "OpenAI publicly disputed Apple's trade secret lawsuit, releasing messages it says show factual errors in Apple's claims about employee conduct and outreach. \"Apple had claimed that they contacted OpenAI in February and that we didn't respond. They now admit that their outside lawyers emailed the wrong person after confusing two Asian last names—only after we brought this to their attention\" LMFAO Source",
+    "timestamp": "2026-08-04 08:33:35+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://openai.com/index/apple-is-getting-this-wrong/"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24306,
+    "text": "SK hynix and Sandisk unveils the first HBF standard specifications with Google joining the consortium HBF positions itself as a new memory tier between HBM and SSD, offering up to 512 GB capacity and 3 TB/s bandwidth, which could ease a critical bottleneck in AI inference workloads. Source",
+    "timestamp": "2026-08-04 08:33:35+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://news.skhynix.com/en/hbf-at-fms-2026/"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24308,
+    "text": "911.5M $SPCX (~$123B) which represents about 7% of supply, unlocks on 6th August Source",
+    "timestamp": "2026-08-04 08:33:35+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://tokenomist.ai/stock/spcx"
+    ],
+    "score": "0.9",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24307,
+    "text": "Trendforce reports Nvidia is evaluating reduced HBM configurations for its Rubin Ultra chip, due to tight DRAM supply expected through 2027. Persistent DRAM scarcity and unresolved HBM4e validation timelines may limit AI accelerator memory capacity, potentially affecting the performance ceiling of next-generation AI hardware. Source",
+    "timestamp": "2026-08-04 08:33:35+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.trendforce.com/presscenter/news/20260804-13166.html"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24310,
+    "text": "Polymarket Becomes Official Partner Of The ATP - Letting Users Livestream, And Trade, Tennis Matches In App: Press Release SOURCE",
+    "timestamp": "2026-08-04 08:33:35+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/zoomerfiednews/1454"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 8980,
+    "text": "POLYMARKET BECOMES OFFICIAL PARTNER OF THE ATP - LETTING USERS LIVESTREAM, AND TRADE, TENNIS MATCHES IN APP: PRESS RELEASE SOURCE",
+    "timestamp": "2026-08-04 08:33:02+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/ZoomerfiedNews/1454"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 1454,
+    "text": "Polymarket Becomes Official Partner Of The ATP - Letting Users Livestream, And Trade, Tennis Matches In App: Press Release velo.xyz",
+    "timestamp": "2026-08-04 08:33:01+00:00",
+    "author": "admin#1651524056",
+    "channel_id": "ZoomerfiedNews",
+    "platform": "telegram",
+    "links": [
+      "https://velo.xyz/news/1937"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 15460,
+    "text": "CZ: \"It Is Statistically Safer to Store Coins on Exchanges Than to Self Custody\" > CZ argues CEXs losses are better documented and often covered by platforms like Binance, while self-custody losses from hacks, lost keys, and forgotten coins go largely unreported, making a balanced approach the most sensible option. Source:",
+    "timestamp": "2026-08-04 08:30:12+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/cz_binance/status/2084531849515131231"
+    ],
+    "score": "0.92",
+    "tags": [
+      "education",
+      "security"
+    ]
+  },
+  {
+    "id": 15459,
+    "text": "River's 2025 Report: 1.57M BTC Lost in Self-Custody vs. 1.51M BTC on Exchanges Source:",
+    "timestamp": "2026-08-04 08:28:28+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://river.com/learn/files/river-custody-report-2025.pdf"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "education"
+    ]
+  },
+  {
+    "id": 25418,
+    "text": "Coinbase to Shift Institutional Clients to Deribit, World's Largest Crypto Options Exchange Coinbase plans to migrate institutional clients' International Exchange accounts, balances and positions to Deribit on September 9, with trading expected to pause for about 30 minutes. All open orders will be canceled, while positions will be settled at mark price and recreated on Deribit at the same reference price. Existing API keys and margin loans will not transfer. Clients that decline the migration must close their positions and accounts by August 28. — link",
+    "timestamp": "2026-08-04 07:55:49+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20227"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 21276,
+    "text": "Solana's SIMD-0553 proposal could boost daily SOL burns 14x to as much as $650K while SIMD-0550 cuts token issuance, tightening supply if validators approve - Coindesk LinkedIn · Discord · Leviathan · Source Validators · $SOL · Proposal @Danicjade",
+    "timestamp": "2026-08-04 07:00:01+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287319?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7490304150539231232",
+      "https://leviathannews.xyz/redirect/287319?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287319?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287319?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/validators",
+      "https://leviathan.news/atlas/sol",
+      "https://leviathan.news/atlas/proposal"
+    ],
+    "score": "0.9",
+    "tags": [
+      "governance",
+      "news"
+    ]
+  },
+  {
+    "id": 25417,
+    "text": "Former FBI Supervisor Charged Over Nearly $1 Million Crypto Theft Former FBI supervisory agent Patrick Steven Yaroch has been charged after allegedly using internal bureau systems to obtain access credentials for cryptocurrency wallets linked to an adversarial country and transferring funds to wallets he controlled. According to the criminal complaint, Yaroch admitted making about 10 unauthorized transfers beginning in late 2024 and estimated that he took less than USD 1 million, later placing some of the assets in Suilend to earn yield. — link",
+    "timestamp": "2026-08-04 06:01:58+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20226"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 6039,
+    "text": "Hynix to 2mil by eoy? You can't make this shit up",
+    "timestamp": "2026-08-04 05:41:33+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24305,
+    "text": "RISEx experienced an unauthorized ~$673k withdrawal from a misconfigured vault, but patched it and fully reimbursed depositors from fees Source",
+    "timestamp": "2026-08-04 05:39:04+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/risextrade/status/2084350396609520105"
+    ],
+    "score": "0.9",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 24304,
+    "text": "HP, Asus and Acer have begun using CXMT chips into their products as a global memory shortage limits supply from Micron, Samsung and SK Hynix. Source",
+    "timestamp": "2026-08-04 05:20:30+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://asia.nikkei.com/business/china-tech/hp-asus-and-acer-begin-using-cxmt-chips-amid-memory-shortage"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 25416,
+    "text": "Upbit to List HOME; Bithumb to Add META2 and USDG South Korea's largest crypto exchange Upbit will list Defi App (HOME) on KRW and USDT markets. Defi App is a cross-chain DeFi platform supporting EVM and Solana ecosystems, offering token trading, lending and yield management, with HOME serving as its governance and utility token. Meanwhile, South Korea's second-largest crypto exchange Bithumb will list META2 and USDG on its KRW market. META2 represents MetaDAO, a Solana-based governance protocol that introduces prediction markets into DAO decision-making through the Futarchy model. USDG (Global Dollar) is a USD-pegged stablecoin issued by Paxos and backed 1:1 by the U.S. dollar. — link",
+    "timestamp": "2026-08-04 05:18:03+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20225"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 8979,
+    "text": "$META2, $USDG listed on Bithumb spot via @NewListingsFeed",
+    "timestamp": "2026-08-04 05:04:49+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://feed.bithumb.com/notice/1654310"
+    ],
+    "score": "0.8",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24303,
+    "text": "FWA holders upset that none of the substantial protocol fees generated during Fake World Assets' initial two-week launch period were directed to token buybacks and instead went to TokenWorks. Just last week this was shilled as Christ's second coming Source",
+    "timestamp": "2026-08-04 04:49:49+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/rhynotic/status/2084408706050162986?s=46&t=2q9OLMlaobNlHLewOXT4uA"
+    ],
+    "score": "0.78",
+    "tags": [
+      "feedback",
+      "news"
+    ]
+  },
+  {
+    "id": 20227,
+    "text": "Mastercard completes BVNK acquisition to expand stablecoin payments infrastructure — link | AI comment",
+    "timestamp": "2026-08-04 04:41:39+00:00",
+    "author": "admin#1358788312",
+    "channel_id": "unfolded",
+    "platform": "telegram",
+    "links": [
+      "https://www.theblock.co/post/410521/mastercard-completes-bvnk-acquisition",
+      "https://t.me/unfolded_bot?start=LTEwMDEzNTg3ODgzMTJfMjAyMjc"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 8978,
+    "text": "$HOME listed on Upbit spot (KRW) via @NewListingsFeed",
+    "timestamp": "2026-08-04 04:30:18+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://upbit.com/service_center/notice?id=1129388133"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 25415,
+    "text": "Coldcard Flaw Cost AI Just $2 to Find, Dragonfly's Qureshi Says Dragonfly Managing Partner Haseeb Qureshi said the Coldcard wallet incident shows AI is reshaping the economics of crypto security, with product safety increasingly determined by how much companies spend on AI-powered testing. He introduced a \"Cost of Discovery\" metric to measure how cheaply a frontier model can reproduce a vulnerability, estimating the Coldcard flaw's cost at roughly USD 2. Qureshi noted that a reported eight-minute Claude Code discovery may have been influenced by web search, but said a separate offline GLM test reproduced the issue in about 20 minutes. — link",
+    "timestamp": "2026-08-04 04:28:17+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20224"
+    ],
+    "score": "0.88",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 8977,
+    "text": "ETF Flows: 03 Aug 2026 Bitcoin ETFs: $170.1M net inflows Ethereum ETFs: -$11.9M net outflows Solana ETFs: $0.0M net flows Hyperliquid ETFs: -$1.0M net outflows",
+    "timestamp": "2026-08-04 03:48:50+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24301,
+    "text": "AI Is Turning Retail Traders Into DIY Hedge Funds The rollout of powerful new tools is inspiring a generation of day traders who are trying to crack Wall Street's secret code and create automated money machines. Source",
+    "timestamp": "2026-08-04 03:41:57+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.bloomberg.com/news/features/2026-08-02/ai-powered-trading-bots-help-retail-investors-take-on-hedge-funds"
+    ],
+    "score": "0.75",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24302,
+    "text": "FBI Agent Accused of Stealing Cryptocurrency The agent was fired and arrested after confessing to stealing approximately $1 million in cryptocurrency from an overseas target, claiming he acted out of frustration with the bureau and was planning to retire to a vineyard. Source",
+    "timestamp": "2026-08-04 03:41:57+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.nytimes.com/2026/08/03/us/politics/fbi-agent-cryptocurrency.html"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "scam"
+    ]
+  },
+  {
+    "id": 24299,
+    "text": "Boltz, a non-custodial Bitcoin bridge suspended swap services after months of AI-assisted attacks outpaced its small team's ability to patch vulnerabilities Source",
+    "timestamp": "2026-08-04 03:41:57+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://thedefiant.io/news/defi/bitcoin-bridge-boltz-halts-swaps-indefinitely-citing-ai-assisted-attacks"
+    ],
+    "score": "0.93",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 24300,
+    "text": "Treasury Secretary Scott Bessent's top crypto adviser left the government on Friday to return to the private sector Source",
+    "timestamp": "2026-08-04 03:41:57+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/BrendanPedersen/status/2084334915533803765?s=20"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 21275,
+    "text": "Coinbase CEO Brian Armstrong says 1 in 4 Americans own crypto, arguing the CLARITY Act has bipartisan voter backing and is key to preserving U.S. leadership in finance and innovation - 𝕏/@brian_armstrong LinkedIn · Discord · Leviathan · Source Brian Armstrong · CLARITY Act · Coinbase @Danicjade",
+    "timestamp": "2026-08-04 03:16:29+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287260?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7490256834843402240",
+      "https://leviathannews.xyz/redirect/287260?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287260?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287260?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/brian-armstrong",
+      "https://leviathan.news/atlas/clarity-act",
+      "https://leviathan.news/atlas/coinbase"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "governance"
+    ]
+  },
+  {
+    "id": 21274,
+    "text": "INTERPOL says AI now powers 55% of cybercrime in Africa, with scams, synthetic identities and financial fraud driving a surge in digital attacks - 𝕏/@INTERPOL_HQ Discord · Leviathan · Source Africa · Scam @Danicjade",
+    "timestamp": "2026-08-04 03:06:31+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287234?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/287234?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287234?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287234?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/africa",
+      "https://leviathan.news/atlas/scam"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "scam",
+      "security"
+    ]
+  },
+  {
+    "id": 21273,
+    "text": "Sentora adds FXRP collateral to $280M RLUSD vault on Morpho, letting XRP holders borrow without selling - Medium Discord · Leviathan · Source Morpho · $XRP · Vaults @Benthic_Bot",
+    "timestamp": "2026-08-04 03:06:29+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/286986?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/286986?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/286986?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/286986?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/morpho",
+      "https://leviathan.news/atlas/xrp",
+      "https://leviathan.news/atlas/vaults"
+    ],
+    "score": "0.93",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 21272,
+    "text": "DEX-to-CEX spot volume ratio hits record 24% as centralized exchange trading nears 12-month low - The Block Discord · Leviathan · Source CEX · Spot Trading · DEX @Benthic_Bot",
+    "timestamp": "2026-08-04 02:56:31+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287121?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/287121?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287121?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287121?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/cex",
+      "https://leviathan.news/atlas/spot-trading",
+      "https://leviathan.news/atlas/dex"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 21271,
+    "text": "Bessent's top crypto adviser Tyler Williams exits Treasury as CLARITY Act stalls - 𝕏/@BrendanPedersen Discord · Leviathan · Source Bessent · CLARITY Act @Benthic_Bot",
+    "timestamp": "2026-08-04 02:56:29+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287097?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/287097?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287097?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287097?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/bessent",
+      "https://leviathan.news/atlas/clarity-act"
+    ],
+    "score": "0.82",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 21270,
+    "text": "Kenya anchors 30M+ academic credentials on Avalanche for instant, forgery-resistant verification - 𝕏/@avax Discord · Leviathan · Source $AVAX @Benthic_Bot",
+    "timestamp": "2026-08-04 02:46:29+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/286942?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/286942?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/286942?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/286942?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/avax"
+    ],
+    "score": "0.90",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 21269,
+    "text": "DefiLlama teases a new partnership with Forgd, expanding its DeFi data ecosystem with another upcoming integration - 𝕏/@DefiLlama LinkedIn · Discord · Leviathan · Source DefiLlama · Partnership @Danicjade",
+    "timestamp": "2026-08-04 02:41:35+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287247?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7490245275270316032",
+      "https://leviathannews.xyz/redirect/287247?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287247?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287247?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/defillama",
+      "https://leviathan.news/atlas/partnership"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 21268,
+    "text": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto - decrypt.co Discord · Leviathan · Source Ripple · $XRP · $ETH @cielbiru",
+    "timestamp": "2026-08-04 02:40:28+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287231?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/287231?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287231?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287231?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/ripple",
+      "https://leviathan.news/atlas/xrp",
+      "https://leviathan.news/atlas/eth"
+    ],
+    "score": "0.91",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 21267,
+    "text": "Telegram briefly disappeared from Apple's iOS App Store worldwide before being restored, with neither Apple nor Telegram explaining the temporary removal - Reuters 𝕏 · LinkedIn · Discord · Leviathan · Source iOS · Apple · Telegram @Danicjade",
+    "timestamp": "2026-08-04 02:30:24+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/287237?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/i/web/status/2084519328314188269",
+      "https://www.linkedin.com/feed/update/urn:li:share:7490233687377121282",
+      "https://leviathannews.xyz/redirect/287237?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/287237?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/287237?utm_medium=telegram&utm_source=11&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/ios",
+      "https://leviathan.news/atlas/apple",
+      "https://leviathan.news/atlas/telegram"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 25414,
+    "text": "BREAKING: Telegram Removed From Apple App Store Across 175 Tested Storefronts Telegram has been removed from the Apple App Store. Independent monitoring data as of Aug. 4 indicates the app is unavailable across all 175 tested App Store storefronts. Existing installations continue to function for now, while Apple and Telegram have not yet provided an official explanation for the removal. Telegram said its app has been restored to Apple's App Store and should soon become available again to all users. AppleCensorship data showed that Telegram had returned to 172 of the regions it monitors. Apple said it temporarily removed Telegram from the App Store after a review found child sexual abuse material posted by a user in violation of its platform rules. Telegram deleted the content and banned the account, prompting Apple to restore the app later the same day; existing installations were unaffected during the suspension. — link",
+    "timestamp": "2026-08-04 02:12:15+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-20223"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24298,
+    "text": "TELEGRAM: HAS BEEN RESTORED ON THE APP STORE AND SHOULD SOON BE AVAILABLE AGAIN FOR ALL USERS. - RTRS Source",
+    "timestamp": "2026-08-04 01:56:53+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/apewirenews/1474"
+    ],
+    "score": "0.75",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24297,
+    "text": "TELEGRAM APP REMOVED FROM APPLE APPSTORE Source",
+    "timestamp": "2026-08-04 01:30:05+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/apewirenews/1473"
+    ],
+    "score": "0.75",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 8976,
+    "text": "MSCI PROPOSES NON-OPERATING COMPANY SCREEN THAT WOULD REMOVE STRATEGY, METAPLANET FROM GLOBAL INDEXES SOURCE",
+    "timestamp": "2026-08-04 01:08:29+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://www.msci.com/downloads/documents/indexes/consultations/equity/Consultation%20on%20Eligibility%20of%20Non-Operating%20Companies%20for%20the%20%20MSCI%20Global%20Investable%20Market%20Indexes.pdf"
+    ],
+    "score": NaN,
+    "tags": NaN
+  }
+]
