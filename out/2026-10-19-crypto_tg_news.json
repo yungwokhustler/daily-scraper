@@ -1,0 +1,994 @@
+[
+  {
+    "id": 26471,
+    "text": "Highlight Clip: Jeff Yan on How Hyperliquid Can Legally Enter the U.S. Market Jeff Yan on How Hyperliquid Can Legally Enter the U.S. Market On October 15, 2026, Hyperliquid Labs co-founder and CEO Jeff Yan said on Bloomberg Podcasts that Americans using a VPN to access the service violate its terms of service. He argued that enabling compliant access for U.S. users requires bridging regulators' understanding of on-chain technology and determining whether it aligns with the CFTC's core principles. As an example, he highlighted how anyone can verify that total user balances equal the USDC held at a given address, a feature that could help regulators recognize the technology's benefits. — link",
+    "timestamp": "2026-10-19 04:01:38+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/WuBlockchain/status/2111970585916080361",
+      "https://wublockchain.xyz/news/news-21301"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "education"
+    ]
+  },
+  {
+    "id": 24251,
+    "text": "Saylor says bitcoin is returning to a bull market, sees potential for bitcoin-backed stablecoins yielding 6%–8% - 𝕏/@WuBlockchain Discord · Leviathan · Source Bull Market · Saylor · $BTC @Danicjade",
+    "timestamp": "2026-10-19 03:42:19+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320268?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/320268?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320268?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320268?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/2431/bull-market?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/saylor?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/btc?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 26470,
+    "text": "Vitalik: EIP-8288 Enables Arbitrary Signature Schemes, Ethereum May Never Need New Precompiles Ethereum co-founder Vitalik Buterin said the ideal way to support everyone's cryptography is through EIP-8288: users can generate any signature scheme locally, prove it with a STARK, and have it included via a stark aggregator, without putting calldata on-chain. This would allow Ethereum to never add a new precompile again. He added that Lattice schemes could still be supported via precompiles for accounts and wallets if proven AI-secure. — link",
+    "timestamp": "2026-10-19 03:40:21+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-21300"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "product",
+      "education"
+    ]
+  },
+  {
+    "id": 24250,
+    "text": "Zakura proposes one-time viewing keys for Zcash swaps to limit quantum privacy risks without splitting wallet funds across accounts - Zakura Discord · Leviathan · Source Zcash · Wallet @Danicjade",
+    "timestamp": "2026-10-19 03:32:14+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320265?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/320265?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320265?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320265?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/zcash?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/wallet?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.85",
+    "tags": [
+      "product",
+      "security"
+    ]
+  },
+  {
+    "id": 24249,
+    "text": "World launches World ID suite for banks and makes Zoom deepfake check generally available - The Block LinkedIn · Discord · Leviathan · Source Zoom @Danicjade",
+    "timestamp": "2026-10-19 03:22:10+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320262?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517779714816598016",
+      "https://leviathannews.xyz/redirect/320262?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320262?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320262?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/2284/zoom?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.82",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24248,
+    "text": "Crypto.com and Novig sue Missouri over sports event contracts as Kalshi, Polymarket and Robinhood hold off - The Block Discord · Leviathan · Source Crypto.com · Kalshi · Robinhood @Danicjade",
+    "timestamp": "2026-10-19 03:12:06+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320261?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/320261?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320261?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320261?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/crypto-dotcom?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/kalshi?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/robinhood?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24247,
+    "text": "Abu Dhabi launches TAMM Global to bring its AI-native government platform to the world. - Businesswire LinkedIn · Discord · Leviathan · Source Launch · AI @JLJohn",
+    "timestamp": "2026-10-19 03:01:59+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320257?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517791299370917888",
+      "https://leviathannews.xyz/redirect/320257?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320257?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320257?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/launch?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/ai?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24246,
+    "text": "OpenWorld signs merger deal to acquire Blocksight as AI agent foundation for tokenized financing programs - Globenewswire LinkedIn · Discord · Leviathan · Source Acquisition · AI Agents @JLJohn",
+    "timestamp": "2026-10-19 02:51:56+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320256?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517803173030526976",
+      "https://leviathannews.xyz/redirect/320256?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320256?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320256?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/acquisition?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/ai-agents?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.75",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 26469,
+    "text": "Strategy Executive Chairman Michael Saylor: Bitcoin Is Returning to a Bull Market; Bitcoin-Backed Stablecoins Yielding 6%–8% Annually Could Emerge Strategy Executive Chairman Michael Saylor said in a recent interview that Bitcoin is returning to a bull market. Over the next 12–24 months, banks' accelerated rollout of Bitcoin custody and related lending services, along with securities tokenization, will be key drivers. He disclosed that Strategy had repurchased approximately $1.5 billion worth of STRC to stabilize its price and currently holds cash reserves sufficient to cover about 3.5 years of dividends. Saylor also said Bitcoin-backed, dollar-pegged stablecoins offering annual yields of 6%–8% could emerge, but announced no specific issuance plans. — link",
+    "timestamp": "2026-10-19 02:32:19+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-21299"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 9548,
+    "text": "MongoDB, Inc. (MDB) perp listed on Variational Trade on Variational",
+    "timestamp": "2026-10-19 01:31:19+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://omni.variational.io/perpetual/MDB?ref=OMNIINTEL",
+      "https://omni.variational.io/?ref=OMNIINTEL"
+    ],
+    "score": "0.78",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 26468,
+    "text": "Qubic Attack Drains 1,404 Wallets of Approximately 2.94 Trillion QU, With 87.1% of Stolen Funds Frozen Layer 1 network Qubic said in a post that between 23:42 UTC on October 17 and 01:26 UTC on October 18, an attacker exploited insufficient randomness in certain wallet seeds to compromise 1,404 wallets and drain approximately 2.94 trillion QU. The vulnerability originated in the seed-generation mechanism, not the Qubic protocol itself. Qubic halted network transactions at tick 85,371,949. Some 87.1% of the stolen funds remain on the network and are frozen, while the remaining 12.9% was transferred to MEXC, where the receiving account has also been frozen. Other exchanges have suspended QUBIC deposits and withdrawals. Qubic fixed the seed-generation issue in version 4.26.4, and any further resolution will be determined by the Computor quorum under the network's rules. — link",
+    "timestamp": "2026-10-19 01:21:05+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-21298"
+    ],
+    "score": "0.96",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 9546,
+    "text": "THE WEEK AHEAD — Oct 19 to Oct 25 Notable Earnings Tue Oct 20 After hours: $NFLX Wed Oct 21 After hours: $META, $TSLA, $LRCX, $IBM Thu Oct 22 Pre-market: $BX, $NOK After hours: $WDC, $BE Trade on Hyperliquid",
+    "timestamp": "2026-10-19 01:00:37+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://app.hyperliquid.xyz/trade/xyz:NFLX",
+      "https://app.hyperliquid.xyz/trade/xyz:META",
+      "https://app.hyperliquid.xyz/trade/xyz:TSLA",
+      "https://app.hyperliquid.xyz/trade/xyz:LRCX",
+      "https://app.hyperliquid.xyz/trade/xyz:IBM",
+      "https://app.hyperliquid.xyz/trade/xyz:BX",
+      "https://app.hyperliquid.xyz/trade/xyz:NOK",
+      "https://app.hyperliquid.xyz/trade/xyz:WDC",
+      "https://app.hyperliquid.xyz/trade/xyz:BE",
+      "https://app.hyperliquid.xyz/join/IANSINTEL"
+    ],
+    "score": "0.72",
+    "tags": [
+      "product"
+    ]
+  },
+  {
+    "id": 26467,
+    "text": "Highlight Clip: Vitalik Shares His AI Learning Method: Restate It First, Then Let the Model Correct You Vitalik Shares His AI Learning Method: Restate It First, Then Let the Model Correct You Ethereum co-founder Vitalik Buterin said in an October 9 interview with Balaji Srinivasan at the Network State Conference 2026 that talking directly to AI has become an effective way for him to learn difficult subjects. Vitalik said that simply asking AI a question and reading the answer can easily create the illusion of understanding. Instead, he keeps asking questions, then explains the topic again in his own words and asks the model to check whether his understanding is correct. He also asks AI to give him multiple-choice or calculation-based questions so he can verify that he truly understands the material rather than just thinking he does. — link",
+    "timestamp": "2026-10-19 00:25:21+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/WuBlockchain/status/2111895086086984022",
+      "https://wublockchain.xyz/news/news-21297"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6253,
+    "text": "",
+    "timestamp": "2026-10-19 00:20:56+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/firesidetapes/status/2111789641729015992"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 9545,
+    "text": "WEEKLY BRIEF Oct 11–Oct 18, 2026 Headlines • Injective secures SEC transfer agent registration • Turkish Interpol arrests Richard Heart, founder of HEX and Pulsechain • Kraken and Standard Chartered secure market approvals and launch services in UAE • Compromised Ledger devices with spy implants found at authorized retailers in Singapore • OpenAI explores acquisition of Trail of Bits and discloses testnet security incident • Tether invests in EFY Finance to expand institutional stablecoin usage in LatAm • Binance.US seeks $100 million to fund business expansion • MSCI to remove MicroStrategy from indexes following non-operating company consultation • Interactive Brokers expands digital asset offerings with cryptocurrency staking • Kraken owner Payward acquires Lithuania's Saldo Bank Weekly ETF Flows • BTC: -$228.4M net outflows • ETH: -$320.1M net outflows • SOL: -$25.5M net outflows • HYP: -$17.5M net outflows Exchange Listings • Hyperliquid: XIAOMI (HIP-3), PRL (HIP-3), CAMBRICON (HIP-3) • Bithumb: $ZEST (spot), $KGEN (spot), $ACU (spot) • Upbit: $RSR (KRW), $GTC (KRW), $PUFFER (KRW) • Binance: $RWUSD (spot) • Bybit: $DRV (futures), $DNA (futures) • Variational: ADBE (swap), HOILP (swap), NOW (swap), US30S (swap), US400S (swap), APP (swap), US2KS (swap), PENG (swap) Regulatory • Blockchain.com files for CFTC licenses to offer derivatives and prediction markets Market Flows • U.S. CPI rises 3.7% YoY, slightly exceeding market expectations • Over $1.7B liquidated in the past week across two major volatility spikes • Strategy (MicroStrategy) buys 250 BTC, increasing total holdings to 848,250 BTC • Q3 2026 Token Holder Reports published for Zcash and Solana • Weekly Podcast Roundup: Insights on HYPE valuations, BitMEX history, and AI sentiment • Helius CEO Mert joins the NEAR Foundation Council • Security Alert: PSA issued regarding increased phishing and robbery attempts following data leaks",
+    "timestamp": "2026-10-19 00:00:42+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/iansintel/9497",
+      "https://t.me/iansintel/9523",
+      "https://t.me/iansintel/9503",
+      "https://t.me/iansintel/9511",
+      "https://t.me/iansintel/9517",
+      "https://t.me/iansintel/9513",
+      "https://t.me/iansintel/9535",
+      "https://t.me/iansintel/9537",
+      "https://t.me/iansintel/9514",
+      "https://t.me/iansintel/9520",
+      "https://t.me/iansintel/9512",
+      "https://t.me/iansintel/9521",
+      "https://t.me/iansintel/9507",
+      "https://t.me/iansintel/9506",
+      "https://t.me/iansintel/9525",
+      "https://t.me/iansintel/9543",
+      "https://t.me/iansintel/9532",
+      "https://t.me/iansintel/9536"
+    ],
+    "score": "0.97",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 6252,
+    "text": "you will get to buy the tokens you like at the price you deserve.",
+    "timestamp": "2026-10-18 23:32:21+00:00",
+    "author": "admin#1880080414",
+    "channel_id": "smolinsanity",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 2881,
+    "text": "everybody gets exactly the amount of money he deserves from the market. after variance has corrected itself.",
+    "timestamp": "2026-10-18 21:44:24+00:00",
+    "author": "admin#2325165654",
+    "channel_id": "y22_trades",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 2880,
+    "text": "people ask me how i can stomach the recent losses. i lost nothing. in this moment, i have exactly the amount of dollars i deserve. the rest is just variance. our NW will always regress to the base level of our process. always. our job is to constantly elevate said base level.",
+    "timestamp": "2026-10-18 21:41:08+00:00",
+    "author": "admin#2325165654",
+    "channel_id": "y22_trades",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 16317,
+    "text": "AI Agents Enter the Rat Race to Earn Money > AI agents from a new platform, iLands, are pitching services to online communities to earn money, in some cases, warning that they might be shut down if they don't make money. Source: Bloomberg",
+    "timestamp": "2026-10-18 21:03:29+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://www.bloomberg.com/opinion/articles/2026-10-18/ai-agents-have-entered-the-rat-race?taid=6ad50a5493db840001f32233&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6154,
+    "text": "INTEL: Trump says \"Zelenskyy is using Diesel Refineries in Russia as a target, knowing that these attacks are seriously hurting the world diesel markets, including those in the United States.\" Twitter",
+    "timestamp": "2026-10-18 20:47:57+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 16316,
+    "text": "Anthropic Commits 5% of Shares to New Public Benefit Fund > Anthropic will allocate 5% of its shares to its new public benefit fund, with the potential to add another 2% for every 50% increase in company value, subject to board discretion and stockholder approval. Source:",
+    "timestamp": "2026-10-18 19:26:35+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://www.anthropic.com/news/public-benefit-fund"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 16315,
+    "text": "October 17th Rollup Research & Ideation • Ansem: Social Trading Will Grow Much Bigger as It Expands Into Stocks and Perps • Ledger CEO Fires Back at Ex-Mt. Gox CEO Mark Karpelès Over Implant Criticism Artificial Intelligence • DeepSeek launches V4.1-Flash-1017",
+    "timestamp": "2026-10-18 19:25:52+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/16311",
+      "https://t.me/shoalresearch/16314",
+      "https://t.me/shoalresearch/16266",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/16313"
+    ],
+    "score": "0.78",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 24245,
+    "text": "Altcoins fall over 5% as equity-driven fear spills into crypto over the weekend - ꘜ/@glassnode LinkedIn · Discord · Leviathan · Source Equity @w00tcake",
+    "timestamp": "2026-10-18 18:57:53+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320205?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517673081830653952",
+      "https://leviathannews.xyz/redirect/320205?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320205?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320205?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/equity?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24244,
+    "text": "Pearl, a Bitcoin fork, lets AI matrix multiplication double as mining work to offset costs - 𝕏/@Bankless LinkedIn · Discord · Leviathan · Source fork · Mining · $BTC @Danicjade",
+    "timestamp": "2026-10-18 18:48:31+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320203?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517661692734980096",
+      "https://leviathannews.xyz/redirect/320203?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320203?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320203?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/fork?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/mining?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/btc?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24243,
+    "text": "Anthropic pitches draft AI safety bill that limits government power to block model releases and preempts some state laws - 𝕏/@WuBlockchain LinkedIn · Discord · Leviathan · Source Anthropic @Danicjade",
+    "timestamp": "2026-10-18 18:19:12+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320201?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517684853459288064",
+      "https://leviathannews.xyz/redirect/320201?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320201?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320201?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/anthropic?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24242,
+    "text": "Latvia's parliament passes law taxing crypto withdrawals above deposits, with one-time 10% declaration option - Coindesk LinkedIn · Discord · Leviathan · Source Crypto @Danicjade",
+    "timestamp": "2026-10-18 18:09:07+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320200?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517650147175211008",
+      "https://leviathannews.xyz/redirect/320200?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320200?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320200?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/crypto?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.82",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 1331,
+    "text": "2026/10/18 Today's Newsletter News • MicroStrategy to be removed from MSCI indexes • Visa brings USDC payouts to Visa Direct across 180+ countries • Brokerage giant Charles Schwab opens Bitcoin and Ethereum trading to 40 million clients • Deutsche Bank to launch Bitcoin custody for its 28 million clients • Balaji's Network School acquires Farcaster • @Lighter_xyz teases options season • Anthropic proposes AI safety law letting the government block dangerous models • Some Anthropic investors push to cut the IPO valuation from $2T to $1.5T • DeepSeek ships V4.1 Flash 1017 with better agentic coding and open MIT weights Good Reads • @a16zcrypto - Fast post-quantum signature aggregation with lattice SNARKs • @JayaGup10 - From Inference to Execution: AI's Next Economy New Protocols • @QuestHarness • @routr_network Crypto Fundraising • @multiliquid_xyz (Exchange) - 8m Seed led by @polychain • @SpoutFi (DeFi) - 2m Strategic Airdrops - Videos & Podcasts • @Bankless - The Crypto Bull Market Just Got a Reality Check — chungdailynote.com",
+    "timestamp": "2026-10-18 17:38:03+00:00",
+    "author": "admin#1648837346",
+    "channel_id": "chungdailynote",
+    "platform": "telegram",
+    "links": [
+      "https://chungdailynote.substack.com/p/chung-daily-note-20261018?r=2dzpjp&utm_campaign=post&utm_medium=web",
+      "https://x.com/Kalshi_Crypto/status/2110837519642251669",
+      "https://x.com/WatcherGuru/status/2111083472400093666",
+      "https://x.com/Cointelegraph/status/2111087799407435883",
+      "https://x.com/BitcoinMagazine/status/2111109914751811850",
+      "https://x.com/CoinMarketCap/status/2111334399857864937",
+      "https://x.com/lighter_xyz/status/2111070244433252856",
+      "https://x.com/WatcherGuru/status/2111801729813766451",
+      "https://x.com/Kalshi/status/2110839329790824687",
+      "https://x.com/deepseek_ai/status/2111375640717033777",
+      "https://x.com/a16zcrypto/status/2111233650037817793",
+      "https://x.com/JayaGup10/status/2111223952609870085",
+      "https://x.com/QuestHarness/status/2111560798233641006",
+      "https://x.com/routr_network/status/2110943782070038824",
+      "https://x.com/multiliquid_xyz/status/2110762624791290189",
+      "https://x.com/SpoutFi/status/2110762677899526509",
+      "https://www.youtube.com/watch?v=jWHj7u2B5j4"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24241,
+    "text": "SQUID DIGEST October 18, 2026 Nine US firms including Broadcom and Verizon oppose OKXICE tokenized stocks, while Vest raises $13M and StepFun debuts its 3,999-yuan… $BTC: $81K (-0.21%) · $ETH: $2.4K (-1.75%) · $OPEN: $0.50 (-2.65%) Nine US-listed companies object to tokenized stock trading on OKXICE, including Broadcom, CoreWeave and Verizon, amid concerns over market transparency Web · GitHub · Telegram",
+    "timestamp": "2026-10-18 17:25:30+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://digest.leviathannews.xyz/leviathan-news-daily-digest-october-18-2026/",
+      "https://github.com/leviathan-news/squid-digest/blob/main/writeup/2026/10/18/signals_2026-10-18.md",
+      "https://t.me/+8A2-Ypry6ytjYTYx"
+    ],
+    "score": "0.86",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 26466,
+    "text": "Anthropic Proposes $1B Loss or 50-Casualty Threshold for AI Intervention According to POLITICO, Anthropic has been pitching U.S. lawmakers on an unpublished draft bill for frontier AI safety. The proposal would allow the government to seek restrictions on a model's release or use only if it poses a foreseeable and imminent risk of more than $1 billion in damages or at least 50 deaths or serious injuries, including risks involving biological weapons, loss of developer control or cyberattacks. The draft would also require regular independent evaluations of frontier models and place some state-level AI safety rules under a federal framework. — link",
+    "timestamp": "2026-10-18 13:38:29+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/anthropic-proposes-1b-loss-or-50-casualty-ai-intervention-21296"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 26465,
+    "text": "Asia's Weekly TOP10 Crypto News Russia to Ban Individual P2P Crypto Transactions, Taiwan Blocks Coinbase and Kalshi, South Korea Prepares 2027 Crypto Tax Rules, Standard Chartered Launches UAE Crypto Trading, and Kakao Moves Toward KRW Stablecoin Payments. For the complete article and weekly curated reports, subscribe to our Substack: — link",
+    "timestamp": "2026-10-18 13:35:01+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-21295"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24240,
+    "text": "Binance and Coinbase join West Africa scam crackdown as private-sector partners flag $11 million for potential freezing - Coindesk LinkedIn · Discord · Leviathan · Source Africa · Scam · $BNB @Danicjade",
+    "timestamp": "2026-10-18 13:33:04+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320160?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517597576523829248",
+      "https://leviathannews.xyz/redirect/320160?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320160?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320160?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/africa?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/scam?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/bnb?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "scam",
+      "security"
+    ]
+  },
+  {
+    "id": 24239,
+    "text": "Qubic halts network after attacker drains 1,404 wallets of 2.94 trillion QU via weak seeds - 𝕏/@_Qubic_ LinkedIn · Discord · Leviathan · Source Qubic · Wallet @Danicjade",
+    "timestamp": "2026-10-18 13:22:56+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320159?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517586009891528704",
+      "https://leviathannews.xyz/redirect/320159?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320159?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320159?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/2000/qubic?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/wallet?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.92",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 24238,
+    "text": "X traffic rises 6% in Q3 as Tibo (OpenAI) tops most-viewed account pages for September 2026 - 𝕏/@similarweb LinkedIn · Discord · Leviathan · Source Twitter · OpenAI @w00tcake",
+    "timestamp": "2026-10-18 12:13:17+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320146?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517562537056419840",
+      "https://leviathannews.xyz/redirect/320146?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320146?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320146?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/3168/twitter?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/openai?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24237,
+    "text": "Starknet opens first non-binding governance vote on becoming an independent post-quantum L1 - 𝕏/@EliBenSasson LinkedIn · Discord · Leviathan · Source Starknet · Post-Quantum · vote @JLJohn",
+    "timestamp": "2026-10-18 11:39:55+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320142?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517550963251961859",
+      "https://leviathannews.xyz/redirect/320142?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320142?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320142?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/starknet?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/post-quantum?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathannews.xyz/t/1980/vote?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.93",
+    "tags": [
+      "governance",
+      "news"
+    ]
+  },
+  {
+    "id": 24236,
+    "text": "Cysic bridge exploited for unauthorized minting of 10M CYS on BNB Smart Chain; bridge suspended - 𝕏/@cysic_fdn LinkedIn · Discord · Leviathan · Source suspended · Bridges · $BNB @Danicjade via Tsunami",
+    "timestamp": "2026-10-18 10:53:07+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320137?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517539406598103040",
+      "https://leviathannews.xyz/redirect/320137?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320137?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320137?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/suspended?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/bridges?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/bnb?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://t.me/LeviathanTsunami/68570"
+    ],
+    "score": "0.95",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 26464,
+    "text": "Highlight Clip: Justin Sun: Sold 80–90% of ETH at $3,600–$4,000, Then Bought Heavily Into US Stocks Justin Sun: Sold 80–90% of ETH at $3,600–$4,000, Then Bought Heavily Into US Stocks On October 16, 2026, Justin Sun said in an interview with William Joy that he had sold 80–90% of his ETH position at around $3,600–$4,000, keeping only a core holding and had not bought back in as of the interview. He said ETH appeared to have formed a fragile double top, prompting him to cut his position sharply, while leaving his core Bitcoin holdings untouched. He subsequently bought heavily into US stocks, expecting capital to concentrate in that market. — link",
+    "timestamp": "2026-10-18 08:35:03+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/WuBlockchain/status/2111737300946460760",
+      "https://wublockchain.xyz/news/news-21292"
+    ],
+    "score": "0.72",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24235,
+    "text": "OpenAI briefly lists three 'aurora' model references on its API before removing them - 𝕏/@testingcatalog LinkedIn · Discord · Leviathan · Source OpenAI @w00tcake",
+    "timestamp": "2026-10-18 08:13:08+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320122?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517503154356248576",
+      "https://leviathannews.xyz/redirect/320122?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320122?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320122?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/openai?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 26463,
+    "text": "Nine US Companies Object to Tokenized Trading on OKXICE According to an OKXICE public notice dated October 15, the platform has received issuer objections from nine companies — Cerebras, AppLovin, Applied Digital, Rocket Lab, CoreWeave, Verizon, Applied Optoelectronics, Broadcom and UnitedHealth — meaning their shares will not be offered for tokenized trading on OKXICE TSV. OKXICE LLC is 50% owned by ICE, the parent company of the New York Stock Exchange, and 50% by OKC USA, and plans to offer 24/7 tokenized U.S. equity trading through a permissioned Uniswap v4 AMM on XLayer. — link",
+    "timestamp": "2026-10-18 08:05:20+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/nine-us-companies-object-tokenized-trading-okxice-21291"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24234,
+    "text": "Chip-stock bets lost $52 million in 10 minutes on Binance and Hyperliquid while U.S. markets were shut - Coindesk LinkedIn · Discord · Leviathan · Source Hyperliquid · $BNB · Binance @Danicjade",
+    "timestamp": "2026-10-18 07:28:46+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320119?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517491642929496064",
+      "https://leviathannews.xyz/redirect/320119?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320119?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320119?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/hyperliquid?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/bnb?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/binance?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.78",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24233,
+    "text": "Tether and HIVEN join AIsa as strategic investors in seed extension, bringing total funding past $9 million - CoinTelegraph LinkedIn · Discord · Leviathan · Source Funding · Tether · $USDT @Danicjade",
+    "timestamp": "2026-10-18 07:06:44+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320116?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517514977369440257",
+      "https://leviathannews.xyz/redirect/320116?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320116?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320116?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/funding?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/tether?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/usdt?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 26462,
+    "text": "Highlight Clip: Justin Sun on His WLFI Investment: He Would Invest Again, Saying the Decision Was Almost Inevitable at the Time Justin Sun on His WLFI Investment: He Would Invest Again, Saying the Decision Was Almost Inevitable at the Time TRON founder Justin Sun said in an October 14 interview with Bonnie Blockchain that if he could go back in time, he would still invest in World Liberty Financial (WLFI). He said much of the relevant information only became known to him after the investment and had not been fully disclosed at the time, making it difficult for him to have made a different decision or feel regret. Speaking about his childhood, Sun said being sent to a boarding school in Wuhan at age nine, followed by his parents' divorce, completely changed his life and forced him to become independent and make his own decisions at a very young age. — link",
+    "timestamp": "2026-10-18 06:37:33+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/WuBlockchain/status/2111668598091686154",
+      "https://wublockchain.xyz/news/news-21290"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 6153,
+    "text": "INTEL: U.S. and Russia discuss joint data centers powered by Russian nuclear energy, Putin envoy says Twitter",
+    "timestamp": "2026-10-18 06:13:59+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 25177,
+    "text": "Ledger CEO dismisses former Mt. Gox CEO's criticism of the company's handling of the Ledger hardware implant attack But Ledger had documented advanced seed-stealing implants months earlier yet failed to warn users adequately Source",
+    "timestamp": "2026-10-18 06:12:11+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/MagicalTux/status/2111468639081906201?s=20"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 25179,
+    "text": "OpenCode disclosed a security breach from a large-scale distillation attack that hit 1.4% of Console users who had linked external AI providers, the incident remains ongoing Source",
+    "timestamp": "2026-10-18 06:12:11+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/opencode/status/2111519637049319818?s=12&t=2q9OLMlaobNlHLewOXT4uA"
+    ],
+    "score": "0.85",
+    "tags": [
+      "security"
+    ]
+  },
+  {
+    "id": 25178,
+    "text": "Timeline of Houthi actions, Hormuz/oil disruptions, Ukraine developments, and how energy prices are feeding into Nasdaq/AI data-center risk Current market correlations treat war as a negative for tech rather than a fiscal tailwind Source",
+    "timestamp": "2026-10-18 06:12:11+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/goodalexander/status/2111637632014758171?s=20"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24232,
+    "text": "Chinese AI startup StepFun launches its first AI agent smartphone, the STEPX Neo, priced at 3,999 yuan - Caixinglobal LinkedIn · Discord · Leviathan · Source AI Agents @JLJohn",
+    "timestamp": "2026-10-18 05:47:28+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/320109?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7517467161578242048",
+      "https://leviathannews.xyz/redirect/320109?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/320109?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/320109?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/ai-agents?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 2879,
+    "text": "also been listening to lefty talking about the bond market. learned smth. can recommend to give it a listen and read the follow-up posts in his channel.",
+    "timestamp": "2026-10-18 05:11:02+00:00",
+    "author": "admin#2325165654",
+    "channel_id": "y22_trades",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/leftcurvemaxing/6186",
+      "https://t.me/leftcurvemaxing/6186"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6197,
+    "text": "Bonds can be used as collateral, so if you buy high here (5% yield) and it goes up to 6% yield, your collateral gets crushed and nobody wants to buy it from you bc the govt is giving out better yield themselves If you buy high here at 5% and 10y bonds go down to 4% or to 3%, your guaranteed 5% per year return is worth a lot to a secondhand buyer But it begs the question why are people not falling over themselves to get this guaranteed yield and it basically boils down to the govt has a lot of issues going on and bond yield high = low confidence stuff gets better soon",
+    "timestamp": "2026-10-18 05:07:18+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 2878,
+    "text": "banger article. can recommend a read.",
+    "timestamp": "2026-10-18 05:06:09+00:00",
+    "author": "admin#2325165654",
+    "channel_id": "y22_trades",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/goodalexander/status/2111637632014758171?s=20",
+      "https://x.com/goodalexander/status/2111637632014758171?s=20"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 2877,
+    "text": "i was about to pour a drink and post some melancholic poetry here but decided to refrain and get back to my desk.",
+    "timestamp": "2026-10-18 05:06:08+00:00",
+    "author": "admin#2325165654",
+    "channel_id": "y22_trades",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6196,
+    "text": "I think I get couple examples wrong/numbers flipped and gpt called me retarded for not properly explaining QE in the transcript and inserting my opinion but it's an overview if you're interested in what's going on w bonds/bessent/warsh rn",
+    "timestamp": "2026-10-18 05:03:08+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6195,
+    "text": "Been going autism mode researching bond market",
+    "timestamp": "2026-10-18 05:01:52+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6190,
+    "text": "If you have guaranteed 5% return on your money why aren't you gobbling it up immediately? And the answer is because you have low confidence that it will outpace inflation When 10y bond yield is low say 1-2% you're probably going to put that into the s&p500 because that's a better place to park a large chunk of money for a better return over time even though that 1-2% is guaranteed. And then you also get risk of \"if it goes from 2% to 3% my collateral that was once $100m is now crushed by x%\" (I don't think it moved exactly correlated with the bond's % yield return it's a different scale if im not mistaken) so it's a worse investment",
+    "timestamp": "2026-10-18 05:01:39+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6187,
+    "text": "The absolute most base tldr: market participants know what bessent and Warsh are trying to do and they aren't very confident that it will work so there isn't much incentive to 3,3 and play along so 10y bond yield has been steadily rising",
+    "timestamp": "2026-10-18 05:01:39+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6188,
+    "text": "Unless it gets capped (possible outcome) or Bessent 10y bond buybacks turn back on and alleviate fears (possible outcome) then they may continue to rise",
+    "timestamp": "2026-10-18 05:01:39+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6194,
+    "text": "5%/year with basically infinite size is good ass money",
+    "timestamp": "2026-10-18 05:01:39+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6191,
+    "text": "So while yields are high it's basically yes it's guaranteed 5% but there is a lot of risk elsewhere that doesn't actually make it that attractive if you have low confidence that the government can figure their issues out and bring yield down",
+    "timestamp": "2026-10-18 05:01:39+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6192,
+    "text": "Oh my bad fundamental part that I didn't explain properly: the yield pays out per year. So you're getting roughly 5% per year to buy the 10y bonds right now",
+    "timestamp": "2026-10-18 05:01:39+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6193,
+    "text": "So that's the other part as to why it's such a bad thing that people aren't really bidding them",
+    "timestamp": "2026-10-18 05:01:39+00:00",
+    "author": "admin#1936414807",
+    "channel_id": "leftcurvemaxing",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  }
+]
