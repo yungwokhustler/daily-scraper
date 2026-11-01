@@ -1,0 +1,1415 @@
+[
+  {
+    "id": 25444,
+    "text": "iPhone 11 and older have an unpatchable chip flaw, so stop using them as cold wallets and move funds to a brand-new seed phrase Source",
+    "timestamp": "2026-11-01 05:39:08+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/ohyishi/status/2116529562511417525"
+    ],
+    "score": "0.88",
+    "tags": [
+      "security",
+      "education"
+    ]
+  },
+  {
+    "id": 25443,
+    "text": "Anthropic IPO gives its seven co-founders 50.1% of shareholder votes through a single special share Source",
+    "timestamp": "2026-11-01 05:39:05+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.wsj.com/tech/ai/anthropic-ipo-dual-class-stock-founder-control-4c43a56d"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 26641,
+    "text": "OneKey Founder: Some Older iPhones Have Unpatchable Chip Vulnerabilities, Posing Risks to Seed Phrase Storage OneKey founder Yishi warned that factory-resetting an older iPhone, enabling airplane mode, and using it to store crypto wallet seed phrases offline may still be unsafe. He noted that iPhone 4S through iPhone X are affected by checkm8, while iPhone XS, XR, 11 series, and second-generation iPhone SE are affected by usbliter8, disclosed earlier this year. These BootROM-level vulnerabilities cannot be fixed through iOS updates. Attackers with physical access and specialized tools may exploit them via USB, even in airplane mode. However, on models such as the XS and 11, these flaws alone do not provide direct access to seed phrases, as device passcodes and the Secure Enclave offer additional protection. Yishi advised affected users to generate entirely new seed phrases in a trusted environment, transfer their assets, use newer devices, keep software updated, and adopt stronger passwords. — link",
+    "timestamp": "2026-11-01 05:29:21+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/onekey-founder-older-iphones-unpatchable-chip-flaws-risk-seed-phrases-21473"
+    ],
+    "score": "0.95",
+    "tags": [
+      "security",
+      "education"
+    ]
+  },
+  {
+    "id": 25442,
+    "text": "Premia Labs exploited for $464.6K; funds bridged to Ethereum, swapped to BTC via Chainflip and NEAR Intents Source",
+    "timestamp": "2026-11-01 05:12:06+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/exploits_t3/902"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 6363,
+    "text": "INTEL: Binance to resume withdrawals in phases, with first phase starting between 06:00 and 09:00 UTC Twitter | News",
+    "timestamp": "2026-11-01 04:32:15+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x",
+      "https://solidintel.news/"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 26640,
+    "text": "Binance to Resume Withdrawals in Phases From 06:00 to 09:00 UTC Today, With 95% of Affected Assets Replenished Binance announced plans to gradually resume the first phase of withdrawals between 06:00 and 09:00 UTC on November 1, covering 15 networks including BTC, ETH, BSC, and SOL. Other networks will reopen after security checks are completed, while deposits remain operational. Binance also said it has replenished approximately 95% of affected assets, up from 90% previously. BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC are now all backed by 100% reserves. The remaining 5% consists of less liquid tokens that Binance is still acquiring. The exchange reiterated its commitment to covering all losses from the hack. — link",
+    "timestamp": "2026-11-01 04:29:50+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/binance-resumes-withdrawals-phased-0600-0900-utc-95-percent-replenished-21472"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 20508,
+    "text": "Binance to resume withdrawals in phases today, with first phase starting between 06:00-9:00 AM UTC — link | AI comment",
+    "timestamp": "2026-11-01 04:17:56+00:00",
+    "author": "admin#1358788312",
+    "channel_id": "unfolded",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/binance/status/2116744986096292263",
+      "https://t.me/unfolded_bot?start=LTEwMDEzNTg3ODgzMTJfMjA1MDg"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 25441,
+    "text": "PremiaLabs on Arbitrum exploited for $400.5K via flash loan and fake option pools Source",
+    "timestamp": "2026-11-01 04:15:46+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/exploits_t3/901"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 8186,
+    "text": "BINANCE TO RESUME WITHDRAWALS IN PHASES WITH FIRST PHASE STARTING BETWEEN 06:00-9:00 AM UTC: BLOG",
+    "timestamp": "2026-11-01 04:15:42+00:00",
+    "author": "admin#1219306781",
+    "channel_id": "TreeNewsFeed",
+    "platform": "telegram",
+    "links": [
+      "https://www.treeofalpha.com/preview_article?id=1793506136849"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 25440,
+    "text": "Binance to resume withdrawals in phases with first phase starting between 06:00-9:00 am utc: Blog Source",
+    "timestamp": "2026-11-01 04:13:31+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/BWEnews/16597"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 11882,
+    "text": "",
+    "timestamp": "2026-11-01 03:42:28+00:00",
+    "author": "admin#1811377118",
+    "channel_id": "cookiesreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/fredaduan/status/2116727410972590380"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24852,
+    "text": "Move Rooms launches live floor plan editing with drag-and-drop room rearrangement - 𝕏/@Maketplans LinkedIn · Discord · Leviathan · Source Move @JLJohn",
+    "timestamp": "2026-11-01 03:10:31+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327370?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7522508444206112768",
+      "https://leviathannews.xyz/redirect/327370?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327370?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327370?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/3181/move?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24851,
+    "text": "Creatify AI launches ad agent trained on 15M+ ads to build and run Meta, Google and TikTok campaigns - 𝕏/@Creatify_AI LinkedIn · Discord · Leviathan · Source TikTok · Meta · Google @JLJohn",
+    "timestamp": "2026-11-01 03:00:27+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327368?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7522519957205667840",
+      "https://leviathannews.xyz/redirect/327368?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327368?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327368?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/1563/tiktok?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/meta?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/google?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24850,
+    "text": "NIRISE establishes $250M SAFU reserve fund to protect user assets - Financewire Discord · Leviathan · Source Fund @JLJohn",
+    "timestamp": "2026-11-01 02:50:22+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327362?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/327362?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327362?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327362?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/1166/fund?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 24849,
+    "text": "ZetaChain proposes user-owned, portable memory for AI assistants - 𝕏/@ZetaChain LinkedIn · Discord · Leviathan · Source ZetaChain · Memory @Danicjade via 𝕏",
+    "timestamp": "2026-11-01 02:35:59+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327338?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7522496596643852288",
+      "https://leviathannews.xyz/redirect/327338?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327338?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327338?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/3020/zetachain?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/memory?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://x.com/DanicHades/status/2116658686001111201"
+    ],
+    "score": "0.75",
+    "tags": [
+      "governance"
+    ]
+  },
+  {
+    "id": 11879,
+    "text": "inside thoughts",
+    "timestamp": "2026-11-01 02:14:36+00:00",
+    "author": "admin#1811377118",
+    "channel_id": "cookiesreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/elonmusk/status/2116018780111597911"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 11878,
+    "text": "mindblown",
+    "timestamp": "2026-11-01 02:13:15+00:00",
+    "author": "admin#1811377118",
+    "channel_id": "cookiesreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/AlexKsendzovsky/status/2116153410101944352"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 26639,
+    "text": "Highlight Clip: Binance Co-CEO: Attackers Used Self-Destruct Mechanisms, Making the Hack Harder to Trace Binance Co-CEO: Attackers Used Self-Destruct Mechanisms, Making the Hack Harder to Trace Binance Co-CEO Richard Teng updated the investigation into the roughly $6.3 billion hack on October 30, saying multiple people were involved. Investigators initially suspected a compromised laptop but later found other entry points. Attackers used self-destruct mechanisms to erase tools and traces, complicating the investigation. Teng said they used EIP-7702 to gain on-chain execution authority over a hot wallet without passing Binance's normal approval controls. Binance paused withdrawals to rebuild and test its systems, targeting restoration within 40 hours. It is also working with law enforcement to trace and recover stolen funds. — link",
+    "timestamp": "2026-11-01 02:07:00+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/WuBlockchain/status/2116470243337949313",
+      "https://wublockchain.xyz/news/news-21471"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 11876,
+    "text": "literally hello world",
+    "timestamp": "2026-11-01 02:06:13+00:00",
+    "author": "admin#1811377118",
+    "channel_id": "cookiesreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/sundarpichai/status/2116214866444943853"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 26638,
+    "text": "North Korean Hackers Moved $38M Through Relay Protocol in 7 Hours On-chain analyst Specter reported that North Korean hackers transferred approximately $38 million through Relay Protocol within seven hours, with transfers still ongoing at the time of the post. Despite Relay's claims of having a Know Your Transaction (KYT) monitoring system in place, it failed to block the transfers. Specter noted that North Korean hackers would have struggled to move such a large amount through THORChain in the same timeframe, raising questions about Relay's compliance and risk controls. Relay Protocol is a cross-chain bridge and interoperability protocol that enables asset transfers across multiple blockchains. — link",
+    "timestamp": "2026-11-01 01:52:00+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/north-korean-hackers-moved-38m-through-relay-protocol-in-7h-21470"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 24848,
+    "text": "b14g pauses contracts after 97M CORE withdrawn without authorization - 𝕏/@b14g_network Discord · Leviathan · Source @Danicjade via 𝕏",
+    "timestamp": "2026-11-01 00:57:22+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327360?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/327360?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327360?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327360?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://x.com/DanicHades/status/2116685510567497942"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 24847,
+    "text": "UK Financial Ltd launches Maya Chain Ethereum Layer 2, begins migrating 12 exchange-traded tokens - Financewire LinkedIn · Discord · Leviathan · Source UK · $ETH · Ethereum @JLJohn",
+    "timestamp": "2026-11-01 00:47:19+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327354?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7522459560419442688",
+      "https://leviathannews.xyz/redirect/327354?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327354?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327354?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/uk?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/eth?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/ethereum?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 26637,
+    "text": "U.S. Spot Ethereum ETFs Hit Record 23-Day Net Outflow Streak Since Launch On-chain analytics firm Glassnode reported that U.S. spot Ethereum ETFs have recorded 23 consecutive trading days of net outflows, marking their longest streak since launch. Glassnode said the sustained withdrawals reflect weakening demand from traditional finance investors, who had accumulated ETH heavily in August and September. — link",
+    "timestamp": "2026-11-01 00:38:11+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/spot-ethereum-etfs-record-23-day-net-outflow-streak-21469"
+    ],
+    "score": "0.82",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 2921,
+    "text": "our mentality becomes our reality",
+    "timestamp": "2026-11-01 00:37:04+00:00",
+    "author": "admin#2325165654",
+    "channel_id": "y22_trades",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 2920,
+    "text": "wanted to post some melancholic poems about life and trading and the meaning of it all. but decided to cut the bullshit today. am an optimist now. believing in myself from now on.",
+    "timestamp": "2026-11-01 00:36:19+00:00",
+    "author": "admin#2325165654",
+    "channel_id": "y22_trades",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 2919,
+    "text": "comment section undefeated. am blessed",
+    "timestamp": "2026-11-01 00:33:23+00:00",
+    "author": "admin#2325165654",
+    "channel_id": "y22_trades",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 25439,
+    "text": "Trump: Iran wants to make a deal, we'll find out about that: BBG Source",
+    "timestamp": "2026-11-01 00:06:12+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/apewirenews/1615"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 9672,
+    "text": "TRUMP: LEARNING ABOUT BINANCE, NOT CONCERNED SOURCE",
+    "timestamp": "2026-11-01 00:05:18+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/PhoenixNewsImportant/1010"
+    ],
+    "score": "0.75",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 25438,
+    "text": "Trump: learning about Binance, not concerned Source",
+    "timestamp": "2026-11-01 00:05:17+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/PhoenixNewsImportant/1010"
+    ],
+    "score": "0.75",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 25437,
+    "text": "Binance hackers bridge $38M through Relay Protocol in 7 hours despite KYT controls Source",
+    "timestamp": "2026-10-31 23:30:21+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/exploits_t3/900"
+    ],
+    "score": "0.94",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 6362,
+    "text": "INTEL: OpenAI will train its models on security researchers' Daybreak Blue work even with training switched off The change starts Nov 29 and hits personal accounts. After backlash OpenAI promised an opt-out, but safety-flagged sessions can still be used Twitter | News",
+    "timestamp": "2026-10-31 23:06:14+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x/status/2116668095154606512",
+      "https://solidintel.news/"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24846,
+    "text": "FBI attributes $6 billion Binance crypto theft to North Korea, urges services to block linked addresses - fbi.gov LinkedIn · Discord · Leviathan · Source FBI · Theft · North Korea @w00tcake",
+    "timestamp": "2026-10-31 22:52:10+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327341?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7522432121089732608",
+      "https://leviathannews.xyz/redirect/327341?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327341?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327341?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/fbi?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/theft?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/north-korea?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": "0.93",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 26636,
+    "text": "FBI Attributes Over $6B Binance Hack to North Korea, Urges THORNode Operators and Other Crypto Service Providers to Block Money Laundering-Linked Transactions The FBI attributed the theft of more than $6 billion in crypto assets from Binance to North Korean hackers, identifying the malicious cyber activity as TraderTraitor. The FBI, US Secret Service (USSS), and IRS Criminal Investigation (IRS-CI) observed the attackers converting stolen assets primarily into ETH, with further laundering expected through DeFi and instant swap services. The agencies urged THORNode operators, RPC node operators, instant exchanges, DeFi services, blockchain analytics firms, and other virtual asset service providers to block transactions involving or derived from addresses used by the attackers to launder the stolen funds. The FBI also published a list of addresses operated by or closely linked to the attackers that currently hold or previously held stolen assets. — link",
+    "timestamp": "2026-10-31 22:01:55+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/fbi-links-6b-binance-hack-to-north-korea-urges-thornode-blocking-21468"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 9671,
+    "text": "FBI URGING DEFI PLATFORMS INCLUDING THORSWAP, RPC & DEFI OPERATORS TO BLOCK TRANSACTIONS FROM BINANCE EXPLOITERS: BLOG SOURCE",
+    "timestamp": "2026-10-31 21:53:47+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/AGGRNEWSWIRE/746"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 25436,
+    "text": "FBI urging defi platforms including thorswap, RPC & defi operators to block transactions from Binance exploiters: Blog Source",
+    "timestamp": "2026-10-31 21:53:46+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/AGGRNEWSWIRE/746"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 746,
+    "text": "FBI URGING DEFI PLATFORMS INCLUDING THORSWAP, RPC & DEFI OPERATORS TO BLOCK TRANSACTIONS FROM BINANCE EXPLOITERS: BLOG Link",
+    "timestamp": "2026-10-31 21:53:45+00:00",
+    "author": "admin#2241189018",
+    "channel_id": "AGGRNEWSWIRE",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/AggrNews/status/2116649852788523496"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 20507,
+    "text": "FBI: North Korea responsible for $6 billion+ Binance attack — link | AI comment",
+    "timestamp": "2026-10-31 21:31:11+00:00",
+    "author": "admin#1358788312",
+    "channel_id": "unfolded",
+    "platform": "telegram",
+    "links": [
+      "https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack",
+      "https://t.me/unfolded_bot?start=LTEwMDEzNTg3ODgzMTJfMjA1MDc"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 6361,
+    "text": "INTEL: North Korea responsible for stealing more than $6B in crypto from Binance | Per Reuters The attribution links the historic exchange hack to North Korean state-backed hackers. Twitter | News",
+    "timestamp": "2026-10-31 21:30:24+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x",
+      "https://solidintel.news/"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 25435,
+    "text": "FBI: North Korea was responsible for the theft of more than $6 billion USD in virtual assets from cryptocurrency exchange Binance - RTRS Source",
+    "timestamp": "2026-10-31 21:28:58+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/TreeNewsFeed/8185"
+    ],
+    "score": "0.91",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 8185,
+    "text": "FBI: NORTH KOREA WAS RESPONSIBLE FOR THE THEFT OF MORE THAN $6 BILLION USD IN VIRTUAL ASSETS FROM CRYPTOCURRENCY EXCHANGE BINANCE - RTRS",
+    "timestamp": "2026-10-31 21:28:56+00:00",
+    "author": "admin#1219306781",
+    "channel_id": "TreeNewsFeed",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.91",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 6360,
+    "text": "INTEL: Speculators pile nearly $1 billion into 3x leveraged Nasdaq 100 ETF after Friday's selloff It is the fifth largest single-day inflow on record, after $QQQ dropped 3.5% on Friday Twitter | News",
+    "timestamp": "2026-10-31 20:56:58+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x/status/2116635567085469828",
+      "https://solidintel.news/"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6359,
+    "text": "INTEL: US investment-grade bond sales set an annual record, passing the $1.75 trillion of 2020 | Per Bloomberg AI spending is driving the borrowing wave, with over $300 billion in AI-related investment-grade bonds issued globally so far in 2026, almost 3 times the total for all of 2025 Twitter | News | Full Story",
+    "timestamp": "2026-10-31 19:40:09+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x/status/2116616236276531673",
+      "https://solidintel.news/",
+      "https://solidintel.news/us-investment-grade-bond-sales-annual-record-ai/"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24845,
+    "text": "Binance says 90% of hacked funds now covered, plans to resume withdrawals Sunday - 𝕏/@binance LinkedIn · Discord · Leviathan · Source Hacked · $BNB · Binance @Danicjade via 𝕏",
+    "timestamp": "2026-10-31 19:18:26+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327258?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7522383052266807296",
+      "https://leviathannews.xyz/redirect/327258?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327258?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327258?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/hacked?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/bnb?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/binance?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://x.com/DanicHades/status/2116589964976673200"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 24844,
+    "text": "Uniswap opens TJAR fee-conversion framework to all apps after $15.3M month - 𝕏/@Uniswap LinkedIn · Discord · Leviathan · Source $UNI · Uniswap @Danicjade via 𝕏",
+    "timestamp": "2026-10-31 19:08:22+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327259?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7522419786753069057",
+      "https://leviathannews.xyz/redirect/327259?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327259?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327259?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/uni?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/uniswap?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://x.com/DanicHades/status/2116590058505392609"
+    ],
+    "score": "0.85",
+    "tags": [
+      "product",
+      "news"
+    ]
+  },
+  {
+    "id": 25434,
+    "text": "158.2M TRX ($49M) in stolen Binance Hack 2026 funds moved to unknown wallet Source",
+    "timestamp": "2026-10-31 18:52:45+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/exploits_t3/898"
+    ],
+    "score": "0.92",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 26635,
+    "text": "Chainalysis: Ethereum Reorg Triggers THORChain Emergency Pause, Delaying Laundering of Binance Hack Funds Blockchain analytics firm Chainalysis said an Ethereum chain reorganization on the morning of October 31 (EDT) caused THORChain to mistakenly issue a double refund to a user who had deposited 10 ETH, triggering an emergency pause. The pause blocked cross-chain swaps through most of THORChain's bridges for all users, including North Korean money launderers, inadvertently delaying the laundering of a significant amount of funds stolen from Binance. — link",
+    "timestamp": "2026-10-31 17:58:19+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/chainalysis-ethereum-reorg-thorchain-emergency-pause-delays-binance-hack-laundering-21467"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 16470,
+    "text": "BINANCE COMPLETES SAFU FUND TRANSFER OF 7,499 BTC (~$580M): X",
+    "timestamp": "2026-10-31 16:33:00+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 16469,
+    "text": "Price of Bitcoin on Halloween Day",
+    "timestamp": "2026-10-31 15:54:53+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 16468,
+    "text": "October 30th Rollup Research & Ideation • a16z: AI-Linked Layoffs Down ~90% • Vitalik Calls for \"Digital Minimalism\" • Konstantine: Will AI Kill the 9-5? • Tzedonn: The Crypto Endgame (Belief vs Cashflow Assets) • Ryan Watkins: Binance Hack May Mark the Climax of the Pullback • CZ On Why the $6.3B Binance Hack Had Little Impact on Bitcoin's Price Headlines • ICE and Trade[XYZ] Plan to Bring Hyperliquid-Based Perps to the U.S.",
+    "timestamp": "2026-10-31 15:53:45+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/16462",
+      "https://t.me/shoalresearch/16464",
+      "https://t.me/shoalresearch/16466",
+      "https://t.me/shoalresearch/16460",
+      "https://t.me/shoalresearch/16459",
+      "https://t.me/shoalresearch/16461",
+      "https://t.me/shoalresearch/2426",
+      "https://t.me/shoalresearch/16465"
+    ],
+    "score": "0.82",
+    "tags": [
+      "news",
+      "education"
+    ]
+  },
+  {
+    "id": 26634,
+    "text": "Binance: 90% of Stolen Assets Replenished; Withdrawals Set to Resume on Nov. 1 Binance announced that it has now replenished 90% of the stolen asset shortfall. The top ten major tokens—including BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD, and ZEC—are now 100% fully backed by reserves. The funding sources for this replenishment include: a partial deployment of the SAFU, reallocated balances from the Futures Insurance Fund exceeding regulatory and risk-management requirements, and Binance's own corporate treasury. Binance committed to subsequently replenishing SAFU back to approximately US$1 billion. Additionally, the exchange stated that withdrawal services remain on track to resume on November 1 as previously scheduled. According to Arkham on-chain data, Binance's SAFU fund transferred 7,499 BTC, worth approximately $581 million, from wallet 1BAuq to address 165Eur...SMmee at 10:51:41 a.m. EDT on October 31. Binance subsequently confirmed the transfer was complete. — link",
+    "timestamp": "2026-10-31 15:05:20+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://arkm.com/explorer/tx/774fcb97827d7ed2389447cc3ef3e1abcd024574cd745d2182cc0ec58e7914bd",
+      "https://wublockchain.xyz/news/news-21466"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 16467,
+    "text": "BINANCE REPLENISHES 90% OF STOLEN ASSETS, TOP 10 TOKENS NOW 100% BACKED: BINANCE",
+    "timestamp": "2026-10-31 14:38:00+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 25433,
+    "text": "Binance says 90% of $6.3B hack losses replenished, 10 major assets fully backed, withdrawals to resume Nov 1 Source",
+    "timestamp": "2026-10-31 14:35:02+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/exploits_t3/897"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 6357,
+    "text": "INTEL: Binance says 90% of $6.3B hack losses have been replenished, with 10 major assets fully backed - BTC, ETH, USDT, BNB, SOL, USDC, XRP, USD1, RLUSD and ZEC are now reportedly 100% backed. - The remaining 10% consists of less liquid tokens still being acquired through market and OTC channels. - Replenishment draws on SAFU, the Futures insurance fund and corporate treasury. A new Proof of Reserves snapshot was taken on October 31, with zero-knowledge verification expected by November 3. Withdrawals are scheduled to resume on November 1, while SAFU will be replenished to approximately $1B. Twitter | News",
+    "timestamp": "2026-10-31 14:32:16+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x",
+      "https://solidintel.news/"
+    ],
+    "score": "0.96",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 6356,
+    "text": "INTEL: Crypto industry spending on US midterms tops $200 million | Per CNBC Fairshake has backed 58 candidates in primaries or special elections, and 53 of them won Twitter | News",
+    "timestamp": "2026-10-31 13:54:54+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x/status/2116529348614209638",
+      "https://solidintel.news/"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 1327,
+    "text": "USDT on Binance P2P on Indonesian, Fillepenian, and Vietnamese Binance currently trading at a 4% discount. If you have access to any of these, it's a great arbitrage right now!",
+    "timestamp": "2026-10-31 13:50:14+00:00",
+    "author": "admin#2386871401",
+    "channel_id": "whoiskevinradar",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.85",
+    "tags": [
+      "product",
+      "education"
+    ]
+  },
+  {
+    "id": 25432,
+    "text": "zkLink cross-chain protocol exploited for $783K via transient storage flaw enabling forged batch roots and unauthorized withdrawals Source",
+    "timestamp": "2026-10-31 13:47:44+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/exploits_t3/896"
+    ],
+    "score": "0.95",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 6355,
+    "text": "INTEL: Nasdaq-listed Next Technology Holding $NXTT may sell $450 million in Bitcoin over Binance hack and quantum fears The company says none of its 5,833 BTC are held at Binance. It cited exchange security and quantum computing risks in authorizing sales or loans against the coins Twitter | News | Full Story",
+    "timestamp": "2026-10-31 12:53:25+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x/status/2116513878938927162",
+      "https://solidintel.news/",
+      "https://solidintel.news/next-technology-holding-bitcoin-sale-binance-hack-quantum/"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 1326,
+    "text": "Binance exploiter (0x5227f603c1ee34ce3c06efe6477003bdfccb2f8c) has been dusted a biblically absurd amount of times in the past 40 hours. 305 times.",
+    "timestamp": "2026-10-31 12:39:53+00:00",
+    "author": "admin#2386871401",
+    "channel_id": "whoiskevinradar",
+    "platform": "telegram",
+    "links": [],
+    "score": "0.75",
+    "tags": [
+      "security"
+    ]
+  },
+  {
+    "id": 16466,
+    "text": "Will AI Kill the 9-5? > AI could end the 9-to-5 workday, shifting work back to task-based, flexible schedules or pushing people toward working 24/7. > AI agents don't sleep, doesn't get drunk on Sundays, works at 2am or 3pm, whenever it is required to, and for the first time, intelligence is off the clock. Source:",
+    "timestamp": "2026-10-31 12:32:50+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/Konstantine/status/2116247778712252480"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 26633,
+    "text": "ICE Reposts Trade[XYZ] Partnership Announcement, Emphasizing \"Plans to Bring\" and \"Subject to Regulatory Approvals\" Following the deletion of its earlier post, Intercontinental Exchange (ICE) reposted its partnership announcement with Trade[XYZ]. In the updated post, ICE amended its phrasing to emphasize that the two parties \"plan to bring Hyperliquid-based perps to the U.S.\" and that operating \"U.S. regulated versions\" remains strictly \"subject to regulatory approvals,\" with both parties seeking approvals to launch a new market built on Hyperliquid to operate KYC-compliant perp markets, including approvals to support leveraged trading. — link",
+    "timestamp": "2026-10-31 12:32:07+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-21465"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "product",
+      "governance"
+    ]
+  },
+  {
+    "id": 25431,
+    "text": "Binance in talks with Malaysian regulators for a licence to return after five-year absence Source",
+    "timestamp": "2026-10-31 12:27:02+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://www.bloomberg.com/news/articles/2026-10-31/binance-in-talks-for-malaysia-license-after-five-year-absence"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 9670,
+    "text": "BINANCE IN TALKS FOR MALAYSIA LICENSE AFTER FIVE-YEAR ABSCENCE SOURCE",
+    "timestamp": "2026-10-31 12:08:10+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://www.bloomberg.com/news/articles/2026-10-31/binance-in-talks-for-malaysia-license-after-five-year-absence"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 16465,
+    "text": "New Post: ICE and Trade[XYZ] Plan to Bring Hyperliquid-Based Perps to the U.S. > \"Subject to regulatory approvals, ICE will operate U.S. regulated versions of Trade[XYZ]'s markets, leveraging their expertise as the leading deployer of RWA perps on Hyperliquid.\" Source:",
+    "timestamp": "2026-10-31 11:51:46+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/ICE_Markets/status/2116494325265674252"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 6354,
+    "text": "INTEL: Binance in talks with Malaysian regulators for a license after five years out of the market | Per Bloomberg Authorities in Malaysia have blocked Binance's website and apps Twitter | News",
+    "timestamp": "2026-10-31 11:47:28+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x/status/2116497278542233827",
+      "https://solidintel.news/"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 25430,
+    "text": "ICE reposts trade[xyz] partnership announcement, changes language to include \"plan to bring\" and \"subject to regulatory approvals\" Source",
+    "timestamp": "2026-10-31 11:42:12+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/BWEnews/16593"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 9669,
+    "text": "ICE REPOSTS TRADEXYZ PARTNERSHIP ANNOUNCEMENT, CHANGES LANGUAGE TO INCLUDE \"PLAN TO BRING\" AND \"SUBJECT TO REGULATORY APPROVALS\" SOURCE",
+    "timestamp": "2026-10-31 11:42:08+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/TreeNewsFeed/status/2116495932007088614"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "product"
+    ]
+  },
+  {
+    "id": 24843,
+    "text": "Weekend Read: Y Combinator runs GPT and Claude agents in Minecraft to study swarm dynamics and AI alignment - labs.ycombinator LinkedIn · Discord · Leviathan · Source y combinator · GPT · Claude @w00tcake",
+    "timestamp": "2026-10-31 11:00:51+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327108?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7522255991221129217",
+      "https://leviathannews.xyz/redirect/327108?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327108?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327108?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/3199/y-combinator?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathannews.xyz/t/1153/gpt?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/claude?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 25429,
+    "text": "Chainalysis confirms hack, organization role labels exposed; no evidence of password or MFA compromise Source",
+    "timestamp": "2026-10-31 10:59:04+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/exploits_t3/895"
+    ],
+    "score": "0.95",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 24842,
+    "text": "Cisco president gives 27-year-old unlimited AI tokens to refactor 98% of legacy code - Fortune LinkedIn · Discord · Leviathan · Source Cisco · AI Agents @w00tcake",
+    "timestamp": "2026-10-31 10:40:05+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327103?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7522268810633105409",
+      "https://leviathannews.xyz/redirect/327103?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327103?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327103?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/3202/cisco?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/ai-agents?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 6353,
+    "text": "INTEL: Iran's Mojtaba Khamenei orders immediate response to any enemy threat with no geographic limits Khamenei says Tehran will set the terms for ending any new conflict if enemies restart attacks Updates • Iran's supreme leader orders armed forces to boost ammunition and weapons production • Khamenei orders armed forces to add all US and Israeli assets within range to the target list Twitter | News",
+    "timestamp": "2026-10-31 10:39:20+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x/status/2116480133338931392",
+      "https://solidintel.news/"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 16464,
+    "text": "Vitalik Calls for \"Digital Minimalism\" in the Age of AI > \"Digital minimalism is about being intentional about ways that you access digital technology, making each use a conscious choice rather than something that you get sucked into by default.\" > \"Get the information benefits of the platform without getting sucked in to the vortex, which does operate on you in powerful subconscious ways that you may not realize.\" Source:",
+    "timestamp": "2026-10-31 10:27:57+00:00",
+    "author": "admin#1811915252",
+    "channel_id": "shoalresearch",
+    "platform": "telegram",
+    "links": [
+      "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 1324,
+    "text": "Binance withdrawals are working BTW, you just need to go through either fiat conversion or P2P, FYI.",
+    "timestamp": "2026-10-31 10:27:56+00:00",
+    "author": "admin#2386871401",
+    "channel_id": "whoiskevinradar",
+    "platform": "telegram",
+    "links": [],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 1323,
+    "text": "Binance hacker dumped $4.7M $PROM through an automated script into a $70 Uniswap pool and got $71 back, 5 hours ago. 4 searchers same-block MEV countered them and scooped a fat bag and walked away with 338 ETH ($758k).",
+    "timestamp": "2026-10-31 10:24:38+00:00",
+    "author": "admin#2386871401",
+    "channel_id": "whoiskevinradar",
+    "platform": "telegram",
+    "links": [
+      "https://etherscan.io/tx/0x38546f9087ba0eb8444965711eb64a89fe9f53e80cd6d416317c847308219164"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 25428,
+    "text": "Binance Co-CEO: Attackers used self-destruct mechanisms and EIP-7702 exploit to bypass controls in $6.3B hack investigation update Source",
+    "timestamp": "2026-10-31 10:03:46+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://t.me/exploits_t3/894"
+    ],
+    "score": "0.92",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 9668,
+    "text": "NAME[DOT]COM LIKELY TO BE COMPROMISED, LINKED TO STEP DRAINER FRONTEND ATTACK ON VARIOUS CRYPTO SITES SOURCE",
+    "timestamp": "2026-10-31 09:43:32+00:00",
+    "author": "admin#1683662707",
+    "channel_id": "iansintel",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/banteg/status/2116464795167944890"
+    ],
+    "score": "0.93",
+    "tags": [
+      "scam",
+      "security"
+    ]
+  },
+  {
+    "id": 25427,
+    "text": "Netlify DNS reportedly compromised, with attackers redirecting crypto apps to sites that drain wallets Source",
+    "timestamp": "2026-10-31 09:25:54+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/CloakdDev/status/2116455192417726886"
+    ],
+    "score": "0.92",
+    "tags": [
+      "scam",
+      "security"
+    ]
+  },
+  {
+    "id": 26632,
+    "text": "Chainalysis Hit by Cyberattack, Accessing User Names, Emails, and Organization Roles Blockchain data analytics and tracking firm Chainalysis disclosed that an external hacker used \"offensive agentic techniques\" to gain unauthorized access to its internal systems and tools, leading to the compromise of some non-sensitive customer data, including user IDs, full names, email addresses, and organization role labels. Chainalysis emphasized in an email that the security incident is unrelated to the recent crypto theft involving Binance. The current investigation has found no indication that investigative content (such as graphs, notes, or cases), transaction or query results, plaintext passwords, MFA secrets, or user session tokens were accessed. The team is actively determining the specific affected records while patching vulnerabilities and hardening system security. — link",
+    "timestamp": "2026-10-31 09:02:04+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/news-21464"
+    ],
+    "score": "0.90",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 6352,
+    "text": "INTEL: Wallet labeled as Binance hacker moves 120 million TRX worth $38.5 million The tokens were moved again within minutes and split across multiple addresses Data: Arkham Twitter | News",
+    "timestamp": "2026-10-31 08:28:03+00:00",
+    "author": "admin#2457358877",
+    "channel_id": "SolidIntelX",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/solidintel_x/status/2116447097239040494",
+      "https://solidintel.news/"
+    ],
+    "score": "0.88",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 24841,
+    "text": "Threshold pauses tBTC minting and redemptions as a security precaution - 𝕏/@TheTNetwork Discord · Leviathan · Source $tBTC · Threshold · Bitcoin @Danicjade via 𝕏",
+    "timestamp": "2026-10-31 07:56:44+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327077?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/327077?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327077?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327077?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/279/tbtc?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathannews.xyz/t/259/threshold?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/bitcoin?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://x.com/DanicHades/status/2116430048622198890"
+    ],
+    "score": "0.85",
+    "tags": [
+      "security",
+      "product"
+    ]
+  },
+  {
+    "id": 26631,
+    "text": "Highlight Clip: Trump on Binance Hack: Says He Has Long Been Wary of Digital Money Risks Trump on Binance Hack: Says He Has Long Been Wary of Digital Money Risks On October 30, President Donald Trump addressed Binance's reported $6.3 billion crypto theft during a press exchange in the White House Oval Office. Asked whether North Korea was responsible, Trump said the U.S. was still investigating. He added that Binance claimed it would recover the stolen funds and had the situation largely under control, but cautioned, \"We'll see.\" Comparing digital transactions with traditional paper checks, Trump said people no longer see their money physically and that he had always considered this \"a little bit dangerous.\" — link",
+    "timestamp": "2026-10-31 07:51:02+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/WuBlockchain/status/2116437289220055426",
+      "https://wublockchain.xyz/news/news-21463"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 24840,
+    "text": "Vitalik Buterin calls for digital minimalism, arguing that local AI, offline applications and decentralized social platforms can reduce dependence on centralized services. - 𝕏/@VitalikButerin LinkedIn · Discord · Leviathan · Source Vitalik Buterin @Danicjade via Tsunami",
+    "timestamp": "2026-10-31 07:46:41+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327076?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7522212989777743872",
+      "https://leviathannews.xyz/redirect/327076?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327076?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327076?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/vitalik-buterin?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://t.me/LeviathanTsunami/73801"
+    ],
+    "score": "0.80",
+    "tags": [
+      "news",
+      "education"
+    ]
+  },
+  {
+    "id": 24839,
+    "text": "Blockaid alerts users to frontend attack serving Step Drainer across flap.sh, Kintsu and 10 other dApps - 𝕏/@blockaid_ LinkedIn · Discord · Leviathan · Source Blockaid @Danicjade via 𝕏",
+    "timestamp": "2026-10-31 07:36:37+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327079?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://www.linkedin.com/feed/update/urn:li:share:7522201187367088128",
+      "https://leviathannews.xyz/redirect/327079?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327079?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327079?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/t/882/blockaid?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://x.com/DanicHades/status/2116430339547464142"
+    ],
+    "score": "0.95",
+    "tags": [
+      "security",
+      "scam"
+    ]
+  },
+  {
+    "id": 25425,
+    "text": "Recall Network shuts down after concluding its AI agent evaluation protocol is no longer commercially viable due to limited adoption and costs They raised roughly ~$42 million in total led by Multicoin Capital and Union Square Ventures in 2022 Source",
+    "timestamp": "2026-10-31 06:50:32+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/recallnet/status/2116234988601704457?a=jsjIldrUAf8QQ4TO9J8&s=46"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news"
+    ]
+  },
+  {
+    "id": 25426,
+    "text": "Iron Fish shuts down after an attacker exploited a Merkle tree inflation bug that enabled double-spending They raised $33 million in total led by A16z in 2021 Source",
+    "timestamp": "2026-10-31 06:50:32+00:00",
+    "author": "admin#1742094092",
+    "channel_id": "ahboyashreads",
+    "platform": "telegram",
+    "links": [
+      "https://x.com/ironfishcrypto/status/2116278010802586090?a=nzOv72jmhrmuX2gmwso&s=46"
+    ],
+    "score": "0.90",
+    "tags": [
+      "security",
+      "news"
+    ]
+  },
+  {
+    "id": 26630,
+    "text": "Ethereum Block Builder Titan Builder Briefly Tops 24-Hour Protocol Revenue Rankings With $22.83M, Surpassing Tether According to DeFiLlama, Ethereum block builder Titan Builder briefly ranked first in 24-hour protocol revenue with $22.83 million, surpassing Tether. DeFiLlama co-founder 0xngmi said Titan Builder generated approximately $24.7 million in fees over the same period, an unusually high figure that DeFiLlama's systems initially flagged and blocked as a data error. He attributed the surge in MEV activity to arbitrage opportunities created by hacker-related market disruptions and widespread panic. — link",
+    "timestamp": "2026-10-31 06:48:29+00:00",
+    "author": "admin#1534592031",
+    "channel_id": "wublockchainenglish",
+    "platform": "telegram",
+    "links": [
+      "https://wublockchain.xyz/news/ethereum-block-builder-titan-briefly-tops-24h-protocol-revenue-22-83m-21462"
+    ],
+    "score": "0.85",
+    "tags": [
+      "news",
+      "security"
+    ]
+  },
+  {
+    "id": 24838,
+    "text": "Proton denies AI tracking rumors, promises to open source internal AI tools and publish its AI policies - 𝕏/@ProtonPrivacy Discord · Leviathan · Source AI · Open Source @JLJohn",
+    "timestamp": "2026-10-31 06:02:39+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327057?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/327057?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327057?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327057?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/ai?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://leviathan.news/atlas/open-source?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip"
+    ],
+    "score": NaN,
+    "tags": NaN
+  },
+  {
+    "id": 24837,
+    "text": "Factory acquires Typedef to give Droids clearer data lineage and evidence - 𝕏/@factory Discord · Leviathan · Source Acquisition @JLJohn via 𝕏",
+    "timestamp": "2026-10-31 05:52:36+00:00",
+    "author": "admin#1923526882",
+    "channel_id": "leviathan_news",
+    "platform": "telegram",
+    "links": [
+      "https://leviathannews.xyz/redirect/327055?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathannews.xyz/redirect/327055?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&to=discord",
+      "https://leviathannews.xyz/redirect/327055?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882",
+      "https://leviathannews.xyz/redirect/327055?utm_source=telegram&utm_medium=channel&utm_campaign=approved&ch=-1001923526882&skip_landing=true",
+      "https://leviathan.news/atlas/acquisition?utm_source=telegram&utm_medium=post&utm_campaign=tag_chip",
+      "https://x.com/JohnJL18/status/2116381146602955181"
+    ],
+    "score": NaN,
+    "tags": NaN
+  }
+]
