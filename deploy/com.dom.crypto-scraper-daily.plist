@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Daily crypto Telegram scrape via launchd. Replaces the GitHub Actions cron AND the
+  com.dom.daily-scraper-sync rsync job. Writes JSON straight into
+  /Users/dom/CoWork/morning-briefing/crypto-tg-news/ for the CoWork crypto-tg-intel task (08:50).
+
+  Fires at 08:00 Mac-local time. When travelling (e.g. WITA), it still runs 50 min
+  before the 08:50 briefing because both follow the Mac clock; file dates stay WIB.
+
+  Install:
+    cp deploy/com.dom.crypto-scraper-daily.plist ~/Library/LaunchAgents/
+    launchctl load ~/Library/LaunchAgents/com.dom.crypto-scraper-daily.plist
+    launchctl start com.dom.crypto-scraper-daily     # test run now
+-->
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.dom.crypto-scraper-daily</string>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/bin:/bin</string>
+        <key>TZ</key>
+        <string>Asia/Jakarta</string>
+    </dict>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>/Users/dom/Coding/daily-scraper/scripts/run_daily.sh</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>8</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    <key>StandardOutPath</key>
+    <string>/tmp/crypto-scraper-daily.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/crypto-scraper-daily.log</string>
+</dict>
+</plist>

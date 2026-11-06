@@ -56,9 +56,14 @@ async def main():
             ensure_ascii=False,
             default=str
         )
+        # Date the file in the process's local TZ; the launchd job pins TZ=Asia/Jakarta
+        # so the name stays a WIB date even when the Mac is in another timezone.
         today = datetime.now().strftime("%Y-%m-%d")
-        os.makedirs("out", exist_ok=True)
-        output_path = f"out/{today}-crypto_tg_news.json"
+        # OUTPUT_DIR lets the local launchd run write straight into the CoWork folder
+        # (no git, no rsync). Defaults to repo out/ for manual/CI runs.
+        out_dir = os.getenv("OUTPUT_DIR", "out")
+        os.makedirs(out_dir, exist_ok=True)
+        output_path = os.path.join(out_dir, f"{today}-crypto_tg_news.json")
 
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(json_output)

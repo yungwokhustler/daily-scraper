@@ -1,8 +1,9 @@
 name: Daily Web3 Message Scraper & Classifier
 
+# Schedule removed 2026-11-06: GH ran the 00:05 UTC cron ~6h late (≈13:00 WIB), so the
+# 08:50 WIB briefing always got yesterday's file. The daily run is now local
+# (launchd com.dom.crypto-scraper-daily, see deploy/). Manual dispatch kept as a fallback.
 on:
-  schedule:
-    - cron: '5 0 * * *'  # 00:05 UTC. Target push <0820 WIB before the 0840 local sync; GH Actions adds ~50-70min delay
   workflow_dispatch:
 
 permissions:
@@ -37,7 +38,6 @@ jobs:
           NOTIF_BOT_TOKEN: ${{ secrets.NOTIF_BOT_TOKEN }}
           NOTIF_CHAT_ID: ${{ secrets.NOTIF_CHAT_ID }}
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
-          ELFA_API_KEY: ${{ secrets.ELFA_API_KEY }}
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
 
