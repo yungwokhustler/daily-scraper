@@ -42,8 +42,8 @@ ENV/
 Thumbs.db
 
 # Telegram session files (PENTING!)
-#*.session
-#*.session-journal
+*.session
+*.session-journal
 
 # Output data
 results/
